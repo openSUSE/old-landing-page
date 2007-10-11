@@ -68,8 +68,8 @@ a img {border: 0;}
 	border-bottom: 1px solid #eee;
 }
 #sponsor_divtable {
-	min-width: 100px;
-	width: 200px;
+	min-width: 300px;
+	width: 300px;
 	max-width: 740px;
 	margin:0 auto;
 }
@@ -92,6 +92,9 @@ a img {border: 0;}
 	text-align: center;
 	}
 
+#sponsor_logo img {
+	margin-right: 1em;
+}
 
 /*********
  * boxes *
