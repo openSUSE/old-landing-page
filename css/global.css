@@ -64,12 +64,13 @@ a img {border: 0;}
 #sponor_wrapper {
 	width: 45em;
 	height: 50px;
+	height: 60px;
 	margin: 0 auto 5px;
 	border-bottom: 1px solid #eee;
 }
 #sponsor_divtable {
-	min-width: 300px;
-	width: 300px;
+	min-width: 350px;
+	width: 350px;
 	max-width: 740px;
 	margin:0 auto;
 }
