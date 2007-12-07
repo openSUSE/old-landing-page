@@ -222,6 +222,7 @@ a img {border: 0;}
 	width: 10em;
 	border: 1px solid #86A931;
 	background-color: white; /* important for Opera */
+	color: #333;
 }
 
 /* right-box ===================================================== */
