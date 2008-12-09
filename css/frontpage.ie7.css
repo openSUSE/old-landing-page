@@ -1,0 +1,9 @@
+/**
+ * additional stylesheet for Microsoft Internet Explorer 7, defines deviations from frontpage.css
+ *
+ * keep in mind: broken browsers get broken stylesheets
+ */
+
+.centered {
+	width: 760px !important;
+}

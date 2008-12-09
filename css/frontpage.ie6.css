@@ -1,0 +1,43 @@
+/**
+ * additional stylesheet for Microsoft Internet Explorer 6, defines deviations from frontpage.css
+ *
+ * keep in mind: broken browsers get broken stylesheets
+ */
+
+#search form div.searchbox {
+	width: 340px;
+}
+
+#search form input.searchbutton {
+	display: none;
+}
+
+
+#quicklinks a {
+	background-image: none !important;
+}
+
+
+#quicklinks a .top {
+	background-image: none !important;
+}
+
+
+#quicklinks a .bottom {
+	background-image: none !important;
+}
+
+
+#spon h2 {
+	display: none;
+}
+
+#spon ul {
+	position: relative;
+	left: 50%;
+	margin: 0px 0px 0px -120px;
+}
+
+.centered {
+	width: 760px !important;
+}
