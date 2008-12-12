@@ -7,10 +7,11 @@
  * @author Andreas Demmer <mail@andreas-demmer.de>
  */
 
-define ('PATH_SCREENSHOTS_LARGE', '../images/screenshots/zoom/');
-define ('PATH_SCREENSHOTS_SMALL', '../images/screenshots/thumbs/');
+define ('LOCAL_PATH_SCREENSHOTS', '../images/screenshots/thumbs/');
+define ('PATH_SCREENSHOTS_LARGE', 'http://static.opensuse.org/hosts/www.o.o/images/screenshots/zoom/');
+define ('PATH_SCREENSHOTS_SMALL', 'http://static.opensuse.org/hosts/www.o.o/images/screenshots/thumbs/');
 
-$dir = dir (PATH_SCREENSHOTS_SMALL);
+$dir = dir (LOCAL_PATH_SCREENSHOTS);
 $screenshots = array ();
 
 while ($file = $dir->read()) {

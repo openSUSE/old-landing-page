@@ -57,7 +57,7 @@
     width: 30px;
     height: 40px;
     cursor: pointer;
-    background: transparent url(../images/jcarousel_skins/opensuse/next-horizontal.png) no-repeat 0 0;
+    background: transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/next-horizontal.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-opensuse .jcarousel-next-horizontal:hover {
@@ -82,7 +82,7 @@
     width: 30px;
     height: 40px;
     cursor: pointer;
-    background: transparent url(../images/jcarousel_skins/opensuse/prev-horizontal.png) no-repeat 0 0;
+    background: transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/prev-horizontal.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-opensuse .jcarousel-prev-horizontal:hover {
@@ -110,7 +110,7 @@
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(../images/jcarousel_skins/opensuse/next-vertical.png) no-repeat 0 0;
+    background: transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/next-vertical.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-opensuse .jcarousel-next-vertical:hover {
@@ -135,7 +135,7 @@
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(../images/jcarousel_skins/opensuse/prev-vertical.png) no-repeat 0 0;
+    background: transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/prev-vertical.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-opensuse .jcarousel-prev-vertical:hover {

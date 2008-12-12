@@ -29,9 +29,9 @@ function insertZoomHTML() {
 	// ZOOM IMAGE
 	//
 	// <div id="ZoomBox">
-	//   <a href="javascript:zoomOut();"><img src="/images/spacer.gif" id="ZoomImage" border="0"></a> <!-- THE IMAGE -->
+	//   <a href="javascript:zoomOut();"><img src="http://static.opensuse.org/hosts/www.o.o/images/spacer.gif" id="ZoomImage" border="0"></a> <!-- THE IMAGE -->
 	//   <div id="ZoomClose">
-	//     <a href="javascript:zoomOut();"><img src="/images/closebox.png" width="30" height="30" border="0"></a>
+	//     <a href="javascript:zoomOut();"><img src="http://static.opensuse.org/hosts/www.o.o/images/closebox.png" width="30" height="30" border="0"></a>
 	//   </div>
 	// </div>
 	
@@ -112,9 +112,9 @@ function insertZoomHTML() {
 		
 		// <div id="ShadowBox"><table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0"> X
 		//   <tr height="25">
-		//   <td width="27"><img src="/images/zoom-shadow1.png" width="27" height="25"></td>
+		//   <td width="27"><img src="http://static.opensuse.org/hosts/www.o.o/images/zoom-shadow1.png" width="27" height="25"></td>
 		//   <td background="/images/zoom-shadow2.png">&nbsp;</td>
-		//   <td width="27"><img src="/images/zoom-shadow3.png" width="27" height="25"></td>
+		//   <td width="27"><img src="http://static.opensuse.org/hosts/www.o.o/images/zoom-shadow3.png" width="27" height="25"></td>
 		//   </tr>
 		
 		var inShadowTable = document.createElement("table");
@@ -206,9 +206,9 @@ function insertZoomHTML() {
 		inCol6.appendChild(inSpacer4);
 		
 		//   <tr height="26">
-		//   <td width="27"><img src="/images/zoom-shadow6.png" width="27" height="26"</td>
+		//   <td width="27"><img src="http://static.opensuse.org/hosts/www.o.o/images/zoom-shadow6.png" width="27" height="26"</td>
 		//   <td background="/images/zoom-shadow7.png">&nbsp;</td>
-		//   <td width="27"><img src="/images/zoom-shadow8.png" width="27" height="26"></td>
+		//   <td width="27"><img src="http://static.opensuse.org/hosts/www.o.o/images/zoom-shadow8.png" width="27" height="26"></td>
 		//   </tr>  
 		// </table>
 		

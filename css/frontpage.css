@@ -18,7 +18,7 @@ h1 {
 
 	/*
 	margin: 0px;
-	background-image: url(../images/frontpage/opensuse_sticker.jpg);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/opensuse_sticker.jpg);
 	*/
 
 	background-image: url(http://counter.opensuse.org/11.1/medium);
@@ -65,7 +65,7 @@ img {
 #search {
 	height: 40px;
 	background-color: #e0e0e0;
-	background-image: url(../images/frontpage/box_search.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_search.png);
 	background-position: bottom left;
 }
 
@@ -82,7 +82,7 @@ img {
 	width: 360px;
 	background-color: white;
 	border: 1px solid #999;
-	background-image: url(../images/frontpage/searchbox_bg.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/searchbox_bg.png);
 	background-repeat: repeat-y;
 
 }
@@ -107,16 +107,16 @@ img {
 }
 
 #search form div.select .green {
-	background-image: url(../images/frontpage/geeko_green.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/geeko_green.png);
 }
 
 #search form div.select .orange {
-	background-image: url(../images/frontpage/geeko_orange.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/geeko_orange.png);
 }
 
 #search form div.select div {
 	height: 20px;
-	background-image: url(../images/frontpage/searchbox_arrow.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/searchbox_arrow.png);
 	background-repeat: no-repeat;
 	background-position: 2px 8px;
 	padding: 0px 0px 0px 12px;
@@ -225,7 +225,7 @@ img {
 	color: white;
 	font-size: 0.8em;
 	text-decoration: none;
-	background-image: url(../images/frontpage/box_border_middle.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_border_middle.png);
 	background-repeat: repeat-y;
 }
 
@@ -238,11 +238,11 @@ img {
 
 #quicklinks li a span.top {
 	float: left;
-	background-image: url(../images/frontpage/box_border_top.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_border_top.png);
 }
 
 #quicklinks li a span.bottom {
-	background-image: url(../images/frontpage/box_border_bottom.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_border_bottom.png);
 }
 
 #quicklinks li a span.buttontext {
@@ -266,7 +266,7 @@ img {
 }
 
 #quicklinks #get .buttontext {
-	background-image: url(../images/frontpage/box_content_get.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_content_get.png);
 }
 
 #quicklinks #discover a {
@@ -278,7 +278,7 @@ img {
 }
 
 #quicklinks #discover .buttontext {
-	background-image: url(../images/frontpage/box_content_discover.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_content_discover.png);
 }
 
 #quicklinks #create a {
@@ -290,7 +290,7 @@ img {
 }
 
 #quicklinks #create .buttontext {
-	background-image: url(../images/frontpage/box_content_create.png);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/box_content_create.png);
 }
 
 #screenshots {
@@ -313,12 +313,12 @@ img {
 	width: 179px;
 	height: 29px;
 	margin-left: 30px;
-	background-image: url(../images/frontpage/button_screenshots_show.jpg);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/button_screenshots_show.jpg);
 	background-position: 0px 0px;
 }
 
 #toggle_screenshots.expanded {
-	background-image: url(../images/frontpage/button_screenshots_hide.jpg);
+	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/button_screenshots_hide.jpg);
 }
 
 #toggle_screenshots:hover {
