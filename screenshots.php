@@ -15,7 +15,7 @@ foreach ($screenshots as $screenshot) {
 	$html .= '<li>';
 	$html .= '<h2>' . $screenshot->description . '</h2>';
 	$html .= '<a href="' . $screenshot->file_large . '" target="_blank">';
-	$html .= '<img src="en/' . $screenshot->file_small . '" />';
+	$html .= '<img src="' . $screenshot->file_small . '" />';
 	$html .= '</a>';
 	$html .= "</li>\n";
 }
