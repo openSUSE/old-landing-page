@@ -11,8 +11,8 @@
     <!--[if IE 7]>
 	  <link rel="Stylesheet" rev="Stylesheet" href="http://static.opensuse.org/hosts/www.o.o/css/frontpage.ie7.css" type="text/css" media="screen" />
 	<![endif]-->
-	<link href="/css/jquery.jcarousel.css" rel="stylesheet" type="text/css" media="screen" />
-    <link href="/css/jquery.jcarousel.skin.opensuse.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.skin.opensuse.css" rel="stylesheet" type="text/css" media="screen" />
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery-1.2.6.min.js"></script>
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.selectbox.js"></script>
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.dimensions.js"></script>
