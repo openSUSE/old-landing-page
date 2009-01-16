@@ -32,9 +32,9 @@
             <input type="hidden" name="language" value="en" />
             <select id="searchscope" name="searchscope">
             <option value="blogs">busque en blogs</option>
-            <option value="news">busque en las noticias</option>
-            <option value="software">busque software</option>
-            <option value="wiki" selected="selected">busque en la seccion de ayuda</option>
+            <option value="news">buscar noticias</option>
+            <option value="software">buscar software</option>
+            <option value="wiki" selected="selected">busque en la secci&oacute;n de ayuda</option>
             </select>
             <input type="text" name="searchstring" class="textfield" />
             <input type="image" alt="ir" title="ir" class="searchbutton" src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
@@ -49,11 +49,11 @@
         <div id="intro" class="left minor_column">
           <h1 title="openSUSE"><span>openSUSE</span></h1>
           <p class="first">
-            <strong>openSUSE</strong> es un sistema operativo libre
-            basado en Linux para su PC, Laptop o Servidor. Usted puede
-            navegar por la red, trabajar con sus correos electr&oacute;nicos
-            y fotos, realizar trabajo de oficina, ver videos o escuchar
-            m&uacute;sica y <em>have a lot of fun!</em>
+            <strong>openSUSE</strong>
+            es un sistema operativo libre basado en Linux para tu PC, port&aacute;til o
+			servidor. Puedes navegar en la Web, gestionar tu correo electr&oacute;nico y fotos,
+			hacer trabajo de oficina, reproducir videos o m&uacute;sica y
+            <em>have a lot of fun!</em>
           </p>
         </div>
         <ul id="quicklinks" class="right major_column">
@@ -62,7 +62,7 @@
               <span class="top">&nbsp;</span>
               <span class="buttontext">
                 <strong>Get it: </strong>
-                Baje OpenSUSE o encuentre aplicaciones de software adicionales.
+                Descarga openSUSE o encuentra software adicional
               </span>
               <span class="bottom clear">&nbsp;</span>
             </a>
@@ -72,8 +72,7 @@
               <span class="top">&nbsp;</span>
               <span class="buttontext">
                 <strong>Discover it: </strong>
-                Aprenda m&aacute;s acerca de OpenSUSE con tutoriales,
-                documentacion y mucho mas.
+                Aprende m&aacute;s sobre openSUSE con tutoriales, documentaci&oacute;n, y &#161;mucho m&aacute;s!
               </span>
               <span class="bottom clear">&nbsp;</span>
              </a>
@@ -83,8 +82,7 @@
               <span class="top">&nbsp;</span>
               <span class="buttontext">
                 <strong>Create it: </strong>
-                 Compile aplicaciones de software para todas las grandes distribuciones
-                 de Linux con nuestro BuildService.
+                 Crea paquetes para las distribuciones de Linux m&aacute;s importantes con el Build Service
               </span>
               <span class="bottom clear">&nbsp;</span>
             </a>
@@ -106,7 +104,7 @@
         </div>
         <hr class="hidden" />
         <div id="news" class="right minor_column">
-          <h2>Noticias &amp; Eventos</h2>
+          <h2>Noticias y eventos</h2>
           <p id="rss">
             <a href="http://news.opensuse.org/feed/">
               <img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/rss_icon.png" alt="RSS newsfeed" title="RSS newsfeed" />
@@ -116,32 +114,30 @@
         </div>
         <hr class="right minor_column" />
         <div id="help" class="right minor_column">
-          <h2>Ayuda &amp; Soporte</h2>
+          <h2>Ayuda y asistencia</h2>
           <p>
             <a href="http://forums.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="ayuda" title="ayuda" /></a>
 			&iexcl;Nuestros <a href="http://forums.opensuse.org/">foros</a> son el primer lugar
-			al que debe ir si quiere respuestas a sus preguntas sobre OpenSUSE!
+			al que tienes que ir si quieres respuestas a tus preguntas sobre OpenSUSE!
 		  </p>
 		  <p>
-		    &iquest;Le gustaria hablar de OpenSUSE, participar en su desarrollo,
-		    o contribuir de alguna otra manera?
-		    &iexcl;Unase a nuestras <a href="http://en.opensuse.org/Communicate/Mailinglists">listas de correo</a>!
+		    &#191;Quieres hablar sobre openSUSE, participar en el desarrollo o contribuir de otra forma?
+		    Ap&uacute;ntate a una de las <a href="http://en.opensuse.org/Communicate/Mailinglists">listas de correo</a>.
           </p>
         </div>
         <hr class="right minor_column" />
         <div id="shop" class="right minor_column">
-          <h2>La tienda openSUSE</h2>
+          <h2>Tienda openSUSE</h2>
           <p>
             <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="La tienda openSUSE" title="La tienda openSUSE" /></a>
-          	 Nuesta <a href="http://shop.opensuse.org/">tienda</a>
-          	 es el lugar donde puede encontrar productos openSUSE oficiales.
-          	 Camisetas, tazas, gorros, maletines y mucho m&aacute;s.
+          	 La <a href="http://shop.opensuse.org/">tienda</a>
+          	 es el lugar donde encontrar&aacute;s productos oficial de openSUSE.
+			 Camisetas, tazas, gorras, bandoleras y mucho m&aacute;s.
            </p>
-           <p>
-          	Ademas, tenemos una tienda
-          	<a href="http://shop.opensuse.org/shop-us.html">en las Am&eacute;ricas</a> y otra
-          	<a href="http://shop.opensuse.org/shop-eu.html">para Europa y Asia</a>.
-          </p>
+           <ul>
+          	<li><a href="http://shop.opensuse.org/shop-us.html">Tienda para las Am&eacute;ricas</a>
+          	<li><a href="http://shop.opensuse.org/shop-eu.html">Tienda para Europa y Asia</a>.
+          </ul>
         </div>
       </div>
       <span class="clear">&nbsp;</span>
@@ -149,12 +145,12 @@
     <hr id="footer_start" class="centered" />
     <div class="centered">
         <ul id="network" class="left">
-	    <li><a href="http://software.opensuse.org/">Ir Software</a></li>
+	    <li><a href="http://software.opensuse.org/">Software</a></li>
 	    <li><a href="http://en.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
-	    <li><a href="http://users.opensuse.org/">Directorio del usuarios</a></li>
-	    <li><a href="http://news.opensuse.org/">Novedades</a></li>
-	    <li><a href="http://forums.opensuse.org/">Foro</a></li>
+	    <li><a href="http://users.opensuse.org/">Directorio de usuarios</a></li>
+	    <li><a href="http://news.opensuse.org/">Noticias</a></li>
+	    <li><a href="http://forums.opensuse.org/">Foros</a></li>
 	    <li><a href="http://shop.opensuse.org/">Tienda</a></li>
 	    <li><a href="http://lizards.opensuse.org/">Blogs</a></li>
       </ul>
