@@ -123,15 +123,17 @@ initializeGallery = function (data) {
 
 	/* convert json string to markup and write to DOM */
 	$.each(data, function(i, screenshot) {
-		markup = '<li><a href="' + screenshot.file_large + '" title="' + screenshot.description + '"><img src="' + screenshot.file_small + '" width="200" height="150" /></a></li>';
+		markup = '<li><a href="' + screenshot.file_large + '" title="' + screenshot.description + '" rel="group1"><img src="' + screenshot.file_small + '" width="200" height="150" /></a></li>';
 		$('#screenshot_gallery').append(markup);
 	});
 
 	/* add gallery slider, reflections and ZoomBox */
 	$('#screenshot_gallery').jcarousel();
+	$("#screenshots a").fancybox({
+			'overlayShow': true
+	});
 
-	 setupZoom();
-	 screenshotGalleryInitialized = 1;
+	screenshotGalleryInitialized = 1;
 }
 
 /*
