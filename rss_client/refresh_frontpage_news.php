@@ -17,7 +17,7 @@ $html = "<ul>\n";
 
 for ($i = 1; $i <= AMOUNT_NEWS; $i++) {
 	$item = array_shift ($items);
-	$title = strip_tags ($item['title']);
+	$title = utf8_decode (strip_tags ($item['title']));
 	$timestamp = strtotime($item['pubDate']);
 	$dateString = date ('M d', $timestamp);
 
