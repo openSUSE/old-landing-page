@@ -15,13 +15,13 @@ h1 {
 	float: left;
 	width: 255px;
 	height: 255px;
+
+/*
 	margin: 0px;
 	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/opensuse_sticker.jpg);
-
-	/*
-	background-image: url(http://counter.opensuse.org/11.1/medium);
+*/
+	background-image: url(http://counter.opensuse.org/11.2/medium);
 	margin: 22px 0px 10px 0px;
-	*/
 }
 
 h1 span {
