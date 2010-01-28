@@ -1,0 +1,10 @@
+This are the sources for the www.opensuse.org startpage. 
+
+The page is hosted at Novell: 130.57.4.24 (mehle@novell)
+it includes some static files from: http://static.opensuse.org/hosts/www.o.o (fsundermeyer@suse)
+
+so both systems need to be updated on changes. The sources are hosted at: https://svn.berlios.de/svnroot/repos/opensuse/trunk/infrastructure/www.o.o/
+
+The page uses SSI includes, a wysiwyg editor for the hot_stuff part, and a cronjob that creates the news part. 
+
+After deploying, please run fix_permissions.sh to make the files writeable for the editor. 
