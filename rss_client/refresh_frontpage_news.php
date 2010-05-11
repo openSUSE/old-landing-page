@@ -5,8 +5,7 @@
  * @author Andreas Demmer <mail@andreas-demmer.de>
  */
 
-//define ('CONTENT_FILE', $_SERVER['DOCUMENT_ROOT'] . '/news.html');
-define ('CONTENT_FILE', 'news.html');
+define ('CONTENT_FILE', $_SERVER['DOCUMENT_ROOT'] . '/news.html');
 define ('AMOUNT_NEWS', 5);
 
 require_once 'magpierss-0.72/rss_fetch.inc';
