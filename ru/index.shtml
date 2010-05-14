@@ -22,6 +22,16 @@
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.fancybox-1.0.0.js"></script>
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/ie6_pngfix.js"></script>
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/frontpage.js"></script>
+	<script type="text/javascript" src="http://www.google-analytics.com/ga.js"/>
+<script type="text/javascript">
+//<![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3367212-3");
+pageTracker._setDomainName(".opensuse.org");
+pageTracker._trackPageview();
+} catch(err) {}
+//]]>  
+</script>
     <link rel="alternate" type="application/rss+xml" title="openSUSE news &amp; events" href="http://news.opensuse.org/feed/" />
   </head>
   <body>
@@ -236,22 +246,5 @@
 	    </a>
 	  </p>
     </div>
-    <script type="text/javascript">
-   //<![CDATA[
-   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl
-   ." : "http://www.");
-   document.write(unescape("%3Cscript src='" + gaJsHost + "google- 
-   analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-   //]]>
-  </script>
-  <script type="text/javascript">
-//   <![CDATA[
-   try {
-   var pageTracker = _gat._getTracker("UA-3367212-3");
-   pageTracker._setDomainName(".opensuse.org");
-   pageTracker._trackPageview();
-   } catch(err) {}
-   //]]>
-  </script>
 </body>
 </html>
