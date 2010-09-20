@@ -20,7 +20,8 @@ h1 {
 	margin: 0px;
 	background-image: url(http://static.opensuse.org/hosts/www.o.o/images/frontpage/opensuse_sticker.jpg);
 */
-	background-image: url(http://counter.opensuse.org/11.3/medium);
+/*  background-image: url(http://counter.opensuse.org/11.3/medium);*/
+	background-image: url(http://counter.opensuse.org/conf/2010/medium.png);
 	margin: 22px 0px 10px 0px;
 }
 
