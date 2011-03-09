@@ -15,7 +15,7 @@ date_default_timezone_set( 'UTC' );
 
 $html = "<ul>\n";
 
-for ($i = 1; $i <= AMOUNT_NEWS; $i++) {
+for ($i = 0; $i < AMOUNT_NEWS; $i++) {
         $item = $rss->items[$i];
 	$dateString = date ('M d', $item['date_timestamp']);
 
