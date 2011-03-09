@@ -11,7 +11,11 @@ $jsonUrl = 'http://' . $_SERVER['HTTP_HOST'] . '/screenshot_gallery/service.php'
 $jsonString = file_get_contents($jsonUrl);
 
 if ((bool)$jsonString) {
-	file_put_contents (CONTENT_FILE, $jsonString);
+	if (!file_put_contents (CONTENT_FILE, $jsonString)) {
+            echo "Couldn't write file!";
+        } else {
+            echo $jsonString;
+        }
 } else {
 	echo 'FAILURE: empty reply from JSON service';
 }
