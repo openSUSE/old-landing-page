@@ -154,6 +154,7 @@
 	    <li><a href="http://forums.opensuse.org/">Forums</a></li>
 	    <li><a href="http://shop.opensuse.org/">Shop</a></li>
 	    <li><a href="http://lizards.opensuse.org/">Blogs</a></li>
+            <li><a href="mailto:press@opensuse.org">Press</a></li>
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
