@@ -69,7 +69,7 @@
             <strong>openSUSE</strong>
             es un sistema operativo libre basado en Linux para tu PC, port&aacute;til o
 			servidor. Puedes navegar en la Web, gestionar tu correo electr&oacute;nico y fotos,
-			hacer trabajo de oficina, reproducir videos o m&uacute;sica y
+			hacer trabajo de oficina, reproducir v&iacute;deos o m&uacute;sica y
             <em>have a lot of fun!</em>
           </p>
         </div>
@@ -138,15 +138,15 @@
 			al que tienes que ir si quieres respuestas a tus preguntas sobre openSUSE!
 		  </p>
 		  <p>
-		    &#191;Quieres hablar sobre openSUSE, participar en el desarrollo o contribuir de otra forma?
+		    &#191;Quieres hablar sobre openSUSE, participar en el desarrollo o colaborar de otra forma?
 		    Ap&uacute;ntate a una de las <a href="http://en.opensuse.org/Communicate/Mailinglists">listas de correo</a>.
           </p>
         </div>
         <hr class="right minor_column" />
         <div id="shop" class="right minor_column">
-          <h2>Tienda openSUSE</h2>
+          <h2>Tienda de openSUSE</h2>
           <p>
-            <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="La tienda openSUSE" title="La tienda openSUSE" /></a>
+            <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="La tienda de openSUSE" title="La tienda de openSUSE" /></a>
           	 La <a href="http://shop.opensuse.org/">tienda</a>
           	 es el lugar donde encontrar&aacute;s productos oficiales de openSUSE.
 			 Camisetas, tazas, gorras, bandoleras y mucho m&aacute;s.
