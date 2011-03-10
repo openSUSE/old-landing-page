@@ -121,7 +121,7 @@
            </p>
            <p>
                Θέλετε να συζητήσετε για την openSUSE, να συμμετέχετε στην ανάπτυξη ή να συνεισφέρετε με άλλους τρόπους;
-               Συμμετέχετε σε μια από τις <a href="http://en.opensuse.org/openSUSE:Mailing_lists">λίστες ταχυδρομείου</a>.
+               Συμμετέχετε σε μια από τις <a href="http://el.opensuse.org/openSUSE:Mailing_lists">λίστες ταχυδρομείου</a>.
           </p>
         </div>
         <hr class="right minor_column" />
@@ -144,7 +144,7 @@
     <div class="centered">
         <ul id="network" class="left">
 	    <li><a href="http://software.opensuse.org/">Get Software</a></li>
-	    <li><a href="http://en.opensuse.org/">Wiki</a></li>
+	    <li><a href="http://el.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
 	    <li><a href="http://users.opensuse.org/">User Directory</a></li>
 	    <li><a href="http://news.opensuse.org/">News</a></li>
