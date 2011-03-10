@@ -51,7 +51,7 @@
             <option value="blogs">buscar en blogs</option>
             <option value="news">buscar noticias</option>
             <option value="software">buscar software</option>
-            <option value="wiki" selected="selected">busque en la secci&oacute;n de ayuda</option>
+            <option value="wiki" selected="selected">buscar en la secci&oacute;n de ayuda</option>
             </select>
             <input type="text" name="searchstring" class="textfield" />
             <input type="image" alt="ir" title="ir" class="searchbutton" src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
