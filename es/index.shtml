@@ -48,7 +48,7 @@
           <div>
             <input type="hidden" name="language" value="en" />
             <select id="searchscope" name="searchscope">
-            <option value="blogs">busque en blogs</option>
+            <option value="blogs">buscar en blogs</option>
             <option value="news">buscar noticias</option>
             <option value="software">buscar software</option>
             <option value="wiki" selected="selected">busque en la secci&oacute;n de ayuda</option>
@@ -116,7 +116,7 @@
       <div id="teasers">
         <hr class="hidden" />
         <div id="whats_hot" class="left major_column">
-	      <!--#include virtual="../en/whats_hot.html" -->
+	      <!--#include virtual="whats_hot.html" -->
 	      <span class="clear">&nbsp;</span>
         </div>
         <hr class="hidden" />
@@ -135,7 +135,7 @@
           <p>
             <a href="http://forums.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="ayuda" title="ayuda" /></a>
 			&iexcl;Nuestros <a href="http://forums.opensuse.org/">foros</a> son el primer lugar
-			al que tienes que ir si quieres respuestas a tus preguntas sobre OpenSUSE!
+			al que tienes que ir si quieres respuestas a tus preguntas sobre openSUSE!
 		  </p>
 		  <p>
 		    &#191;Quieres hablar sobre openSUSE, participar en el desarrollo o contribuir de otra forma?
@@ -148,7 +148,7 @@
           <p>
             <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="La tienda openSUSE" title="La tienda openSUSE" /></a>
           	 La <a href="http://shop.opensuse.org/">tienda</a>
-          	 es el lugar donde encontrar&aacute;s productos oficial de openSUSE.
+          	 es el lugar donde encontrar&aacute;s productos oficiales de openSUSE.
 			 Camisetas, tazas, gorras, bandoleras y mucho m&aacute;s.
            </p>
            <ul>
