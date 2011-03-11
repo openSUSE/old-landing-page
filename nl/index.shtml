@@ -177,7 +177,7 @@
         <form method="post" action="../index.php">
           <img src="http://static.opensuse.org/hosts/www.o.o/images/flags/nl.png" alt="language" title="language" />
           <select id="language" name="language">
-            <option value="nl" selected="selected">Dutch</option>
+            <option value="nl" selected="selected">Nederlands</option>
             <option value="">---</option>
             <!--#include virtual="../languages.html" -->
           </select>

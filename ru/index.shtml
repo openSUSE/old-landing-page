@@ -223,7 +223,7 @@
         <form method="post" action="../index.php">
           <img src="http://static.opensuse.org/hosts/www.o.o/images/flags/ru.png" alt="language" title="language" />
           <select id="language" name="language">
-            <option value="ru" selected="selected">&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</option>
+            <option value="ru" selected="selected">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</option>
             <option value="">---</option>
             <!--#include virtual="../languages.html" -->
           </select>
