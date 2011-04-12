@@ -10,3 +10,20 @@ $('#screenshots').slideToggle('slow',function(){if(reflectionsInitialized==0){$(
 hideScreenshots=function(){$("#toggle_screenshots").blur();$('#screenshots').slideToggle('slow');$("#toggle_screenshots").removeClass('expanded');$("#toggle_screenshots span").html('&darr; Screenshots');}
 fixIE6alphaTransparency=function(){if(isIE&&browserVersion==6){$('#quicklinks .top').each(pngfix);$('#quicklinks .buttontext').each(pngfix);$('#quicklinks .bottom').each(pngfix);$('#shop img').each(pngfix);}}
 $(document).ready(function(){browserDetection();fixIE6alphaTransparency();equalizeQuickstartBoxes();transformSearchbox();transformLanguageSelection();$("#toggle_screenshots").toggle(function(event){showScreenshots();event.preventDefault();},function(event){hideScreenshots();event.preventDefault();});});
+
+var _paq = _paq || [];
+(function(){
+var u=(("https:" == document.location.protocol) ? "https://beans.opensuse.org/piwik/" : "http://beans.opensuse.org/piwik/");
+_paq.push(['setSiteId', 10]);
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['trackPageView']);
+_paq.push([ 'setDomains', ["*.opensuse.org"]]);
+var d=document,
+g=d.createElement('script'),
+s=d.getElementsByTagName('script')[0];
+g.type='text/javascript';
+g.defer=true;
+g.async=true;
+g.src=u+'piwik.js';
+s.parentNode.insertBefore(g,s);
+})();
