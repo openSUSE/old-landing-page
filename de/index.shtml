@@ -7,21 +7,21 @@
     <link href="http://static.opensuse.org/hosts/www.o.o/css/frontpage.css" rel="stylesheet" type="text/css" media="screen" />
     <link href="http://static.opensuse.org/hosts/www.o.o/css/fancybox.css" rel="stylesheet" type="text/css" media="screen" />
     <!--[if IE 6]>
-	  <link rel="Stylesheet" rev="Stylesheet" href="http://static.opensuse.org/hosts/www.o.o/css/frontpage.ie6.css" type="text/css" media="screen" />
-	<![endif]-->
+          <link rel="Stylesheet" rev="Stylesheet" href="http://static.opensuse.org/hosts/www.o.o/css/frontpage.ie6.css" type="text/css" media="screen" />
+        <![endif]-->
     <!--[if IE 7]>
-	  <link rel="Stylesheet" rev="Stylesheet" href="http://static.opensuse.org/hosts/www.o.o/css/frontpage.ie7.css" type="text/css" media="screen" />
-	<![endif]-->
-	<link href="http://static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.css" rel="stylesheet" type="text/css" media="screen" />
-	<link href="http://static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.skin.opensuse.css" rel="stylesheet" type="text/css" media="screen" />
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery-1.2.6.min.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.selectbox.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.dimensions.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.jcarousel.pack.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.reflect.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.fancybox-1.0.0.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/ie6_pngfix.js"></script>
-  	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/frontpage.js"></script>
+          <link rel="Stylesheet" rev="Stylesheet" href="http://static.opensuse.org/hosts/www.o.o/css/frontpage.ie7.css" type="text/css" media="screen" />
+        <![endif]-->
+        <link href="http://static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.css" rel="stylesheet" type="text/css" media="screen" />
+        <link href="http://static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.skin.opensuse.css" rel="stylesheet" type="text/css" media="screen" />
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery-1.2.6.min.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.selectbox.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.dimensions.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.jcarousel.pack.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.reflect.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/jquery.fancybox-1.0.0.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/ie6_pngfix.js"></script>
+        <script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/frontpage.js"></script>
     <link rel="alternate" type="application/rss+xml" title="openSUSE news &amp; events" href="http://news.opensuse.org/feed/" />
   </head>
   <body>
@@ -62,19 +62,19 @@
               <span class="top">&nbsp;</span>
               <span class="buttontext">
                 <strong>Get it: </strong>
-              	Laden Sie openSUSE und zus&auml;tzliche
-              	Software herunter.
+                Laden Sie openSUSE und zus&auml;tzliche
+                Software herunter.
               </span>
               <span class="bottom clear">&nbsp;</span>
             </a>
           </li>
           <li id="discover">
-            <a href="http://de.opensuse.org">
+            <a href="http://dewiki.opensuse.org">
               <span class="top">&nbsp;</span>
               <span class="buttontext">
                 <strong>Discover it: </strong>
-              	Erfahren Sie mehr &uuml;ber openSUSE mit
-              	Tutorien, Dokumentation und mehr.
+                Erfahren Sie mehr &uuml;ber openSUSE mit
+                Tutorien, Dokumentation und mehr.
               </span>
               <span class="bottom clear">&nbsp;</span>
              </a>
@@ -84,8 +84,8 @@
               <span class="top">&nbsp;</span>
               <span class="buttontext">
                 <strong>Create it: </strong>
-              	Bauen Sie Pakete f&uuml;r wichtige Linux-
-              	Distributionen mit dem BuildService.
+                Bauen Sie Pakete f&uuml;r wichtige Linux-
+                Distributionen mit dem BuildService.
               </span>
               <span class="bottom clear">&nbsp;</span>
             </a>
@@ -102,8 +102,8 @@
       <div id="teasers">
         <hr class="hidden" />
         <div id="whats_hot" class="left major_column">
-	      <!--#include virtual="whats_hot.html" -->
-	      <span class="clear">&nbsp;</span>
+              <!--#include virtual="whats_hot.html" -->
+              <span class="clear">&nbsp;</span>
         </div>
         <hr class="hidden" />
         <div id="news" class="right minor_column">
@@ -120,14 +120,14 @@
           <h2>Hilfe &amp; Support</h2>
           <p>
             <a href="http://forums.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="Hilfe bekommen" title="get help" /></a>
-          	Die <a href="http://forums.opensuse.org/">Foren</a>
-          	sind die erste Anlaufstelle, um Antworten auf Ihre Fragen
-          	&uuml;ber openSUSE zu finden.
+                Die <a href="http://forums.opensuse.org/">Foren</a>
+                sind die erste Anlaufstelle, um Antworten auf Ihre Fragen
+                &uuml;ber openSUSE zu finden.
            </p>
            <p>
-          	M&ouml;chten Sie &uuml;ber openSUSE diskutieren, an der Entwicklung teilnehmen
-          	oder in anderer Hinsicht mithelfen? Abonnieren Sie eine der
-          	<a href="http://en.opensuse.org/Communicate/Mailinglists">Mailinglisten</a>
+                M&ouml;chten Sie &uuml;ber openSUSE diskutieren, an der Entwicklung teilnehmen
+                oder in anderer Hinsicht mithelfen? Abonnieren Sie eine der
+                <a href="http://dewiki.opensuse.org/openSUSE:Kommunikationskanal#Mailinglisten">Mailinglisten</a>
           </p>
         </div>
         <hr class="right minor_column" />
@@ -135,13 +135,13 @@
           <h2>openSUSE Shop</h2>
           <p>
             <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE shop" title="openSUSE shop" /></a>
-          	Der <a href="http://shop.opensuse.org/">Shop</a>
-          	ist der Ort, wo Sie offizielle openSUSE Fanartikel erhalten.
-          	T-Shirts, Tassen, M&uuml;tzen, Taschen und mehr sind dort erh&auml;ltlich.
+                Der <a href="http://shop.opensuse.org/">Shop</a>
+                ist der Ort, wo Sie offizielle openSUSE Fanartikel erhalten.
+                T-Shirts, Tassen, M&uuml;tzen, Taschen und mehr sind dort erh&auml;ltlich.
            </p>
            <ul>
-          	 <li><a href="http://shop.opensuse.org/shop-us.html">Shop f&uuml;r Amerika</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Shop f&uuml;r Europa &amp; Asien</a></li>
+                 <li><a href="http://shop.opensuse.org/shop-us.html">Shop f&uuml;r Amerika</a></li>
+                 <li><a href="http://shop.opensuse.org/shop-eu.html">Shop f&uuml;r Europa &amp; Asien</a></li>
           </ul>
         </div>
       </div>
@@ -150,14 +150,14 @@
     <hr id="footer_start" class="centered" />
     <div class="centered">
       <ul id="network" class="left">
-	    <li><a href="http://software.opensuse.org/">Software</a></li>
-	    <li><a href="http://en.opensuse.org/">Wiki</a></li>
-	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
-	    <li><a href="http://users.opensuse.org/">Benutzerverzeichnis</a></li>
-	    <li><a href="http://news.opensuse.org/">News</a></li>
-	    <li><a href="http://forums.opensuse.org/">Foren</a></li>
-	    <li><a href="http://shop.opensuse.org/">Shop</a></li>
-	    <li><a href="http://lizards.opensuse.org/">Blogs</a></li>
+            <li><a href="http://software.opensuse.org/">Software</a></li>
+            <li><a href="http://dewiki.opensuse.org/">Wiki</a></li>
+            <li><a href="http://build.opensuse.org/">Build Service</a></li>
+            <li><a href="http://users.opensuse.org/">Benutzerverzeichnis</a></li>
+            <li><a href="http://news.opensuse.org/">News</a></li>
+            <li><a href="http://forums.opensuse.org/">Foren</a></li>
+            <li><a href="http://shop.opensuse.org/">Shop</a></li>
+            <li><a href="http://lizards.opensuse.org/">Blogs</a></li>
             <li><a href="mailto:press@opensuse.org">Presse</a></li>
       </ul>
       <div id="i18n" class="right">
@@ -172,27 +172,27 @@
             <input type="submit" name="submit" value="&auml;ndern" />
           </noscript>
         </form>
-	  </div>
-	  <hr class="centered" />
-	</div>
-	<div id="spon" class="centered">
-	  <h2>gesponsort von</h2>
+          </div>
+          <hr class="centered" />
+        </div>
+        <div id="spon" class="centered">
+          <h2>gesponsort von</h2>
       <ul class="centered">
         <!--#include virtual="../sponsors.html" -->
       </ul>
       <span class="clear">&nbsp;</span>
-	</div>
-	<span>&nbsp;</span>
-	<hr class="centered" />
+        </div>
+        <span>&nbsp;</span>
+        <hr class="centered" />
     <div id="legal" class="centered">
- 	  <p>
- 	    &copy; 2008 Novell, Inc. Alle Rechte vorbehalten.
- 	  </p>
-	  <p>
-	    <a target="_blank" href="http://www.novell.com/">
-	      <img title="Founded by Novell" alt="Founded by Novell" src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/novell_logo.jpg" />
-	    </a>
-	  </p>
+          <p>
+            &copy; 2008 Novell, Inc. Alle Rechte vorbehalten.
+          </p>
+          <p>
+            <a target="_blank" href="http://www.novell.com/">
+              <img title="Founded by Novell" alt="Founded by Novell" src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/novell_logo.jpg" />
+            </a>
+          </p>
     </div>
 </body>
 </html>
