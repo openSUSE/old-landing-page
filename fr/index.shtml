@@ -48,7 +48,7 @@
     <div id="background">
       <div class="centered">
         <div id="intro" class="left minor_column">
-          <h1 title="openSUSE"><span>openSUSE</span></h1>
+          <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> est un syst&egrave;me d'exploitation libre et gratuit bas&eacute;
             sur Linux pour votre ordinateur personnel, votre ordinateur portable ou votre serveur.
