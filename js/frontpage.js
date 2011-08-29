@@ -11,6 +11,7 @@ hideScreenshots=function(){$("#toggle_screenshots").blur();$('#screenshots').sli
 fixIE6alphaTransparency=function(){if(isIE&&browserVersion==6){$('#quicklinks .top').each(pngfix);$('#quicklinks .buttontext').each(pngfix);$('#quicklinks .bottom').each(pngfix);$('#shop img').each(pngfix);}}
 $(document).ready(function(){browserDetection();fixIE6alphaTransparency();equalizeQuickstartBoxes();transformSearchbox();transformLanguageSelection();$("#toggle_screenshots").toggle(function(event){showScreenshots();event.preventDefault();},function(event){hideScreenshots();event.preventDefault();});});
 
+// inject piwik counter
 var _paq = _paq || [];
 (function(){
 var u=(("https:" == document.location.protocol) ? "https://beans.opensuse.org/piwik/" : "http://beans.opensuse.org/piwik/");
@@ -27,3 +28,6 @@ g.async=true;
 g.src=u+'piwik.js';
 s.parentNode.insertBefore(g,s);
 })();
+
+// inject conference link
+$("#intro > h1").replaceWith( "<a href='http://conference.opensuse.org'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
