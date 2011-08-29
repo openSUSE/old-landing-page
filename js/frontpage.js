@@ -30,4 +30,7 @@ s.parentNode.insertBefore(g,s);
 })();
 
 // inject conference link
-$("#intro > h1").replaceWith( "<a href='http://conference.opensuse.org'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
+$(document).ready(function() {
+  $("#intro > h1").replaceWith( "<a href='http://conference.opensuse.org'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
+});
+
