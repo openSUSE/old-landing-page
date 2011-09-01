@@ -36,6 +36,6 @@ $(document).ready(function() {
 
 // inject changed de wiki link
 var delink = $("#discover > a").attr('href').replace(/de\.opensuse/, 'dewiki.opensuse');
-$("#discover > a").attr('href', newlink);
+$("#discover > a").attr('href', delink);
 
 
