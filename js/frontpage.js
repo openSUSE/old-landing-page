@@ -31,7 +31,7 @@ s.parentNode.insertBefore(g,s);
 
 // inject conference link
 $(document).ready(function() {
-  $("#intro > h1").replaceWith( "<a href='http://conference.opensuse.org'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
+  $("#intro > h1").replaceWith( "<a href='http://counter.opensuse.org/link/'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
 });
 
 // inject changed de wiki link
