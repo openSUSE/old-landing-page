@@ -34,11 +34,3 @@ $(document).ready(function() {
   $("#intro > a").replaceWith( "<a href='http://counter.opensuse.org/link/'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
 });
 
-// inject changed de wiki link
-$(document).ready(function() {
-  var delink = $("#discover > a").attr('href').replace(/de\.opensuse/, 'dewiki.opensuse');
-  $("#discover > a").attr('href', delink);
-});
-
-
-
