@@ -5,7 +5,7 @@
  * @author Andreas Demmer <mail@andreas-demmer.de>
  */
 
-$jsonUrl = 'http://' . $_SERVER['HTTP_HOST'] . '/screenshot_gallery/cached_screenshots.json';
+$jsonUrl = 'http://' . $_SERVER['HTTP_HOST'] . '/screenshot_gallery/cached_screenshots.json?r=12.1';
 $jsonString = file_get_contents($jsonUrl);
 $jsonClass = json_decode($jsonString);
 $screenshots = get_object_vars($jsonClass);
