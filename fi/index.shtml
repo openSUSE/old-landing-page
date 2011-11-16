@@ -101,7 +101,7 @@
       <div id="teasers">
         <hr class="hidden" />
         <div id="whats_hot" class="left major_column">
-	      <!--#include virtual="../en/whats_hot.html" -->
+	      <!--#include virtual="whats_hot.html" -->
 	      <span class="clear">&nbsp;</span>
         </div>
         <hr class="hidden" />
