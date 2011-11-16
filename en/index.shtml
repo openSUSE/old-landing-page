@@ -23,6 +23,7 @@
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/ie6_pngfix.js"></script>
   	<script type="text/javascript" src="http://static.opensuse.org/hosts/www.o.o/js/frontpage.js"></script>
         <link rel="alternate" type="application/rss+xml" title="openSUSE news &amp; events" href="http://news.opensuse.org/feed/" />
+	<link href="https://plus.google.com/110312141834246266844/" rel="publisher" />
   </head>
   <body>
     <div class="centered">
