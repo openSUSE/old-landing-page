@@ -50,7 +50,7 @@
         <div id="intro" class="left minor_column">
           <h1 title="openSUSE"><span>openSUSE</span></h1>
           <p class="first">
-            Az <strong>openSUSE</strong> egy ingyenes és Linux-alapú operációs rendszer munkaállomások, laptopok és kiszolgálók számára. Internetezhet, levelezhet, rendezheti fényképeit, elvégezheti irodai feladatait, lejátszhat videokat és zenéket... és
+            Az <strong>openSUSE</strong> egy ingyenes és Linux-alapú operációs rendszer munkaállomások, laptopok és kiszolgálók számára. Internetezhet, levelezhet, rendezheti fényképeit, elvégezheti irodai feladatait, lejátszhat videókat és zenéket... és
             <em>remekül érezheti magát!</em>
           </p>
         </div>
@@ -116,7 +116,7 @@
           <p>
             <a href="http://forums.opensuse.org/other-languages/magyar-hungarian/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="get help" title="get help" /></a>
           	A <a href="http://forums.opensuse.org/other-languages/magyar-hungarian/">fórumon</a>
-          	első kézből kaphat válaszokat az openSUSE disztribucióval kapcsolatos kérdéseire!
+          	első kézből kaphat válaszokat az openSUSE disztribúcióval kapcsolatos kérdéseire!
            </p>
            <p>
           	Szeretne beszélgetni az openSUSE projektről, részt venni a fejlesztésben, vagy közreműködni valamilyen más formában? Csatlakozzon valamelyik
@@ -132,7 +132,7 @@
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">Amerikai webáruház</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Európai és Ázsai webáruház</a></li>
+          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Európai és Ázsia webáruház</a></li>
           </ul>
         </div>
       </div>
