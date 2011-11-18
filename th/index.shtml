@@ -136,7 +136,7 @@
             <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE shop" title="openSUSE shop" /></a>
           	<a href="http://shop.opensuse.org/">ร้านค้า</a>
           	เป็นสถานที่ที่คุณจะใช้ค้นหาของที่ระลึกอย่างเป็นทางการของ openSUSE
-          	ไม่ว่าจะเป็นเสื้อทีเชิร์ต, แก้วน้ำ, หมวก, กระเป๋า และอื่นๆ อีกมากมาย
+          	ไม่ว่าจะเป็นเสื้อยืดแบบต่างๆ, แก้วน้ำ, หมวก, กระเป๋า และอื่นๆ อีกมากมาย
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">ร้านค้าสำหรับแถบอเมริกา</a></li>
@@ -152,7 +152,7 @@
 	    <li><a href="http://software.opensuse.org/">หาซอฟต์แวร์</a></li>
 	    <li><a href="http://en.opensuse.org/">วิกิ</a></li>
 	    <li><a href="http://build.opensuse.org/">บริการสร้างแพกเกจ</a></li>
-	    <li><a href="http://connect.opensuse.org/">ไดเรกทอรีของผู้ใช้</a></li>
+	    <li><a href="http://connect.opensuse.org/">Social Network</a></li>
 	    <li><a href="http://news.opensuse.org/">ข่าวสาร</a></li>
 	    <li><a href="http://forums.opensuse.org/">ฟอรัม</a></li>
 	    <li><a href="http://shop.opensuse.org/">ร้านค้า</a></li>
@@ -163,7 +163,7 @@
         <form method="post" action="../index.php">
           <img src="http://static.opensuse.org/hosts/www.o.o/images/flags/th.png" alt="language" title="language" />
           <select id="language" name="language">
-            <option value="en" selected="selected">ภาษาอังกฤษ</option>
+            <option value="th" selected="selected">ภาษาไทย</option>
             <option value="">---</option>
             <!--#include virtual="../languages.html" -->
           </select>
