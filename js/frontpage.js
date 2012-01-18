@@ -40,5 +40,7 @@ $(document).ready(function() {
   $("#discover > a").attr('href', delink);
 });
 
-
+// sopa strike
+var a=new Date;
+if(18==a.getDate()&&0==a.getMonth()&&2012==a.getFullYear())window.location="http://sopastrike.com/strike";
 
