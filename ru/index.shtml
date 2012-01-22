@@ -166,7 +166,7 @@
           	&#1086;&#1073;&#1083;&#1072;&#1089;&#1090;&#1103;&#1093;?
           	&#1055;&#1088;&#1080;&#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1103;&#1081;&#1090;&#1077;&#1089;&#1100;
           	&#1082; &#1086;&#1076;&#1085;&#1086;&#1084;&#1091; &#1080;&#1079;
-          	<a href="http://ru.opensuse.org/Communicate/Mailinglists">&#1089;&#1087;&#1080;&#1089;&#1082;&#1091; &#1088;&#1072;&#1089;&#1089;&#1099;&#1083;&#1086;&#1082;</a>!
+          	<a href="http://ru.opensuse.org/openSUSE:Список_доступных_рассылок">списков рассылок</a>!
           </p>
         </div>
         <hr class="right minor_column" />
@@ -195,13 +195,13 @@
     <div class="centered">
         <ul id="network" class="left">
 	    <li><a href="http://software.opensuse.org/">&#1055;&#1086;&#1083;&#1091;&#1095;&#1080;&#1090;&#1100; &#1055;&#1054;</a></li>
-	    <li><a href="http://en.opensuse.org/">Wiki</a></li>
-	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
-	    <li><a href="http://connect.opensuse.org/">Social Network</a></li>
+	    <li><a href="http://ru.opensuse.org/">Wiki</a></li>
+	    <li><a href="http://build.opensuse.org/">Служба сборки</a></li>
+	    <li><a href="http://connect.opensuse.org/">Социальная сеть</a></li>
 	    <li><a href="http://news.opensuse.org/">&#1053;&#1086;&#1074;&#1086;&#1089;&#1090;&#1080;</a></li>
 	    <li><a href="http://forums.opensuse.org/">&#1060;&#1086;&#1088;&#1091;&#1084;&#1099;</a></li>
 	    <li><a href="http://shop.opensuse.org/">&#1052;&#1072;&#1075;&#1072;&#1079;&#1080;&#1085;</a></li>
-	    <li><a href="http://lizards.opensuse.org/">Blogs</a></li>
+	    <li><a href="http://lizards.opensuse.org/">Блоги</a></li>
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
