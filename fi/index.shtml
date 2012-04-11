@@ -175,9 +175,7 @@
 	</div>
 	<div id="spon" class="centered">
 	  <h2>Toimintaa tukee</h2>
-      <ul class="centered">
         <!--#include virtual="../sponsors.html" -->
-      </ul>
       <span class="clear">&nbsp;</span>
 	</div>
 	<span>&nbsp;</span>

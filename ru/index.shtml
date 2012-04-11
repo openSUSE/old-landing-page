@@ -220,9 +220,7 @@
 	</div>
 	<div id="spon" class="centered">
 	  <h2>&#1055;&#1088;&#1080; &#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1082;&#1077;</h2>
-      <ul class="centered">
         <!--#include virtual="../sponsors.html" -->
-      </ul>
       <span class="clear">&nbsp;</span>
 	</div>
 	<span>&nbsp;</span>

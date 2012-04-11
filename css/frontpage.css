@@ -72,10 +72,10 @@ img{border:0px;}
 #i18n form{display:inline;}
 #i18n select{font-family:Verdana,Helvetica,Arial,sans-serif;font-size:0.9em;color:#444;}
 #i18n option{background-position:0px 2px;background-repeat:no-repeat;padding-left:20px;}
-#spon{font-size:0.9em;margin-top:10px;}
+
+#spon{font-size:0.9em;margin-top:10px;text-align: center; }
 #spon h2{color:#889999;font-size:0.8em;text-align:center;margin:0px 0px 10px;}
-#spon ul{position:relative;left:-160px;list-style:none;margin:10px 0px 10px 50%;}
-#spon li{float:left;margin:0px 20px 0px 0px;}
+#spon a{text-align:center;margin:0px 10px;}
 #spon hr{margin-top:10px;}
 #legal{color:#889999;text-align:center;font-size:0.8em;}
 #legal img{width:140px;height:20px;}

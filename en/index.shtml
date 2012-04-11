@@ -174,10 +174,8 @@
 	</div>
 	<div id="spon" class="centered">
 	  <h2>Sponsored by</h2>
-      <ul class="centered">
-        <!--#include virtual="../sponsors.html" -->
-      </ul>
-      <span class="clear">&nbsp;</span>
+                <!--#include virtual="../sponsors.html" -->
+            <span class="clear">&nbsp;</span>
 	</div>
 	<span>&nbsp;</span>
 	<hr class="centered" />
