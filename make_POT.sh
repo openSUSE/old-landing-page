@@ -13,7 +13,7 @@
 HTML_file0="./en/index.shtml"
 HTML_file1="./en/whats_hot.html"
 POT_files_folder="./50-pot"
-POT_name="opensuse_org.pot"
+POT_name="opensuse-org.pot"
 
 
 # Create POT folder if does not exist
