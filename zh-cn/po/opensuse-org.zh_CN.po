@@ -1,0 +1,463 @@
+# Copyright (C) 2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Marguerite Su, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-06-07 11:11+0300\n"
+"PO-Revision-Date: 2012-06-27 12:39+0800\n"
+"Last-Translator: Marguerite Su\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#. type: Attribute 'lang' of: <html>
+#: ./en/index.shtml:2
+msgid "en"
+msgstr "zh_CN"
+
+#. type: Content of: <html><head><title>
+#: ./en/index.shtml:4
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#. type: Attribute 'title' of: <html><head><link>
+#: ./en/index.shtml:25
+msgid "openSUSE news &amp; events"
+msgstr "openSUSE 新闻 &amp; 事件"
+
+#. type: Content of: <html><body><div><div><form><div><select>
+#: ./en/index.shtml:33
+msgid ""
+"<input type=\"hidden\" name=\"language\" value=\"en\" /> <select "
+"id=\"searchscope\" name=\"searchscope\">"
+msgstr ""
+"<input type=\"hidden\" name=\"language\" value=\"zh_CN\" /> <select "
+"id=\"searchscope\" name=\"searchscope\">"
+
+#. type: Content of: <html><body><div><div><form><div><select><option>
+#: ./en/index.shtml:35
+msgid "search in blog-posts"
+msgstr "搜索博客文章"
+
+#. type: Content of: <html><body><div><div><form><div><select><option>
+#: ./en/index.shtml:36
+msgid "search the news"
+msgstr "搜索新闻"
+
+#. type: Content of: <html><body><div><div><form><div><select><option>
+#: ./en/index.shtml:37
+msgid "search for software"
+msgstr "搜索软件"
+
+#. type: Content of: <html><body><div><div><form><div><select><option>
+#: ./en/index.shtml:38
+msgid "search in help-section"
+msgstr "搜索帮助手册"
+
+#. type: Content of: <html><body><div><div><form><div>
+#: ./en/index.shtml:39
+msgid ""
+"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> "
+"<input type=\"image\" alt=\"run search\" title=\"run search\" "
+"class=\"searchbutton\" "
+"src=\"http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
+"\" "
+"/>"
+msgstr ""
+"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" />"
+"<input type=\"image\" alt=\"执行搜索\" title=\"执行搜索\""
+"class=\"searchbutton\""
+"src=\"http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
+"\""
+"/>"
+
+#. type: Content of: <html><body><div><div><form>
+#: ./en/index.shtml:43
+msgid ""
+"<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run "
+"search\" />"
+msgstr ""
+"<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"执行 "
+"搜索\" />"
+
+#. #include virtual="../sponsors.html"
+#. type: Content of: <html><body><div>
+#: ./en/index.shtml:46 ./en/index.shtml:104 ./en/index.shtml:145 ./en/index.shtml:178
+msgid "<span class=\"clear\">&nbsp;</span>"
+msgstr "<span class=\"clear\">&nbsp;</span>"
+
+#. type: Content of: <html><body><div><div><div><a>
+#: ./en/index.shtml:51
+msgid "<a href=\"http://conference.opensuse.org\">"
+msgstr "<a href=\"http://conference.opensuse.org\">"
+
+#. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
+#: ./en/index.shtml:51
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#. type: Content of: <html><body><div><div><div><a><h1>
+#: ./en/index.shtml:51
+msgid "<span>openSUSE</span>"
+msgstr "<span>openSUSE</span>"
+
+#. type: Content of: <html><body><div><p>
+#: ./en/index.shtml:51 ./en/index.shtml:112 ./en/index.shtml:189
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: ./en/index.shtml:53
+msgid ""
+"<strong>openSUSE</strong> is a free and Linux-based operating system for "
+"your PC, Laptop or Server.  You can surf the web, manage your e-mails and "
+"photos, do office work, play videos or music and <em>have a lot of fun!</em>"
+msgstr ""
+"<strong>openSUSE</strong> 是一个自由的基于 Linux 的服务您的电脑，笔记本 "
+"或服务器的操作系统 。你可以上网冲浪，管理电子邮件和相片，办公，播放视频 "
+"或音频和 <em>找很多很多的乐子！</em>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: ./en/index.shtml:62
+msgid ""
+"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
+"<span class=\"buttontext\"> <strong>Get it: </strong> Download openSUSE or "
+"find additional software.  </span> <span class=\"bottom "
+"clear\">&nbsp;</span> </a>"
+msgstr ""
+"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
+"<span class=\"buttontext\"> <strong>获得它：</strong> 下载 openSUSE 或 "
+"寻找额外软件。 </span> <span class=\"bottom "
+"clear\">&nbsp;</span> </a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: ./en/index.shtml:72
+msgid ""
+"<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
+"class=\"buttontext\"> <strong>Discover it: </strong> Learn more about "
+"openSUSE with tutorials, documentation, and more! </span> <span "
+"class=\"bottom clear\">&nbsp;</span> </a>"
+msgstr ""
+"<a href=\"http://zh.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
+"class=\"buttontext\"> <strong>探索它： </strong> 通过教程、文档以及其它了解 "
+"openSUSE 更多！</span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: ./en/index.shtml:82
+msgid ""
+"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
+"<span class=\"buttontext\"> <strong>Create it: </strong> Build packages for "
+"all major Linux distributions with the Build Service.  </span> <span "
+"class=\"bottom clear\">&nbsp;</span> </a>"
+msgstr ""
+"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
+"<span class=\"buttontext\"> <strong>创造它：</strong> 使用编译服务为所有主要 Linux "
+"发行版编译软件包。</span> <span "
+"class=\"bottom clear\">&nbsp;</span> </a>"
+
+#. type: Content of: <html><body><div><div>
+#: ./en/index.shtml:92
+msgid ""
+"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" "
+"id=\"screenshots\">&nbsp;</span>"
+msgstr ""
+"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" "
+"id=\"screenshots\">&nbsp;</span>"
+
+#. type: Content of: <html><body><div>
+#: ./en/index.shtml:97
+msgid ""
+"<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; "
+"Screenshots</span></a>"
+msgstr ""
+"<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; "
+"快照</span></a>"
+
+#. type: Content of: <html><body><div><div><div><h2>
+#: ./en/index.shtml:108
+msgid "News &amp; Events"
+msgstr "新闻 &amp; 事件"
+
+#. type: Content of: <html><body><div><div><div><p><a>
+#: ./en/index.shtml:110
+msgid "<a href=\"http://news.opensuse.org/feed/\">"
+msgstr "<a href=\"http://news.opensuse.org/feed/\">"
+
+#. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
+#: ./en/index.shtml:111 ./en/index.shtml:111
+msgid "RSS newsfeed"
+msgstr "RSS 新闻种子"
+
+#. type: Content of: <html><body><div><div><div><h2>
+#: ./en/index.shtml:118
+msgid "Help &amp; Support"
+msgstr "帮助 &amp; 支持"
+
+#. type: Content of: <html><body><div><div><div><p><a>
+#: ./en/index.shtml:120
+msgid "<a href=\"http://forums.opensuse.org/\">"
+msgstr "<a href=\"http://forums.opensuse.org/\">"
+
+#. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
+#: ./en/index.shtml:120 ./en/index.shtml:120
+msgid "get help"
+msgstr "获取帮助"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: ./en/index.shtml:120
+msgid ""
+"</a> The <a href=\"http://forums.opensuse.org/\">forums</a> are the first "
+"place to go if you want answers to questions about openSUSE!"
+msgstr ""
+"</a> 如果您想要得到关于 openSUSE 问题的答案，<a href=\"http://forums.opensuse.org/\">论坛</a> "
+"是 "
+"首先应该去的地方！"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: ./en/index.shtml:125
+msgid ""
+"Want to discuss openSUSE, participate in development, or contribute in other "
+"ways? Join one of the <a "
+"href=\"http://en.opensuse.org/openSUSE:Mailing_lists\">mailing lists</a>."
+msgstr ""
+"想要讨论 openSUSE，参与开发，或者通过其他方式贡献？加入一个 <a "
+"href=\"http://en.opensuse.org/openSUSE:Mailing_lists\">邮件列表</a>。"
+
+#. type: Content of: <html><body><div><div><div><h2>
+#: ./en/index.shtml:132
+msgid "openSUSE Shop"
+msgstr "openSUSE 商店"
+
+#. type: Content of: <html><body><div><div><div><p><a>
+#: ./en/index.shtml:134
+msgid "<a href=\"http://shop.opensuse.org/\">"
+msgstr "<a href=\"http://shop.opensuse.org/\">"
+
+#. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
+#: ./en/index.shtml:134 ./en/index.shtml:134
+msgid "openSUSE shop"
+msgstr "openSUSE 商店"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: ./en/index.shtml:134
+msgid ""
+"</a> The <a href=\"http://shop.opensuse.org/\">shop</a> is the place to find "
+"official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
+msgstr ""
+"</a> <a href=\"http://shop.opensuse.org/\">商店</a> 是淘官方 openSUSE 物品的地方。"
+"T 恤衫，马克杯，帽子，背包和其它东西。"
+
+#. type: Content of: <html><body><div><div><div><ul><li>
+#: ./en/index.shtml:140
+msgid "<a href=\"http://shop.opensuse.org/shop-us.html\">Shop for Americas</a>"
+msgstr "<a href=\"http://shop.opensuse.org/shop-us.html\">面向美洲的商店</a>"
+
+#. type: Content of: <html><body><div><div><div><ul><li>
+#: ./en/index.shtml:141
+msgid ""
+"<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; "
+"Asia</a>"
+msgstr "<a href=\"http://shop.opensuse.org/shop-eu.html\">面向欧洲和亚洲的商店</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:150
+msgid "<a href=\"http://software.opensuse.org/\">Get Software</a>"
+msgstr "<a href=\"http://software.opensuse.org/\">获取软件</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:151
+msgid "<a href=\"http://en.opensuse.org/\">Wiki</a>"
+msgstr "<a href=\"http://zh.opensuse.org/\">维基</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:152
+msgid "<a href=\"http://build.opensuse.org/\">Build Service</a>"
+msgstr "<a href=\"http://build.opensuse.org/\">编译服务</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:153
+msgid "<a href=\"http://connect.opensuse.org/\">Social Network</a>"
+msgstr "<a href=\"http://connect.opensuse.org/\">社交网络</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:154
+msgid "<a href=\"http://news.opensuse.org/\">News</a>"
+msgstr "<a href=\"http://news.opensuse.org/\">新闻</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:155
+msgid "<a href=\"http://forums.opensuse.org/\">Forums</a>"
+msgstr "<a href=\"http://forums.opensuse.org/\">论坛</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:156
+msgid "<a href=\"http://shop.opensuse.org/\">Shop</a>"
+msgstr "<a href=\"http://shop.opensuse.org/\">商店</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:157
+msgid "<a href=\"http://lizards.opensuse.org/\">Blogs</a>"
+msgstr "<a href=\"http://lizards.opensuse.org/\">博客</a>"
+
+#. type: Content of: <html><body><div><ul><li>
+#: ./en/index.shtml:158
+msgid "<a href=\"mailto:press@opensuse.org\">Press</a>"
+msgstr "<a href=\"mailto:press@opensuse.org\">媒体</a>"
+
+#. type: Attribute 'title' of: <html><body><div><div><form><img>
+#: ./en/index.shtml:162 ./en/index.shtml:162
+msgid "language"
+msgstr "语言"
+
+#. type: Content of: <html><body><div><div><form><select>
+#: ./en/index.shtml:163
+msgid "<select id=\"language\" name=\"language\">"
+msgstr "<select id=\"language\" name=\"language\">"
+
+#. type: Content of: <html><body><div><div><form><select><option>
+#: ./en/index.shtml:164
+msgid "English"
+msgstr "英语"
+
+#. type: Content of: <html><body><div><div><form><select><option>
+#: ./en/index.shtml:165
+msgid "---"
+msgstr "..."
+
+#. #include virtual="../languages.html"
+#. type: Content of: <html><body><div><div><form>
+#: ./en/index.shtml:167
+msgid "</select>"
+msgstr "</select>"
+
+#. type: Content of: <html><body><div><div><form><noscript>
+#: ./en/index.shtml:169
+msgid "<input type=\"submit\" name=\"submit\" value=\"change\" />"
+msgstr "<input type=\"submit\" name=\"submit\" value=\"变更\" />"
+
+#. type: Content of: <html><body><div><h2>
+#: ./en/index.shtml:176
+msgid "Sponsored by"
+msgstr "赞助来自于"
+
+#. type: Content of: <html><body>
+#: ./en/index.shtml:180
+msgid "<span>&nbsp;</span>"
+msgstr "<span>&nbsp;</span>"
+
+#. type: Content of: <html><body><div><p>
+#: ./en/index.shtml:184
+msgid "&copy; 2008 Novell, Inc. All Rights Reserved."
+msgstr "&copy; 2008 Novell, Inc. 版权所有。"
+
+#. type: Content of: <html><body><div><p><a>
+#: ./en/index.shtml:187
+msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
+msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"
+
+#. type: Attribute 'alt' of: <html><body><div><p><a><img>
+#: ./en/index.shtml:188 ./en/index.shtml:188
+msgid "Founded by Novell"
+msgstr "由 Novell 发起"
+
+#. type: Content of: <h2>
+#: ./en/whats_hot.html:1
+msgid "openSUSE 12.1: All Green!"
+msgstr "openSUSE 12.1：长青！"
+
+#. type: Content of: <p>
+#: ./en/whats_hot.html:4
+msgid ""
+"It is November 16, 2011 and our mirrors have synced. Time to present to you: "
+"<a href=\"http://software.opensuse.org/\">openSUSE 12.1</a>! This release "
+"represents more than eight months of work by our international community and "
+"brings you the best Free Software has to offer. Awesome improvements include "
+"the latest GNOME 3.2 desktop as well as the newest from KDE, XFCE and LXDE; "
+"your ownCloud made easy with mirall; Snapper-shots of your file system; and "
+"much, much more. (<a "
+"href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/\">"
+"continue "
+"reading</a>)."
+msgstr ""
+"2011 年十一月 16 日，我们的镜像已同步完毕。<a href=\"http://software.opensuse.org/\">"
+"openSUSE 12.2</a> 盛装发布！本版本代表了我们国际社区超过八个月的努力工作，会 "
+"带给您最好的自由软件。惊人的改进包括最新的 GNOME 3.4 桌面环境还有最新的 KDE， XFCE "
+"和 LXDE; 您自架的 ownCloud 被 mirall 更好的整合; Snapper 会快照您的文件系统; 已经更多，"
+"更多。（<a href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/\">"
+"继续"
+"阅读</a>)。"
+
+#. type: Content of: <p>
+#: ./en/whats_hot.html:14
+msgid ""
+"You can <a href=\"http://en.opensuse.org/Product_highlights\">learn what is "
+"new</a>, <a href=\"http://software.opensuse.org/\">download it</a> and <a "
+"href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+msgstr ""
+"您可以 <a href=\"http://en.opensuse.org/Product_highlights\">了解更新了什么</a>，"
+"<a href=\"http://software.opensuse.org/\">下载它</a> 和 <a "
+"href=\"http://upgrade.opensuse.org\">"
+"升级</a>！"
+
+#. type: Content of: <h2>
+#: ./en/whats_hot.html:20
+msgid "Follow openSUSE on Google Plus"
+msgstr "在 Google Plus 上关注 openSUSE"
+
+#. type: Content of: <p><a>
+#: ./en/whats_hot.html:21
+msgid ""
+"Keep informed about openSUSE following our <a "
+"href=\"https://plus.google.com/110312141834246266844/\">new Google+ "
+"page</a><a style=\"text-decoration:none;\" "
+"href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
+msgstr ""
+"即时获取 openSUSE 动态请关注我们 <a "
+"href=\"https://plus.google.com/110312141834246266844/\">新的 Google+ "
+"页面</a><a style=\"text-decoration:none;\" "
+"href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
+
+#. type: Content of: <p>
+#: ./en/whats_hot.html:21
+msgid "</a>."
+msgstr "</a>。"
+
+#. type: Content of: <h2>
+#: ./en/whats_hot.html:24
+msgid "Participate and join the community!"
+msgstr "参与和加入社区！"
+
+#. type: Content of: <p>
+#: ./en/whats_hot.html:25
+msgid ""
+"Whether you're an experienced Linux developer or an end user just getting "
+"started with Linux, there are many ways for you to participate in the "
+"openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> "
+"to get help or help others with openSUSE, find and <a "
+"href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">report "
+"bugs</a>, review the <a href=\"http://doc.opensuse.org\">documentation</a>, "
+"send your <a href=\"http://features.opensuse.org\">wish list</a> for new "
+"packages and features, create and submit <a "
+"href=\"http://build.opensuse.org\">patches</a>, or find other creative ways "
+"to contribute.  Whatever you do, take a few minutes to discuss openSUSE with "
+"other users and become an active member of the openSUSE communities.  <a "
+"href=\"http://en.opensuse.org/Portal:How_to_participate\">Would you like to "
+"know more?</a>"
+msgstr ""
+"不管您是有经验的 Linux 开发者还是初心的最终用户，都有许多您可以参与进 "
+"openSUSE 项目的方法。加入 <a href=\"http://forums.opensuse.org/\">论坛</a> "
+"来获取帮助或帮助他人，查找或 <a href=\"http://zh.opensuse.org/openSUSE:Submitting_bug_report"
+"s\">"
+"报告错误</a>，审核 <a href=\"http://doc.opensuse.org\">文档</a>，发送"
+"<a href=\"http://features.opensuse.org\">新特性列表</a> 以要求新软件包和功能，"
+"创建和提交 <a href=\"http://build.opensuse.org\">补丁</a>，或者发现其他独树一帜的"
+"方法来贡献。无论你做什么，花几分钟时间来和其他用户讨论 openSUSE，做"
+"一个积极的 openSUSE 社区成员。<a href=\"http://zh.opensuse.org/Portal:如何參與\">"
+"想要了解更多吗？</a>"
+
