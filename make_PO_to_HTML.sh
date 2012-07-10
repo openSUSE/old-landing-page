@@ -55,7 +55,10 @@ for lang in $langs; do
 	
 	for file in $(ls $HTML_files_folder/*html); do
 		HTML_file=$(basename $file)
-		cmd="po4a-translate --keep $translation_limit -f xhtml -m $HTML_files_folder/$HTML_file -p $PO_folder/$PO_filename_root.$lang.po -l $output_folder/$HTML_file"
+		cmd="po4a-translate --keep $translation_limit -f xhtml -m
+$HTML_files_folder/$HTML_file -p
+$PO_folder/$PO_filename_root.$svn_server_lang_code.po -l
+$output_folder/$HTML_file"
 		echo $cmd
 		$cmd
 	done
