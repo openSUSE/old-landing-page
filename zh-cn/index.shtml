@@ -54,15 +54,15 @@ title="执行搜索"class="searchbutton"src="http://static.opensuse.org/hosts/ww
         <div id="intro" class="left minor_column">
           <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
-            <strong>openSUSE</strong> 是一个自由的基于 Linux 的服务您的电脑，笔记本 或服务器的操作系统
-。你可以上网冲浪，管理电子邮件和相片，办公，播放视频 或音频和 <em>找很多很多的乐子！</em>
+            <strong>openSUSE</strong> 是一个自由的基于 Linux 的服务您的电脑，笔记本或服务器的操作系统
+。你可以上网冲浪，管理电子邮件和相片，办公，播放视频或音频和 <em>尽享欢乐！</em>
           </p>
         </div>
         <ul id="quicklinks" class="right major_column">
           <li id="get">
             <a href="http://software.opensuse.org"> <span class="top">&nbsp;</span>
-<span class="buttontext"> <strong>获得它：</strong> 下载 openSUSE 或 寻找额外软件。
-</span> <span class="bottom clear">&nbsp;</span> </a>
+<span class="buttontext"> <strong>获得它：</strong> 下载 openSUSE 或寻找额外软件。 </span>
+<span class="bottom clear">&nbsp;</span> </a>
           </li>
           <li id="discover">
             <a href="http://zh.opensuse.org"> <span class="top">&nbsp;</span> <span
@@ -106,8 +106,8 @@ id="screenshots">&nbsp;</span>
         <div id="help" class="right minor_column">
           <h2>帮助 &amp; 支持</h2>
           <p>
-            <a href="http://forums.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="获取帮助" title="获取帮助" /></a> 如果您想要得到关于 openSUSE 问题的答案，<a href="http://forums.opensuse.org/">论坛</a> 是
-首先应该去的地方！
+            <a href="http://forums.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="获取帮助" title="获取帮助" /></a> 如果您想要得到关于 openSUSE 问题的答案，<a href="http://forums.opensuse.org/">论坛</a>
+是首先应该去的地方！
            </p>
            <p>
           	想要讨论 openSUSE，参与开发，或者通过其他方式贡献？加入一个 <a
@@ -118,8 +118,8 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>。
         <div id="shop" class="right minor_column">
           <h2>openSUSE 商店</h2>
           <p>
-            <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE 商店" title="openSUSE 商店" /></a> <a href="http://shop.opensuse.org/">商店</a> 是淘官方 openSUSE 物品的地方。T
-恤衫，马克杯，帽子，背包和其它东西。
+            <a href="http://shop.opensuse.org/"><img src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE 商店" title="openSUSE 商店" /></a> <a href="http://shop.opensuse.org/">商店</a> 是淘官方 openSUSE
+物品的地方。T恤衫，马克杯，帽子，背包和其它东西。
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">面向美洲的商店</a></li>
@@ -159,7 +159,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>。
   	  <hr class="centered" />
 	</div>
 	<div id="spon" class="centered">
-	  <h2>赞助来自于</h2>
+	  <h2>赞助商</h2>
                 
             <!--#include virtual="../sponsors.html" -->
 <span class="clear">&nbsp;</span>
