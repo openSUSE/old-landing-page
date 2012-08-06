@@ -14,7 +14,8 @@
 # Some vars
 HTML_files_folder="./en"
 POT_files_folder="./50-pot/"
-langs="cs de el es fi fr hu it jp lt nl pl pt-br ru sk th zh-cn zh-tw" # without en, of course
+langs="cs da de el es fi fr hu it jp lt nl pl pt-br ru sk th zh-cn zh-tw" #
+without en, of course
 PO_filename_root="opensuse-org"
 translation_limit="50"	# Minimal translation percentage. Under this limit, no HTML file is output.
 
