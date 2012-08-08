@@ -3,6 +3,8 @@
 # Author(s): Guillaume GARDET <guillaume.gardet@opensuse.org>
 #
 # History:
+##	- 2012-08-08:	Add nb (Norwegian bokmål)
+##	- 2012-08-06:	Add da (Danish)
 ##	- 2012-06-26:	Fix PO filename
 ##	- 2012-06-07:	Fix package name (po4a) deps
 ##	- 2012-06-06:	Initial release
@@ -14,8 +16,7 @@
 # Some vars
 HTML_files_folder="./en"
 POT_files_folder="./50-pot/"
-langs="cs da de el es fi fr hu it jp lt nl pl pt-br ru sk th zh-cn zh-tw" #
-without en, of course
+langs="cs da de el es fi fr hu it jp lt nb nl pl pt-br ru sk th zh-cn zh-tw" #without en, of course
 PO_filename_root="opensuse-org"
 translation_limit="50"	# Minimal translation percentage. Under this limit, no HTML file is output.
 
