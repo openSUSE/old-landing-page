@@ -3,16 +3,15 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-07 11:11+0300\n"
-"PO-Revision-Date: 2012-07-14 14:04-0300\n"
+"PO-Revision-Date: 2012-08-16 20:47-0300\n"
 "Last-Translator: Gabriel <gabriel@opensuse.org>\n"
 "Language-Team: Novell Language <opensuse-trans-es@opensuse.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "X-Generator: KBabel 1.9\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: Spanish\n"
 
 #. type: Attribute 'lang' of: <html>
 #: en/index.shtml:2
@@ -67,9 +66,9 @@ msgid ""
 "frontpage/magnifier.png\" />"
 msgstr ""
 "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> "
-"<input type=\"image\" alt=\"iniciar b&uacute;squeda\" title=\"iniciar "
-"b&uacute;squeda\" class=\"searchbutton\" src=\"http://static.opensuse.org/"
-"hosts/www.o.o/images/frontpage/magnifier.png\" />"
+"<input type=\"image\" alt=\"iniciar búsqueda\" title=\"iniciar búsqueda\" "
+"class=\"searchbutton\" src=\"http://static.opensuse.org/hosts/www.o.o/images/"
+"frontpage/magnifier.png\" />"
 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:43
@@ -78,9 +77,9 @@ msgid ""
 "search\" />"
 msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value="
-"\"iniciar b&uacute;squeda\" />"
+"\"iniciar búsqueda\" />"
 
-#. #include virtual="../sponsors.html" 
+#. #include virtual="../sponsors.html"
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:104 en/index.shtml:145 en/index.shtml:178
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -114,8 +113,9 @@ msgid ""
 "photos, do office work, play videos or music and <em>have a lot of fun!</em>"
 msgstr ""
 "<strong>openSUSE</strong> es un sistema operativo libre basado en Linux para "
-"su PC, Portátil o Servidor.  Puedes navegar por internet, revisar correos y "
-"fotograf&iacute;as, trabajos de oficina, reproducir música y videos y más!."
+"PC, Portátil o Servidor.  Puedes navegar por internet, administrar correo "
+"electrónico, fotografías, trabajos de oficina, reproducir música y videos, y "
+"mucho más."
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:62
@@ -126,7 +126,7 @@ msgid ""
 "span> </a>"
 msgstr ""
 "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>Descárgalo: </strong> Descargar openSUSE "
+"<span class=\"buttontext\"> <strong>Consíguelo: </strong> Descarga openSUSE "
 "o encuentra software adicional.  </span> <span class=\"bottom clear\">&nbsp;"
 "</span> </a>"
 
@@ -152,9 +152,9 @@ msgid ""
 "\"bottom clear\">&nbsp;</span> </a>"
 msgstr ""
 "<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>Hazlo: </strong> Construye paquetes para "
-"las más importantes distribuciones de Linux utilizando Build Service.  </"
-"span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+"<span class=\"buttontext\"> <strong>Constrúyelo: </strong> Crea paquetes "
+"para las distribuciones más importantes de Linux utilizando el Build "
+"Service.  </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div>
 #: en/index.shtml:92
@@ -202,7 +202,7 @@ msgstr "<a href=\"http://forums.opensuse.org/\">"
 #. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
 #: en/index.shtml:120
 msgid "get help"
-msgstr "ayuda"
+msgstr "obtén ayuda"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:120
@@ -211,7 +211,7 @@ msgid ""
 "place to go if you want answers to questions about openSUSE!"
 msgstr ""
 "</a> Los <a href=\"http://forums.opensuse.org/\">foros</a> son el primer "
-"lugar al cual ir para obtener respuestas sobre openSUSE."
+"lugar al cual recurrir para obtener respuestas sobre openSUSE."
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:125
@@ -220,9 +220,9 @@ msgid ""
 "ways? Join one of the <a href=\"http://en.opensuse.org/openSUSE:Mailing_lists"
 "\">mailing lists</a>."
 msgstr ""
-"Quieres conversar sobre openSUSE, participar en su desarrollo, o "
-"contribu&iacute;r de otras maneras? Unete a las <a href=\"http://en.opensuse."
-"org/openSUSE:Mailing_lists\">listas de correo</a>."
+"Quieres conversar sobre openSUSE, participar en su desarrollo, o contribuír "
+"de otras maneras? Participa en las <a href=\"http://en.opensuse.org/openSUSE:"
+"Mailing_lists\">listas de correo</a>."
 
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:132
@@ -246,7 +246,7 @@ msgid ""
 "official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
 msgstr ""
 "</a> La <a href=\"http://shop.opensuse.org/\">tienda</a> es el lugar donde "
-"encontrar artículos oficiles de openSUSE.  Remeras, tazas, gorras, bolsos y "
+"encontrar artículos oficiales de openSUSE.  Remeras, tazas, gorras, bolsos y "
 "más."
 
 #. type: Content of: <html><body><div><div><div><ul><li>
@@ -330,7 +330,7 @@ msgstr "Inglés"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html" 
+#. #include virtual="../languages.html"
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:167
 msgid "</select>"
@@ -380,9 +380,18 @@ msgid ""
 "brings you the best Free Software has to offer. Awesome improvements include "
 "the latest GNOME 3.2 desktop as well as the newest from KDE, XFCE and LXDE; "
 "your ownCloud made easy with mirall; Snapper-shots of your file system; and "
-"much, much more. (<a href=\"http://news.opensuse.org/2011/11/16/opensuse-12-"
-"1-all-green/\">continue reading</a>)."
+"much, much more. (<a href=\"http://news.opensuse.org/2011/11/16/"
+"opensuse-12-1-all-green/\">continue reading</a>)."
 msgstr ""
+"Es noviembre 16 de 2011 y nuestros servidores se han sincronizado. Es hora "
+"de presentarles: <a href=\"http://software.opensuse.org/\">openSUSE 12.1</"
+"a>. Esta publicación representa más de ocho meses de trabajo de nuestra "
+"comunidad internacional y le trae lo mejor que el Software Libre tiene para "
+"ofrecer. Formidables mejoras incluyen el ultimo escritorio GNOME 3.2, así "
+"como lo último de KDE, XFCE y LXDE; su propia ownCloud hecha fácil con "
+"mirall; fotos-Snapper de su sistema de archivos; y mucho, mucho más.  (<a "
+"href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/"
+"\">continuar leyendo</a>)."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
@@ -398,7 +407,7 @@ msgstr ""
 #. type: Content of: <h2>
 #: en/whats_hot.html:20
 msgid "Follow openSUSE on Google Plus"
-msgstr "Sigua a openSUSE en Google Plus"
+msgstr "Sigue a openSUSE en Google Plus"
 
 #. type: Content of: <p><a>
 #: en/whats_hot.html:21
@@ -407,9 +416,9 @@ msgid ""
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
 "none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
 msgstr ""
-"Mantente informado acerca de openSUSE siguiendo nuestra<a href=\"https://"
-"plus.google.com/110312141834246266844/\">página de noticias en Google+</a><a "
-"style=\"text-decoration:none;\" href=\"https://plus.google."
+"Mantente informado acerca de openSUSE siguiendo nuestra <a href=\"https://"
+"plus.google.com/110312141834246266844/\">nueva página en Google+</a><a style="
+"\"text-decoration:none;\" href=\"https://plus.google."
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
@@ -438,8 +447,8 @@ msgid ""
 "the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:"
 "How_to_participate\">Would you like to know more?</a>"
 msgstr ""
-"Ya sea que seas un desarrollado Linux experimentado, o un usuario final "
-"iniciandose con Linux, hay muchas formas de participar en el proyecto "
+"Ya sea que seas un desarrollador experimentado en Linux, o un usuario final "
+"iniciándose con Linux, hay muchas formas de participar en el proyecto "
 "openSUSE. Unete al <a href=\"http://forums.opensuse.org/\">foro</a> para "
 "obtener ayuda, o ayudar a otros con openSUSE, encuentra y <a href=\"http://"
 "en.opensuse.org/openSUSE:Submitting_bug_reports\">reporta errores</a>, "
@@ -449,4 +458,4 @@ msgstr ""
 "\">parches</a>, o encuentra otras formas creativas para contribuir. Sea lo "
 "que hagas, tómate unos minutos para conversar sobre openSUSE con otros "
 "usuarios y convertirte en miembro activo de la comunidad openSUSE.  <a href="
-"\"http://en.opensuse.org/Portal:How_to_participate\">Quieres saber más?</a>"
+"\"http://en.opensuse.org/Portal:How_to_participate\">¿Quieres saber más?</a>"
