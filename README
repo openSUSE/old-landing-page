@@ -1,7 +1,7 @@
 This are the sources for the www.opensuse.org startpage. 
 
 The page is hosted at Novell: 130.57.4.24 (mehle@novell)
-it includes some static files from: http://static.opensuse.org/hosts/www.o.o (fsundermeyer@suse)
+it includes some static files from: //static.opensuse.org/hosts/www.o.o (fsundermeyer@suse)
 
 so both systems need to be updated on changes. The sources are hosted at: git@github.com:openSUSE/landing-page.git
 

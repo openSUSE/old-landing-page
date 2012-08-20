@@ -76,7 +76,7 @@ $output_folder/$HTML_file"
 	sed -i -e "s/<meta name=\"language\" content=\"en\" \/>/<meta name=\"language\" content=\"$lang\" \/>/g" "$file"
 	
 
-	# Replace <img src="http://static.opensuse.org/hosts/www.o.o/images/flags/gb.png" * with the right flag code
+	# Replace <img src="//static.opensuse.org/hosts/www.o.o/images/flags/gb.png" * with the right flag code
 	# Compute the right flag code
 	case $lang in
 	pt-br )

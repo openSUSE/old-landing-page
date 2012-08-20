@@ -8,19 +8,19 @@
 .jcarousel-skin-opensuse .jcarousel-item-horizontal{margin-right:25px;}
 .jcarousel-skin-opensuse .jcarousel-item-vertical{margin-bottom:10px;}
 .jcarousel-skin-opensuse .jcarousel-item-placeholder{background:#fff;color:#000;}
-.jcarousel-skin-opensuse .jcarousel-next-horizontal{position:absolute;top:55px;right:5px;width:30px;height:40px;cursor:pointer;background:transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/next-horizontal.png) no-repeat 0 0;}
+.jcarousel-skin-opensuse .jcarousel-next-horizontal{position:absolute;top:55px;right:5px;width:30px;height:40px;cursor:pointer;background:transparent url(//static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/next-horizontal.png) no-repeat 0 0;}
 .jcarousel-skin-opensuse .jcarousel-next-horizontal:hover{background-position:-30px 0;}
 .jcarousel-skin-opensuse .jcarousel-next-horizontal:active{background-position:-60px 0;}
 .jcarousel-skin-opensuse .jcarousel-next-disabled-horizontal, .jcarousel-skin-opensuse .jcarousel-next-disabled-horizontal:hover, .jcarousel-skin-opensuse .jcarousel-next-disabled-horizontal:active{cursor:default;background-position:-90px 0;}
-.jcarousel-skin-opensuse .jcarousel-prev-horizontal{position:absolute;top:55px;left:5px;width:30px;height:40px;cursor:pointer;background:transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/prev-horizontal.png) no-repeat 0 0;}
+.jcarousel-skin-opensuse .jcarousel-prev-horizontal{position:absolute;top:55px;left:5px;width:30px;height:40px;cursor:pointer;background:transparent url(//static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/prev-horizontal.png) no-repeat 0 0;}
 .jcarousel-skin-opensuse .jcarousel-prev-horizontal:hover{background-position:-30px 0;}
 .jcarousel-skin-opensuse .jcarousel-prev-horizontal:active{background-position:-60px 0;}
 .jcarousel-skin-opensuse .jcarousel-prev-disabled-horizontal, .jcarousel-skin-opensuse .jcarousel-prev-disabled-horizontal:hover, .jcarousel-skin-opensuse .jcarousel-prev-disabled-horizontal:active{cursor:default;background-position:-90px 0;}
-.jcarousel-skin-opensuse .jcarousel-next-vertical{position:absolute;bottom:5px;left:43px;width:32px;height:32px;cursor:pointer;background:transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/next-vertical.png) no-repeat 0 0;}
+.jcarousel-skin-opensuse .jcarousel-next-vertical{position:absolute;bottom:5px;left:43px;width:32px;height:32px;cursor:pointer;background:transparent url(//static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/next-vertical.png) no-repeat 0 0;}
 .jcarousel-skin-opensuse .jcarousel-next-vertical:hover{background-position:0 -32px;}
 .jcarousel-skin-opensuse .jcarousel-next-vertical:active{background-position:0 -64px;}
 .jcarousel-skin-opensuse .jcarousel-next-disabled-vertical, .jcarousel-skin-opensuse .jcarousel-next-disabled-vertical:hover, .jcarousel-skin-opensuse .jcarousel-next-disabled-vertical:active{cursor:default;background-position:0 -96px;}
-.jcarousel-skin-opensuse .jcarousel-prev-vertical{position:absolute;top:5px;left:43px;width:32px;height:32px;cursor:pointer;background:transparent url(http://static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/prev-vertical.png) no-repeat 0 0;}
+.jcarousel-skin-opensuse .jcarousel-prev-vertical{position:absolute;top:5px;left:43px;width:32px;height:32px;cursor:pointer;background:transparent url(//static.opensuse.org/hosts/www.o.o/images/jcarousel_skins/opensuse/prev-vertical.png) no-repeat 0 0;}
 .jcarousel-skin-opensuse .jcarousel-prev-vertical:hover{background-position:0 -32px;}
 .jcarousel-skin-opensuse .jcarousel-prev-vertical:active{background-position:0 -64px;}
 .jcarousel-skin-opensuse .jcarousel-prev-disabled-vertical, .jcarousel-skin-opensuse .jcarousel-prev-disabled-vertical:hover, .jcarousel-skin-opensuse .jcarousel-prev-disabled-vertical:active{cursor:default;background-position:0 -96px;}
