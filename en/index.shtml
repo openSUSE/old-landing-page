@@ -45,8 +45,14 @@
       </div>
       <span class="clear">&nbsp;</span>
     </div>
+
     <div id="background">
       <div class="centered">
+	<a href="http://summit.opensuse.org">
+	  <img src="../images/frontpage/summit_banner.png" hspace="25"></a>
+	<a href="http://conference.opensuse.org">
+	  <img src="../images/frontpage/conference_banner.png" hspace="25">
+	</a>
         <div id="intro" class="left minor_column">
           <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
