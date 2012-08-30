@@ -40,4 +40,22 @@ $(document).ready(function() {
 //  $("#discover > a").attr('href', delink);
 // });
 
+// dynamic change counter
+$(document).ready(function() {
+  var path = $(location).attr('href');
+  // 24 = http://www.opensuse.org/
+  if (path.length > 24) {
+    // should return string like "cn" "ja" "fr"
+    path = path.substring(path.lastIndexOf("/")-2);
+    path = path.substring(0,path.length-1);
+  
+    //test if the counter exists
+    var counter = new Image();
+    counter.src = "http://counter.opensuse.org/medium."+path+".png";
+    if (counter.width > 0) {
+    $("h1").css("background-image","http://counter.opensuse.org/medium."+path+".png");
+    }
+  }
+});
+
 
