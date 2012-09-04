@@ -7,9 +7,12 @@
  * @author Andreas Demmer <mail@andreas-demmer>
  */
 
+/* FIXME: isn't there a way to get the subdir properly so I can test this easily? */
+$host = $_SERVER['HTTP_HOST'];
+
 if (isset ($_POST['language']) && (bool)$_POST['language']) {
 	/* language was manually selected */
-	header ('Location: http://' . $_SERVER['HTTP_HOST'] . '/' . $_POST['language'] . '/');
+	header ('Location: http://' . $host . '/' . $_POST['language'] . '/');
 } else {
 	/* detect browser language */
 	$browserLanguages = explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
@@ -20,7 +23,7 @@ if (isset ($_POST['language']) && (bool)$_POST['language']) {
 
 		// search for i18n AND l10n
 		if (file_exists ($value)) {
-			header ('Location: http://' . $_SERVER['HTTP_HOST'] . '/' . $value . '/');
+			header ('Location: http://' . $host . '/' . $value . '/');
 			exit;
 		}
 
@@ -28,12 +31,12 @@ if (isset ($_POST['language']) && (bool)$_POST['language']) {
 		preg_match ('/^[a-z]+/', $value, $matches);
 
 		if (is_array($matches) && isset($matches['0']) && file_exists ($matches['0'])) {
-			header ('Location: http://' . $_SERVER['HTTP_HOST'] . '/' . $matches['0'] . '/');
+			header ('Location: http://' . $host . '/' . $matches['0'] . '/');
 			exit;
 		}
 	}
 
 	/* fallback language */
-	header ('Location: http://' . $_SERVER['HTTP_HOST'] . '/en/');
+	header ('Location: http://' . $host . '/en/');
 }
 ?>
