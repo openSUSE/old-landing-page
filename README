@@ -1,10 +1,27 @@
 This are the sources for the www.opensuse.org startpage. 
 
-The page is hosted at Novell: 130.57.4.24 (mehle@novell)
-it includes some static files from: //static.opensuse.org/hosts/www.o.o (fsundermeyer@suse)
+The page is hosted at Novell: 130.57.4.24 (mehle@novell, scweber@novell.com)
+it includes some static files from: //static.opensuse.org/hosts/www.o.o (tom@suse)
 
 so both systems need to be updated on changes. The sources are hosted at: git@github.com:openSUSE/landing-page.git
 
 The page uses SSI includes, a wysiwyg editor for the hot_stuff part, and a cronjob that creates the news part. 
+XXX: is that still valid? ^
 
 After deploying, please run fix_permissions.sh to make the files writeable for the editor. 
+
+note about translations: (reverse engineered by lnussel)
+# install the tools
+$ zypper in po4a
+# add your stuff
+$ vi en/en/whats_hot.html
+# generate pot file
+$ make_POT.sh
+# remove old translations
+$ echo */po/*.po|xargs rm
+# merge new translations
+$ ./make_PO_to_HTML.sh
+# check what happened
+$ git status
+# remove the languages that vanished from languages.html
+$ vi languages.html
