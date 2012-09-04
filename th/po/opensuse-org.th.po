@@ -63,7 +63,7 @@ msgstr "ตัวเลือกการค้นหา"
 
 #. type: Content of: <html><body><div><div><form><div>
 #: en/index.shtml:39
-msgid "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
+msgid "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
 msgstr ""
 
 #. type: Content of: <html><body><div><div><form>

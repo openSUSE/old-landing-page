@@ -66,12 +66,12 @@ msgstr "søk i hjelp"
 msgid ""
 "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <"
 "input type=\"image\" alt=\"run search\" title=\"run search\" "
-"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/f"
+"class=\"searchbutton\" src=\"http://static.opensuse.org/hosts/www.o.o/images/f"
 "rontpage/magnifier.png\" />"
 msgstr ""
 "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <"
 "input type=\"image\" alt=\"run search\" title=\"run search\" "
-"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/f"
+"class=\"searchbutton\" src=\"http://static.opensuse.org/hosts/www.o.o/images/f"
 "rontpage/magnifier.png\" />"
 
 #. type: Content of: <html><body><div><div><form>
@@ -394,7 +394,7 @@ msgstr ""
 "versjonene fra KDE, XFCE og LXDE, enkelt oppsett av ownCloud med mirall, "
 "Snapper-øyeblikksbilder av filsystemet ditt og mye, mye mer. (<a "
 "href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/\">"
-"continue reading</a>)."
+"Les mer</a>)."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
