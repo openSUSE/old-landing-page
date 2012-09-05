@@ -41,8 +41,9 @@ name="searchscope">
             <option value="software">keresés a szoftverek között</option>
             <option value="wiki" selected="selected">keresés a súgó-részben</option>
             </select> <input type="text" name="searchstring" class="textfield" /> <input
-type="image" alt="run search" title="run search" class="searchbutton"
-src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
+type="image" alt="keresés" title="keresés" class="searchbutton"
+src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
+/>
           </div>
           <input type="submit" name="searchbutton" class="button" value="run search"
 />
