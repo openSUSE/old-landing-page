@@ -3,8 +3,8 @@
 # Author(s): Guillaume GARDET <guillaume.gardet@opensuse.org>
 #
 # History:
-## 	- 2012-09-05:	Fix jp/ja language (JP is used on landing-page git repo
-##  whereas lang code is JA in i18n svn repo
+## 	- 2012-09-05:	Fix flag code hack since "http:" was removed from URL. => Fix bug where GB flag is shown for all languages
+## 	- 2012-09-05:	Fix jp/ja language (JP is used on landing-page git repo whereas lang code is JA in i18n svn repo
 ##	- 2012-08-08:	Add nb (Norwegian bokmål)
 ##	- 2012-08-06:	Add da (Danish)
 ##	- 2012-06-26:	Fix PO filename
@@ -107,7 +107,7 @@ $output_folder/$HTML_file"
 	 	flag=$lang
 	 	;;
 	esac
-	sed -i -e "s/<img src=\"http:\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/gb.png\"/<img src=\"http:\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/$flag.png\"/g" "$file"
+	sed -i -e "s/<img src=\"\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/gb.png\"/<img src=\"\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/$flag.png\"/g" "$file"
 	
 
 	# Replace <option value="en" selected="selected"> with the right lang code
