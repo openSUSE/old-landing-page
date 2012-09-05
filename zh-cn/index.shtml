@@ -125,8 +125,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>。
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">面向美洲的商店</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Shop for Europe &amp;
-Asia</a></li>
+          	 <li><a href="http://shop.opensuse.org">面向欧洲和亚洲的商店</a></li>
           </ul>
         </div>
       </div>
@@ -171,7 +170,7 @@ Asia</a></li>
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
- 	    &copy; 2008 Novell, Inc. All Rights Reserved.
+ 	    &copy; 2008 Novell, Inc. 版权所有。
  	  </p>
 	  <p>
 	    <a target="_blank" href="http://www.novell.com/">
