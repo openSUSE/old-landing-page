@@ -155,7 +155,7 @@ mais.
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/gb.png" alt="idioma" title="idioma" />
+          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/br.png" alt="idioma" title="idioma" />
           <select id="language" name="language">
             <option value="pt-br" selected="selected">Inglês</option>
             <option value="">---</option>

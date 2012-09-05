@@ -121,7 +121,7 @@ plekken als u antwoorden op vragen over openSUSE wilt krijgen!
            <p>
           	Wilt u discussies voeren over openSUSE, in de ontwikkeling deelnemen of op
 andere manieren bijdragen? Meldt u dan aan op de <a
-href="http://en.opensuse.org/openSUSE:Mailing_lists">e-maillijsten</a>.
+href="http://nl.opensuse.org/openSUSE:Mailing_lists">e-maillijsten</a>.
           </p>
         </div>
         <hr class="right minor_column" />
@@ -134,8 +134,7 @@ nog veel meer.
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">Shop voor de Amerika's</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Shop for Europe &amp;
-Asia</a></li>
+          	 <li><a href="http://shop.opensuse.org">Shop voor Europe &amp; Azië</a></li>
           </ul>
         </div>
       </div>
@@ -145,7 +144,7 @@ Asia</a></li>
     <div class="centered">
         <ul id="network" class="left">
 	    <li><a href="http://software.opensuse.org/">Software verkrijgen</a></li>
-	    <li><a href="http://en.opensuse.org/">Wiki</a></li>
+	    <li><a href="http://nl.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
 	    <li><a href="http://connect.opensuse.org/">Sociale netwerk</a></li>
 	    <li><a href="http://news.opensuse.org/">Nieuws</a></li>
@@ -156,7 +155,7 @@ Asia</a></li>
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/gb.png" alt="taal" title="taal" />
+          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/nl.png" alt="taal" title="taal" />
           <select id="language" name="language">
             <option value="nl" selected="selected">Engels</option>
             <option value="">---</option>
@@ -180,7 +179,7 @@ Asia</a></li>
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
- 	    &copy; 2008 Novell, Inc. All Rights Reserved.
+ 	    &copy; 2008 Novell, Inc. Alle rechten gereserveerd.
  	  </p>
 	  <p>
 	    <a target="_blank" href="http://www.novell.com/">

@@ -158,7 +158,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">λίστες
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/gb.png" alt="γλώσσα" title="γλώσσα" />
+          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/gr.png" alt="γλώσσα" title="γλώσσα" />
           <select id="language" name="language">
             <option value="el" selected="selected">Ελληνικά</option>
             <option value="">---</option>
