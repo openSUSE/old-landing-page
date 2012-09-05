@@ -3,6 +3,8 @@
 # Author(s): Guillaume GARDET <guillaume.gardet@opensuse.org>
 #
 # History:
+## 	- 2012-09-05:	Fix jp/ja language (JP is used on landing-page git repo
+##  whereas lang code is JA in i18n svn repo
 ##	- 2012-08-08:	Add nb (Norwegian bokmål)
 ##	- 2012-08-06:	Add da (Danish)
 ##	- 2012-06-26:	Fix PO filename
@@ -25,6 +27,9 @@ for lang in $langs; do
 	PO_folder="$lang/po"
 	
 	case $lang in
+	jp )
+		svn_server_lang_code=ja
+		;;
 	pt-br )
 		svn_server_lang_code=pt_BR
 		;;
