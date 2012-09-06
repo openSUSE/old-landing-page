@@ -59,17 +59,15 @@ msgstr "søk i hjelp"
 
 #. type: Content of: <html><body><div><div><form><div>
 #: en/index.shtml:39
-#, fuzzy
-#| msgid "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
 msgid "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
-msgstr "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
+msgstr "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:43
 msgid "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
 msgstr "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
 
-#. #include virtual="../sponsors.html" 
+#. #include virtual="../sponsors.html"
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:107 en/index.shtml:148 en/index.shtml:181
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -77,17 +75,13 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:51
-#, fuzzy
-#| msgid "<a href=\"http://forums.opensuse.org/\">"
 msgid "<a href=\"http://summit.opensuse.org\">"
-msgstr "<a href=\"http://forums.opensuse.org/\">"
+msgstr "<a href=\"http://summit.opensuse.org\">"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:51
-#, fuzzy
-#| msgid "<a href=\"http://conference.opensuse.org\">"
 msgid "</a> <a href=\"http://conference.opensuse.org\">"
-msgstr "<a href=\"http://conference.opensuse.org\">"
+msgstr "</a> <a href=\"http://conference.opensuse.org\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:52 en/index.shtml:54 en/index.shtml:115 en/index.shtml:192
@@ -275,7 +269,7 @@ msgstr "Norsk bokmål"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html" 
+#. #include virtual="../languages.html"
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:170
 msgid "</select>"
@@ -313,32 +307,28 @@ msgstr "Etablert av Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#, fuzzy
-#| msgid "openSUSE 12.1: All Green!"
 msgid "openSUSE 12.2: Green Means Go!"
-msgstr "openSUSE 12.1: Grønt lys!"
+msgstr "openSUSE 12.2: Grønt lys!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid "Dear users, developers, and Geekos around the world - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is ready for you! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it."
-msgstr ""
+msgstr "Kjære brukere, utviklere og geekkoer over hele verden – <a href=\"http://news.opensuse.org/2012/09/05/green-12-2-green-means-go/\">openSUSE 12.2</a> er ferdig! To måneders ekstra stabiliseringsarbeid har har resultert i et strøkent produkt, smekkfullt av godbiter og like stabilt som alltid."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:7
 msgid "The latest release of the world's most powerful and flexible Linux Distribution brings you speed-ups across the board with a faster storage layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a more fluid and responsive KDE desktop. The infrastructure below openSUSE has evolved, bringing in mature new technologies like GRUB2 and Plymouth and the first steps in the direction of a revised and simplified UNIX file system hierarchy.  Users will also notice the added polish to existing features bringing an improved user experience all over. The novel Btrfs file system comes with improved error handling and recovery tools, GNOME 3.4, developing rapidly, brings smooth scrolling to all applications and features a reworked System Settings and Contacts manager while XFCE has an enhanced application finder."
-msgstr ""
+msgstr "Siste versjon av verdens mest effektive og allsidige Linux-distribusjon gir deg ytelsesforbedringer over hele linjen takket være raskere lagringsmotor i Linux 3.4-kjernen og akselererte funksjoner i glibc og Qt, noe som gir et smidigere og kjappere KDE-skrivebord. Infrastrukturen som openSUSE bygger på, er videreutviklet med velprøvde nye teknologier som GRUB2 og Plymouth, og de første skrittene er tatt mot et revidert og forenklet UNIX-filsystem. Brukerne vil også legge merke til at eksisterende funksjoner er finjustert og polert for å gi en enda bedre generell brukeropplevelse. Det nye Btrfs-filsystemet har bedre feilhåndterings- og gjenopprettingsverktøy, og GNOME 3.4, som er i rask utvikling, har en smidig rullefunksjon i alle programmer og grensesnitt samt nye og bedre systeminnstillinger og kontakthåndteringsfunksjoner. Og XFCE har en forbedret programstarter."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
 msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
-msgstr ""
+msgstr "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Les mer ...</a>"
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:21
-#, fuzzy
-#| msgid "You can <a href=\"http://en.opensuse.org/Product_highlights\">learn what is new</a>, <a href=\"http://software.opensuse.org/\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr "Se <a href=\"http://en.opensuse.org/Product_highlights\">hva som er nytt</a>, <a href=\"http://software.opensuse.org/\">last ned</a> og <a href=\"http://upgrade.opensuse.org\">oppgrader</a>!"
+msgstr "Su kN <a href=\"http://en.opensuse.org/Features\">lese om nyhetene</a>, <a href=\"http://software.opensuse.org/122\">laste ned</a> eller <a href=\"http://upgrade.opensuse.org\">oppgradere</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:29

@@ -133,8 +133,7 @@ href="http://ru.opensuse.org/openSUSE:Список_доступных_рассы
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">Магазин для Америки</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Shop for Europe &amp;
-Asia</a></li>
+          	 <li><a href="http://shop.opensuse.org">Магазин для Европы и Азии</a></li>
           </ul>
         </div>
       </div>
@@ -179,7 +178,7 @@ Asia</a></li>
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
- 	    &copy; 2008 Novell, Inc. All Rights Reserved.
+ 	    &copy; 2012 Novell, Inc. Все права защищены.
  	  </p>
 	  <p>
 	    <a target="_blank" href="http://www.novell.com/">
