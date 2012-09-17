@@ -313,7 +313,7 @@ msgstr "openSUSE 12.2: Grønt lys!"
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid "Dear users, developers, and Geekos around the world - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is ready for you! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it."
-msgstr "Kjære brukere, utviklere og geekkoer over hele verden – <a href=\"http://news.opensuse.org/2012/09/05/green-12-2-green-means-go/\">openSUSE 12.2</a> er ferdig! To måneders ekstra stabiliseringsarbeid har har resultert i et strøkent produkt, smekkfullt av godbiter og like stabilt som alltid."
+msgstr "Kjære brukere, utviklere og geekkoer over hele verden – <a href=\"http://news.opensuse.org/2012/09/05/green-12-2-green-means-go/\">openSUSE 12.2</a> er ferdig! To måneders ekstra stabiliseringsarbeid har resultert i et strøkent produkt, smekkfullt av godbiter og like stabilt som alltid."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:7
@@ -328,7 +328,7 @@ msgstr "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-
 #. type: Content of: <p><p>
 #: en/whats_hot.html:21
 msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr "Su kN <a href=\"http://en.opensuse.org/Features\">lese om nyhetene</a>, <a href=\"http://software.opensuse.org/122\">laste ned</a> eller <a href=\"http://upgrade.opensuse.org\">oppgradere</a>!"
+msgstr "Du kan <a href=\"http://en.opensuse.org/Features\">lese om nyhetene</a>, <a href=\"http://software.opensuse.org/122\">laste ned</a> eller <a href=\"http://upgrade.opensuse.org\">oppgradere</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:29
