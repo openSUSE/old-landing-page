@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 18:27+0300\n"
-"PO-Revision-Date: 2012-09-05 16:30+0300\n"
+"PO-Revision-Date: 2012-09-18 00:01+0300\n"
 "Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
 "Language-Team: Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org>\n"
 "Language: \n"
@@ -411,7 +411,6 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:7
-#, fuzzy
 msgid ""
 "The latest release of the world's most powerful and flexible Linux "
 "Distribution brings you speed-ups across the board with a faster storage "
@@ -426,7 +425,19 @@ msgid ""
 "System Settings and Contacts manager while XFCE has an enhanced application "
 "finder."
 msgstr ""
-"Η τελευταία έκδοση της πιο δυνατής και εύελικτης Διανομής Linux στον κόσμο,"
+"Η τελευταία έκδοση της πιο ισχυρής και ευέλικτης διανομής Linux στον κόσμο "
+"σας φέρνει ταχύτητα σε όλους τους τομείς με το ταχύτερο στρώμα αποθήκευσης "
+"του πυρήνα Linux 3.4 και τις επιταχύνσεις στα glibc και Qt, δίνοντας ένα πιο "
+"ρευστό και ανταποκρίσιμο περιβάλλον εργασίας KDE. Η υποδομή κάτω από το "
+"openSUSE έχει εξελιχθεί, φέρνοντας ώριμες νέες τεχνολογίες, όπως το GRUB2 "
+"και Plymouth και τα πρώτα βήματα προς την κατεύθυνση του αναθεωρημένου και "
+"απλοποιημένου συστήματος αρχείων UNIX. Οι χρήστες θα παρατηρήσετε επίσης την "
+"προσθήκη βελτιώσεων εμφάνισης στα υπάρχοντα χαρακτηριστικά που φέρνει μια "
+"βελτιωμένη εμπειρία χρήστη. Το νέο σύστημα αρχείων Btrfs έρχεται με "
+"βελτιωμένο χειρισμό σφαλμάτων και εργαλεία ανάκτησης, το GNOME 3.4, "
+"αναπτύσσεται ραγδαία, φέρνοντας ομαλή κύλιση σε όλες τις εφαρμογές και τα "
+"χαρακτηριστικά, ένα επανασχεδιασμένο περιβάλλον Ρυθμίσεων Συστήματος και "
+"Διαχείρισης Επαφών ενώ στο XFCE έχει μια βελτιωμένη εύρεση εφαρμογών."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
