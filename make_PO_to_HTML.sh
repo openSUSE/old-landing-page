@@ -53,7 +53,7 @@ for lang in $langs; do
 		filename=$(basename ${file%.pot}).$svn_server_lang_code.po
 		mkdir -p $PO_folder
 		cd $PO_folder
-		svn export https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
+		svn export --force https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
 		cd -
 	done
 	
