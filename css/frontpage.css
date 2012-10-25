@@ -1,6 +1,6 @@
 html, body{margin:0px;padding:0px;color:#444;background-color:white;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:0.9em;}
 h1, h2, h3{font-family:Arial,sans-serif;}
-h1{float:left;width:255px;height:255px;background-image:url(http://counter.opensuse.org/medium);margin:22px 0px 10px 0px;}
+h1{float:left;width:255px;height:255px;background-image:url(//counter.opensuse.org/medium);margin:22px 0px 10px 0px;}
 h1 span{display:none;}
 h2{margin:0px 0px 20px;color:#669900;}
 h3{font-size:1em;}
