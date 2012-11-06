@@ -31,7 +31,7 @@ s.parentNode.insertBefore(g,s);
 
 // inject banner link
 $(document).ready(function() {
-  $("#intro > a").replaceWith( "<a href='http://counter.opensuse.org/link/'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
+  $("#intro > a").replaceWith( "<a href='//counter.opensuse.org/link/'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
 });
 
 // inject changed de wiki link

@@ -43,8 +43,7 @@ name="searchscope">
             </select> <input type="text" name="searchstring" class="textfield" /> <input
 type="image" alt="spustit hledání" title="spustit hledání"
 class="searchbutton"
-src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
-/>
+src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="spustit
 hledání" />
@@ -52,6 +51,7 @@ hledání" />
       </div>
       <span class="clear">&nbsp;</span>
     </div>
+
     <div id="background">
       <div class="centered">
         <div id="intro" class="left minor_column">
@@ -114,7 +114,7 @@ obrazovky</span></a>
         <div id="help" class="right minor_column">
           <h2>Pomoc a podpora</h2>
           <p>
-            <a href="http://http://www.opensuse.cz/forum"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="získat pomoc" title="získat pomoc" /></a> <a href="http://www.opensuse.cz/forum">Fórum</a> je první místo kam
+            <a href="http://www.opensuse.cz/forum"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="získat pomoc" title="získat pomoc" /></a> <a href="http://www.opensuse.cz/forum">Fórum</a> je první místo kam
 jít, pokud hledáte odpovědi na vaše otázky ohledně openSUSE!
            </p>
            <p>

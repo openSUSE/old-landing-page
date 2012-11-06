@@ -42,8 +42,7 @@ name="searchscope">
             <option value="wiki" selected="selected">поиск в справке</option>
             </select> <input type="text" name="searchstring" class="textfield" /> <input
 type="image" alt="run search" title="run search" class="searchbutton"
-src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
-/>
+src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="run search"
 />
@@ -51,8 +50,10 @@ src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
       </div>
       <span class="clear">&nbsp;</span>
     </div>
+
     <div id="background">
       <div class="centered">
+	<a href="http://summit.opensuse.org"><img src="../images/frontpage/summit_banner.png" hspace="25"/></a> <a href="http://conference.opensuse.org"><img src="../images/frontpage/conference_banner.png" hspace="25"/></a>
         <div id="intro" class="left minor_column">
           <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
@@ -132,8 +133,7 @@ href="http://ru.opensuse.org/openSUSE:Список_доступных_рассы
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">Магазин для Америки</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Магазин для Европы и
-Азии</a></li>
+          	 <li><a href="http://shop.opensuse.org">Магазин для Европы и Азии</a></li>
           </ul>
         </div>
       </div>
@@ -178,7 +178,7 @@ href="http://ru.opensuse.org/openSUSE:Список_доступных_рассы
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
- 	    &copy; 2008 Novell, Inc. Все права защищены.
+ 	    &copy; 2012 Novell, Inc. Все права защищены.
  	  </p>
 	  <p>
 	    <a target="_blank" href="http://www.novell.com/">

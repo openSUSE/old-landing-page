@@ -3,6 +3,8 @@
 # Author(s): Guillaume GARDET <guillaume.gardet@opensuse.org>
 #
 # History:
+## 	- 2012-09-05:	Fix flag code hack since "http:" was removed from URL. => Fix bug where GB flag is shown for all languages
+## 	- 2012-09-05:	Fix jp/ja language (JP is used on landing-page git repo whereas lang code is JA in i18n svn repo
 ##	- 2012-08-08:	Add nb (Norwegian bokmål)
 ##	- 2012-08-06:	Add da (Danish)
 ##	- 2012-06-26:	Fix PO filename
@@ -18,13 +20,17 @@ HTML_files_folder="./en"
 POT_files_folder="./50-pot/"
 langs="cs da de el es fi fr hu it jp lt nb nl pl pt-br ru sk th zh-cn zh-tw" #without en, of course
 PO_filename_root="opensuse-org"
-translation_limit="50"	# Minimal translation percentage. Under this limit, no HTML file is output.
+# FIXME: not output HTML needs to be handled better
+translation_limit="0"	# Minimal translation percentage. Under this limit, no HTML file is output.
 
 for lang in $langs; do
 	output_folder=$lang
 	PO_folder="$lang/po"
 	
 	case $lang in
+	jp )
+		svn_server_lang_code=ja
+		;;
 	pt-br )
 		svn_server_lang_code=pt_BR
 		;;
@@ -47,7 +53,7 @@ for lang in $langs; do
 		filename=$(basename ${file%.pot}).$svn_server_lang_code.po
 		mkdir -p $PO_folder
 		cd $PO_folder
-		svn export https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
+		svn export --force https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
 		cd -
 	done
 	
@@ -102,7 +108,7 @@ $output_folder/$HTML_file"
 	 	flag=$lang
 	 	;;
 	esac
-	sed -i -e "s/<img src=\"http:\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/gb.png\"/<img src=\"http:\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/$flag.png\"/g" "$file"
+	sed -i -e "s/<img src=\"\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/gb.png\"/<img src=\"\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/$flag.png\"/g" "$file"
 	
 
 	# Replace <option value="en" selected="selected"> with the right lang code

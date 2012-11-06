@@ -42,8 +42,7 @@ name="searchscope">
             <option value="wiki" selected="selected">搜尋說明章節</option>
             </select> <input type="text" name="searchstring" class="textfield" /> <input
 type="image" alt="run search" title="run search" class="searchbutton"
-src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
-/>
+src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="run search"
 />
@@ -51,8 +50,10 @@ src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
       </div>
       <span class="clear">&nbsp;</span>
     </div>
+
     <div id="background">
       <div class="centered">
+	<a href="http://summit.opensuse.org"><img src="../images/frontpage/summit_banner.png" hspace="25"/></a> <a href="http://conference.opensuse.org"><img src="../images/frontpage/conference_banner.png" hspace="25"/></a>
         <div id="intro" class="left minor_column">
           <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
@@ -67,7 +68,7 @@ src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
 <span class="bottom clear">&nbsp;</span> </a>
           </li>
           <li id="discover">
-            <a href="http://en.opensuse.org"> <span class="top">&nbsp;</span> <span
+            <a href="http://zh-tw.opensuse.org"> <span class="top">&nbsp;</span> <span
 class="buttontext"> <strong>發現： </strong> 使用教學、文件以及其他資源來瞭解更多關於 openSUSE 的事！
 </span> <span class="bottom clear">&nbsp;</span> </a>
           </li>
@@ -83,7 +84,7 @@ id="screenshots">&nbsp;</span>
     </div>
     <div id="toggle_screenshots_container" class="centered">
       <a href="../screenshots.php" id="toggle_screenshots"><span>&raquo;
-螢幕抓圖</span></a>
+螢幕擷圖</span></a>
     </div>
     <div class="centered">
       <div id="teasers">
@@ -113,7 +114,7 @@ id="screenshots">&nbsp;</span>
            </p>
            <p>
           	想要討論 openSUSE、參與開發或用其他方式做一點貢獻嗎？請加入 <a
-href="http://en.opensuse.org/openSUSE:Mailing_lists">郵件列表</a>。
+href="http://zh-tw.opensuse.org/openSUSE:Mailing_lists">郵件列表</a>。
           </p>
         </div>
         <hr class="right minor_column" />
@@ -135,7 +136,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">郵件列表</a>。
     <div class="centered">
         <ul id="network" class="left">
 	    <li><a href="http://software.opensuse.org/">取得軟體</a></li>
-	    <li><a href="http://en.opensuse.org/">維基</a></li>
+	    <li><a href="http://zh-tw.opensuse.org/">維基</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
 	    <li><a href="http://connect.opensuse.org/">社交網路</a></li>
 	    <li><a href="http://news.opensuse.org/">新聞</a></li>

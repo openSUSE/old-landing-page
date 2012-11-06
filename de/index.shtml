@@ -42,8 +42,7 @@ name="searchscope">
             <option value="wiki" selected="selected">In der Hilfe suchen</option>
             </select> <input type="text" name="searchstring" class="textfield" /> <input
 type="image" alt="run search" title="Suche starten" class="searchbutton"
-src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
-/>
+src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="Suche
 starten" />
@@ -51,6 +50,7 @@ starten" />
       </div>
       <span class="clear">&nbsp;</span>
     </div>
+
     <div id="background">
       <div class="centered">
         <div id="intro" class="left minor_column">
@@ -70,7 +70,7 @@ herunter oder finden Sie zusätzliche Software.  </span> <span class="bottom
 clear">&nbsp;</span> </a>
           </li>
           <li id="discover">
-            <a href="http://en.opensuse.org"> <span class="top">&nbsp;</span> <span
+            <a href="http://de.opensuse.org"> <span class="top">&nbsp;</span> <span
 class="buttontext"> <strong>Entdecken Sie's: </strong> Erfahren Sie mehr
 über openSUSE: Mit Tutorials, Dokumentationen und mehr. </span> <span
 class="bottom clear">&nbsp;</span> </a>
@@ -113,21 +113,21 @@ Bildschirmfotos</span></a>
         <div id="help" class="right minor_column">
           <h2>Hilfe &amp; Unterstützung</h2>
           <p>
-            <a href="http://forums.opensuse.org/"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="Holen Sie sich hilfe" title="Holen Sie sich hilfe" /></a> Die <a href="http://forums.opensuse.org/">Foren</a> sind die erste
+            <a href="http://forums.opensuse.org/"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="Holen Sie sich Hilfe" title="Holen Sie sich Hilfe" /></a> Die <a href="http://forums.opensuse.org/">Foren</a> sind die erste
 Anlaufstelle, um Antworten auf Ihre Fragen über openSUSE zu finden.
            </p>
            <p>
           	Möchten Sie über openSUSE diskutieren, an der Entwicklung teilnehmen oder in
 anderer Hinsicht mithelfen? Abonnieren Sie eine der <a
-href="http://dewiki.opensuse.org/openSUSE:Kommunikationskanal#Mailinglisten">Mailinglisten</a>.
+href="http://de.opensuse.org/openSUSE:Kommunikation#Mailinglisten">Mailinglisten</a>.
           </p>
         </div>
         <hr class="right minor_column" />
         <div id="shop" class="right minor_column">
-          <h2>openSUSE Shop</h2>
+          <h2>openSUSE-Shop</h2>
           <p>
-            <a href="http://shop.opensuse.org/"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE shop" title="openSUSE shop" /></a> Der <a href="http://shop.opensuse.org/">Shop</a> ist der Ort, wo Sie
-offizielle openSUSE Fanartikel erhalten. T-Shirts, Tassen, Mützen, Taschen
+            <a href="http://shop.opensuse.org/"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE-shop" title="openSUSE-shop" /></a> Der <a href="http://shop.opensuse.org/">Shop</a> ist der Ort, wo Sie
+offizielle openSUSE-Fanartikel erhalten. T-Shirts, Tassen, Mützen, Taschen
 und mehr sind dort erhältlich. 
            </p>
            <ul>
@@ -143,9 +143,9 @@ Asien</a></li>
     <div class="centered">
         <ul id="network" class="left">
 	    <li><a href="http://software.opensuse.org/">Software</a></li>
-	    <li><a href="http://dewiki.opensuse.org/">Wiki</a></li>
+	    <li><a href="http://de.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
-	    <li><a href="http://connect.opensuse.org/">Social Network</a></li>
+	    <li><a href="http://connect.opensuse.org/">Soziales Netzwerk</a></li>
 	    <li><a href="http://news.opensuse.org/">News</a></li>
 	    <li><a href="http://forums.opensuse.org/">Foren</a></li>
 	    <li><a href="http://shop.opensuse.org/">Shop</a></li>

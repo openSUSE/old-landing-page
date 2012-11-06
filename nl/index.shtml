@@ -43,8 +43,7 @@ name="searchscope">
             </select> <input type="text" name="searchstring" class="textfield" /> <input
 type="image" alt="zoeken uitvoeren" title="zoeken uitvoeren"
 class="searchbutton"
-src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"
-/>
+src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="zoeken
 uitvoeren" />
@@ -52,8 +51,10 @@ uitvoeren" />
       </div>
       <span class="clear">&nbsp;</span>
     </div>
+
     <div id="background">
       <div class="centered">
+	<a href="http://summit.opensuse.org"><img src="../images/frontpage/summit_banner.png" hspace="25"/></a> <a href="http://conference.opensuse.org"><img src="../images/frontpage/conference_banner.png" hspace="25"/></a>
         <div id="intro" class="left minor_column">
           <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
@@ -71,7 +72,7 @@ of zoek extra software.  </span> <span class="bottom clear">&nbsp;</span>
 </a>
           </li>
           <li id="discover">
-            <a href="http://en.opensuse.org"> <span class="top">&nbsp;</span> <span
+            <a href="http://nl.opensuse.org"> <span class="top">&nbsp;</span> <span
 class="buttontext"> <strong>Ontdek het: </strong> Leer meer over openSUSE
 met inleidingen, documentatie en meer! </span> <span class="bottom
 clear">&nbsp;</span> </a>
@@ -120,7 +121,7 @@ plekken als u antwoorden op vragen over openSUSE wilt krijgen!
            <p>
           	Wilt u discussies voeren over openSUSE, in de ontwikkeling deelnemen of op
 andere manieren bijdragen? Meldt u dan aan op de <a
-href="http://en.opensuse.org/openSUSE:Mailing_lists">e-maillijsten</a>.
+href="http://nl.opensuse.org/openSUSE:Mailing_lists">e-maillijsten</a>.
           </p>
         </div>
         <hr class="right minor_column" />
@@ -133,8 +134,7 @@ nog veel meer.
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">Shop voor de Amerika's</a></li>
-          	 <li><a href="http://shop.opensuse.org/shop-eu.html">Shop voor Europe &amp;
-Azië</a></li>
+          	 <li><a href="http://shop.opensuse.org">Shop voor Europe &amp; Azië</a></li>
           </ul>
         </div>
       </div>
@@ -144,7 +144,7 @@ Azië</a></li>
     <div class="centered">
         <ul id="network" class="left">
 	    <li><a href="http://software.opensuse.org/">Software verkrijgen</a></li>
-	    <li><a href="http://en.opensuse.org/">Wiki</a></li>
+	    <li><a href="http://nl.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
 	    <li><a href="http://connect.opensuse.org/">Sociale netwerk</a></li>
 	    <li><a href="http://news.opensuse.org/">Nieuws</a></li>
