@@ -54,6 +54,11 @@ uitvoeren" />
 
     <div id="background">
       <div class="centered">
+
+        <a href="https://en.opensuse.org/openSUSE:Board_election#Candidates">
+        <img src="../images/frontpage/openSUSE-2012-Elections_banner_760.png"/>
+        </a>
+
         <div id="intro" class="left minor_column">
           <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
