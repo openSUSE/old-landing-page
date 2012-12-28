@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-10-25 10:39+0300\n"
-"PO-Revision-Date: 2012-09-05 16:11+0200\n"
+"POT-Creation-Date: 2012-12-04 15:16+0100\n"
+"PO-Revision-Date: 2012-12-05 10:11+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <opensuse-nl@opensuse.org>\n"
 "Language: \n"
@@ -84,42 +84,38 @@ msgstr ""
 
 #. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
-#: en/index.shtml:46 en/index.shtml:107 en/index.shtml:148 en/index.shtml:181
+#: en/index.shtml:46 en/index.shtml:110 en/index.shtml:151 en/index.shtml:184
 msgid "<span class=\"clear\">&nbsp;</span>"
 msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
-#: en/index.shtml:51
-msgid "<a href=\"http://summit.opensuse.org\">"
-msgstr "<a href=\"http://summit.opensuse.org\">"
-
-#. type: Content of: <html><body><div><div><a>
-#: en/index.shtml:51
-msgid "</a> <a href=\"http://conference.opensuse.org\">"
-msgstr "</a> <a href=\"http://conference.opensuse.org\">"
+#: en/index.shtml:52
+#| msgid "<a href=\"http://news.opensuse.org/feed/\">"
+msgid "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+msgstr "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
 
 #. type: Content of: <html><body><div><p>
-#: en/index.shtml:52 en/index.shtml:54 en/index.shtml:115 en/index.shtml:192
+#: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
 msgid "</a>"
 msgstr "</a>"
 
 #. type: Content of: <html><body><div><div><div><a>
-#: en/index.shtml:54
+#: en/index.shtml:57
 msgid "<a href=\"http://conference.opensuse.org\">"
 msgstr "<a href=\"http://conference.opensuse.org\">"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
-#: en/index.shtml:54
+#: en/index.shtml:57
 msgid "openSUSE"
 msgstr "openSUSE"
 
 #. type: Content of: <html><body><div><div><div><a><h1>
-#: en/index.shtml:54
+#: en/index.shtml:57
 msgid "<span>openSUSE</span>"
 msgstr "<span>openSUSE</span>"
 
 #. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:56
+#: en/index.shtml:59
 msgid ""
 "<strong>openSUSE</strong> is a free and Linux-based operating system for "
 "your PC, Laptop or Server.  You can surf the web, manage your e-mails and "
@@ -131,7 +127,7 @@ msgstr ""
 "lot of fun!</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
-#: en/index.shtml:65
+#: en/index.shtml:68
 msgid ""
 "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
 "<span class=\"buttontext\"> <strong>Get it: </strong> Download openSUSE or "
@@ -144,7 +140,7 @@ msgstr ""
 "</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
-#: en/index.shtml:75
+#: en/index.shtml:78
 msgid ""
 "<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
 "class=\"buttontext\"> <strong>Discover it: </strong> Learn more about "
@@ -157,7 +153,7 @@ msgstr ""
 "\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
-#: en/index.shtml:85
+#: en/index.shtml:88
 msgid ""
 "<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
 "<span class=\"buttontext\"> <strong>Create it: </strong> Build packages for "
@@ -170,7 +166,7 @@ msgstr ""
 "class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div>
-#: en/index.shtml:95
+#: en/index.shtml:98
 msgid ""
 "<span class=\"clear\">&nbsp;</span> <span class=\"centered\" id=\"screenshots"
 "\">&nbsp;</span>"
@@ -179,7 +175,7 @@ msgstr ""
 "\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div>
-#: en/index.shtml:100
+#: en/index.shtml:103
 msgid ""
 "<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; "
 "Screenshots</span></a>"
@@ -188,37 +184,37 @@ msgstr ""
 "Schermafdrukken</span></a>"
 
 #. type: Content of: <html><body><div><div><div><h2>
-#: en/index.shtml:111
+#: en/index.shtml:114
 msgid "News &amp; Events"
 msgstr "Nieuws &amp; gebeurtenissen"
 
 #. type: Content of: <html><body><div><div><div><p><a>
-#: en/index.shtml:113
+#: en/index.shtml:116
 msgid "<a href=\"http://news.opensuse.org/feed/\">"
 msgstr "<a href=\"http://news.opensuse.org/feed/\">"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
-#: en/index.shtml:114
+#: en/index.shtml:117
 msgid "RSS newsfeed"
 msgstr "RSS-newsfeed"
 
 #. type: Content of: <html><body><div><div><div><h2>
-#: en/index.shtml:121
+#: en/index.shtml:124
 msgid "Help &amp; Support"
 msgstr "Hulp &amp; ondersteuning"
 
 #. type: Content of: <html><body><div><div><div><p><a>
-#: en/index.shtml:123
+#: en/index.shtml:126
 msgid "<a href=\"http://forums.opensuse.org/\">"
 msgstr "<a href=\"http://forums.opensuse.org/\">"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
-#: en/index.shtml:123
+#: en/index.shtml:126
 msgid "get help"
 msgstr "hulp verkrijgen"
 
 #. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:123
+#: en/index.shtml:126
 msgid ""
 "</a> The <a href=\"http://forums.opensuse.org/\">forums</a> are the first "
 "place to go if you want answers to questions about openSUSE!"
@@ -227,7 +223,7 @@ msgstr ""
 "plekken als u antwoorden op vragen over openSUSE wilt krijgen!"
 
 #. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:128
+#: en/index.shtml:131
 msgid ""
 "Want to discuss openSUSE, participate in development, or contribute in other "
 "ways? Join one of the <a href=\"http://en.opensuse.org/openSUSE:Mailing_lists"
@@ -238,22 +234,22 @@ msgstr ""
 "opensuse.org/openSUSE:Mailing_lists\">e-maillijsten</a>."
 
 #. type: Content of: <html><body><div><div><div><h2>
-#: en/index.shtml:135
+#: en/index.shtml:138
 msgid "openSUSE Shop"
 msgstr "openSUSE Shop"
 
 #. type: Content of: <html><body><div><div><div><p><a>
-#: en/index.shtml:137
+#: en/index.shtml:140
 msgid "<a href=\"http://shop.opensuse.org/\">"
 msgstr "<a href=\"http://shop.opensuse.org/\">"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
-#: en/index.shtml:137
+#: en/index.shtml:140
 msgid "openSUSE shop"
 msgstr "openSUSE shop"
 
 #. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:137
+#: en/index.shtml:140
 msgid ""
 "</a> The <a href=\"http://shop.opensuse.org/\">shop</a> is the place to find "
 "official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
@@ -263,116 +259,116 @@ msgstr ""
 "nog veel meer."
 
 #. type: Content of: <html><body><div><div><div><ul><li>
-#: en/index.shtml:143
+#: en/index.shtml:146
 msgid "<a href=\"http://shop.opensuse.org/shop-us.html\">Shop for Americas</a>"
 msgstr ""
 "<a href=\"http://shop.opensuse.org/shop-us.html\">Shop voor de Amerika's</a>"
 
 #. type: Content of: <html><body><div><div><div><ul><li>
-#: en/index.shtml:144
+#: en/index.shtml:147
 msgid ""
 "<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; "
 "Asia</a>"
 msgstr "<a href=\"http://shop.opensuse.org\">Shop voor Europe &amp; Azië</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:153
+#: en/index.shtml:156
 msgid "<a href=\"http://software.opensuse.org/\">Get Software</a>"
 msgstr "<a href=\"http://software.opensuse.org/\">Software verkrijgen</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:154
+#: en/index.shtml:157
 msgid "<a href=\"http://en.opensuse.org/\">Wiki</a>"
 msgstr "<a href=\"http://nl.opensuse.org/\">Wiki</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:155
+#: en/index.shtml:158
 msgid "<a href=\"http://build.opensuse.org/\">Build Service</a>"
 msgstr "<a href=\"http://build.opensuse.org/\">Build Service</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:156
+#: en/index.shtml:159
 msgid "<a href=\"http://connect.opensuse.org/\">Social Network</a>"
 msgstr "<a href=\"http://connect.opensuse.org/\">Sociale netwerk</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:157
+#: en/index.shtml:160
 msgid "<a href=\"http://news.opensuse.org/\">News</a>"
 msgstr "<a href=\"http://news.opensuse.org/\">Nieuws</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:158
+#: en/index.shtml:161
 msgid "<a href=\"http://forums.opensuse.org/\">Forums</a>"
 msgstr "<a href=\"http://forums.opensuse.org/\">Forums</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:159
+#: en/index.shtml:162
 msgid "<a href=\"http://shop.opensuse.org/\">Shop</a>"
 msgstr "<a href=\"http://shop.opensuse.org/\">Shop</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:160
+#: en/index.shtml:163
 msgid "<a href=\"http://lizards.opensuse.org/\">Blogs</a>"
 msgstr "<a href=\"http://lizards.opensuse.org/\">Blogs</a>"
 
 #. type: Content of: <html><body><div><ul><li>
-#: en/index.shtml:161
+#: en/index.shtml:164
 msgid "<a href=\"mailto:press@opensuse.org\">Press</a>"
 msgstr "<a href=\"mailto:press@opensuse.org\">Pers</a>"
 
 #. type: Attribute 'title' of: <html><body><div><div><form><img>
-#: en/index.shtml:165
+#: en/index.shtml:168
 msgid "language"
 msgstr "taal"
 
 #. type: Content of: <html><body><div><div><form><select>
-#: en/index.shtml:166
+#: en/index.shtml:169
 msgid "<select id=\"language\" name=\"language\">"
 msgstr "<select id=\"language\" name=\"language\">"
 
 #. type: Content of: <html><body><div><div><form><select><option>
-#: en/index.shtml:167
+#: en/index.shtml:170
 msgid "English"
 msgstr "Engels"
 
 #. type: Content of: <html><body><div><div><form><select><option>
-#: en/index.shtml:168
+#: en/index.shtml:171
 msgid "---"
 msgstr "---"
 
 #. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
-#: en/index.shtml:170
+#: en/index.shtml:173
 msgid "</select>"
 msgstr "</select>"
 
 #. type: Content of: <html><body><div><div><form><noscript>
-#: en/index.shtml:172
+#: en/index.shtml:175
 msgid "<input type=\"submit\" name=\"submit\" value=\"change\" />"
 msgstr "<input type=\"submit\" name=\"submit\" value=\"wijzigen\" />"
 
 #. type: Content of: <html><body><div><h2>
-#: en/index.shtml:179
+#: en/index.shtml:182
 msgid "Sponsored by"
 msgstr "Gesponsord door"
 
 #. type: Content of: <html><body>
-#: en/index.shtml:183
+#: en/index.shtml:186
 msgid "<span>&nbsp;</span>"
 msgstr "<span>&nbsp;</span>"
 
 #. type: Content of: <html><body><div><p>
-#: en/index.shtml:187
+#: en/index.shtml:190
 msgid "&copy; 2008 Novell, Inc. All Rights Reserved."
 msgstr "&copy; 2008 Novell, Inc. Alle rechten gereserveerd."
 
 #. type: Content of: <html><body><div><p><a>
-#: en/index.shtml:190
+#: en/index.shtml:193
 msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 
 #. type: Attribute 'alt' of: <html><body><div><p><a><img>
-#: en/index.shtml:191
+#: en/index.shtml:194
 msgid "Founded by Novell"
 msgstr "Founded by Novell"
 
@@ -502,6 +498,12 @@ msgstr ""
 "discussiëren en wordt een actief lid van de openSUSE gemeenschappen.  <a "
 "href=\"http://nl.opensuse.org/Portal:How_to_participate\">Wilt u meer weten?"
 "</a>"
+
+#~ msgid "<a href=\"http://summit.opensuse.org\">"
+#~ msgstr "<a href=\"http://summit.opensuse.org\">"
+
+#~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
+#~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
 
 #~| msgid ""
 #~| "It is November 16, 2011 and our mirrors have synced. Time to present to "

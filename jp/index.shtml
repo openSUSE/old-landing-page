@@ -53,8 +53,8 @@ src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
     <div id="background">
       <div class="centered">
 
-        <a href="https://en.opensuse.org/openSUSE:Board_election#Candidates">
-        <img src="../images/frontpage/openSUSE-2012-Elections_banner_760.png"/>
+        <a href="https://news.opensuse.org/2012/12/17/2013_new_board_members/">
+        <img src="../images/frontpage/openSUSE-2012-Election-Results_banner_760.png"/>
         </a>
 
         <div id="intro" class="left minor_column">
