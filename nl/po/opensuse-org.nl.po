@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-12-04 15:16+0100\n"
-"PO-Revision-Date: 2012-12-05 10:11+0100\n"
+"POT-Creation-Date: 2012-12-28 16:04+0100\n"
+"PO-Revision-Date: 2012-12-28 21:11+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <opensuse-nl@opensuse.org>\n"
 "Language: \n"
@@ -91,8 +91,9 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:52
 #| msgid "<a href=\"http://news.opensuse.org/feed/\">"
-msgid "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
-msgstr "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+msgid ""
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
+msgstr "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
@@ -498,6 +499,12 @@ msgstr ""
 "discussiëren en wordt een actief lid van de openSUSE gemeenschappen.  <a "
 "href=\"http://nl.opensuse.org/Portal:How_to_participate\">Wilt u meer weten?"
 "</a>"
+
+#~| msgid "<a href=\"http://news.opensuse.org/feed/\">"
+#~ msgid ""
+#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+#~ msgstr ""
+#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
 
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"

@@ -1,12 +1,12 @@
 # Alexander Melentiev <alex239@gmail.com>, 2010.
-# Alexander Melentiev <minton@opensuse.org>, 2011, 2012.
+# Alexander Melentiev <minton@opensuse.org>, 2011, 2012, 2013.
 # Serge Yefimov <denver14@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org-theme\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-04 15:16+0100\n"
-"PO-Revision-Date: 2012-12-24 00:13+0400\n"
+"POT-Creation-Date: 2012-12-28 16:04+0100\n"
+"PO-Revision-Date: 2013-01-04 16:46+0400\n"
 "Last-Translator: Alexander Melentyev <minton@opensuse.org>\n"
 "Language-Team: Russian <opensuse-translation-ru@opensuse.org>\n"
 "Language: ru\n"
@@ -91,9 +91,10 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:52
-msgid "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+msgid ""
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 msgstr ""
-"<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
@@ -498,6 +499,11 @@ msgstr ""
 "найдите пару минут, чтобы обсудить openSUSE с другими пользователями и стать "
 "активным членом сообщества openSUSE. <a href=\"http://ru.opensuse.org/Portal:"
 "Как_принять_участие\">Хотите знать больше?</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+#~ msgstr ""
+#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
 
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-04 15:16+0100\n"
+"POT-Creation-Date: 2012-12-28 16:04+0100\n"
 "PO-Revision-Date: 2012-08-17 17:39+0200\n"
 "Last-Translator: Javier Llorente <javier@opensuse.org>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
@@ -95,7 +95,8 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:52
-msgid "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+msgid ""
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 msgstr ""
 
 #. type: Content of: <html><body><div><p>

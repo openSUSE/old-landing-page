@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-12-04 15:16+0100\n"
-"PO-Revision-Date: 2012-12-28 16:03+0100\n"
+"POT-Creation-Date: 2012-12-28 16:04+0100\n"
+"PO-Revision-Date: 2013-01-10 15:48+0100\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@free.fr>\n"
 "Language-Team: French <opensuse-fr@opensuse.org>\n"
 "Language: fr\n"
@@ -92,9 +92,10 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:52
-msgid "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+msgid ""
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 msgstr ""
-"<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
@@ -512,6 +513,11 @@ msgstr ""
 "d'autres utilisateurs et devenez un membre actif de la communauté "
 "openSUSE.   <a href=\"http://fr.opensuse.org/Portal:Comment_participer"
 "\">Voulez-vous en savoir davantage ?</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+#~ msgstr ""
+#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
 
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"
