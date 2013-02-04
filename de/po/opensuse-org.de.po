@@ -1,10 +1,10 @@
-# Michael Skiba <trans@michael-skiba.de>, 2012.
+# Michael Skiba <trans@michael-skiba.de>, 2012, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-28 16:04+0100\n"
-"PO-Revision-Date: 2012-09-06 11:10+0200\n"
+"PO-Revision-Date: 2013-01-11 08:45+0100\n"
 "Last-Translator: Michael Skiba <trans@michael-skiba.de>\n"
 "Language-Team: German <opensuse-translation-de@opensuse.org>\n"
 "Language: de\n"
@@ -81,7 +81,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"Suche "
 "starten\" />"
 
-#. #include virtual="../sponsors.html" 
+#. #include virtual="../sponsors.html"
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:110 en/index.shtml:151 en/index.shtml:184
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -92,6 +92,7 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 msgid ""
 "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 msgstr ""
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
@@ -337,7 +338,7 @@ msgstr "Englisch"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html" 
+#. #include virtual="../languages.html"
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:173
 msgid "</select>"

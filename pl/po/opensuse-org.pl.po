@@ -2,20 +2,21 @@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 # Michał Newiak <manveru1986@gmail.com>, 2012.
+# Mariusz Fik <fisiu@opensuse.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-28 16:04+0100\n"
-"PO-Revision-Date: 2012-12-28 15:57+0100\n"
-"Last-Translator: Piotr Krakowiak <piotr.krakowiak@opensuse.biz>\n"
-"Language-Team: Polish openSUSE translation TEAM\n"
+"PO-Revision-Date: 2013-01-25 14:21+0100\n"
+"Last-Translator: Mariusz Fik <fisiu@opensuse.org>\n"
+"Language-Team: Polish <opensuse-pl@opensuse.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: Attribute 'lang' of: <html>
 #: en/index.shtml:2
@@ -30,7 +31,7 @@ msgstr "openSUSE.org"
 #. type: Attribute 'title' of: <html><head><link>
 #: en/index.shtml:25
 msgid "openSUSE news &amp; events"
-msgstr "openSUSE - aktualnośći i wydarzenia"
+msgstr "openSUSE - aktualności i wydarzenia"
 
 #. type: Content of: <html><body><div><div><form><div><select>
 #: en/index.shtml:33
@@ -50,7 +51,7 @@ msgstr "poszukaj w aktualnościach"
 #. type: Content of: <html><body><div><div><form><div><select><option>
 #: en/index.shtml:37
 msgid "search for software"
-msgstr "poszukaj oprogrmowania"
+msgstr "poszukaj oprogramowania"
 
 #. type: Content of: <html><body><div><div><form><div><select><option>
 #: en/index.shtml:38
@@ -75,9 +76,8 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:52
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
-msgstr "<a href=\"http://news.opensuse.org/feed/\">"
+msgstr "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
@@ -157,7 +157,7 @@ msgstr "<a href=\"http://forums.opensuse.org/\">"
 #. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
 #: en/index.shtml:126
 msgid "get help"
-msgstr "gtk-help"
+msgstr "uzyskaj pomoc"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:126
@@ -187,7 +187,7 @@ msgstr "Sklep openSUSE"
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:140
 msgid "</a> The <a href=\"http://shop.opensuse.org/\">shop</a> is the place to find official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
-msgstr "</a><a href=\"http://shop.opensuse.org/\">Sklep</a> jest miejstem, w którym znajdziesz akcesoria związane z openSUSE.  Koszulki, kubki, czapki, torby i wiele innych."
+msgstr "</a><a href=\"http://shop.opensuse.org/\">Sklep</a> jest miejscem, w którym znajdziesz akcesoria związane z openSUSE.  Koszulki, kubki, czapki, torby i wiele innych."
 
 #. type: Content of: <html><body><div><div><div><ul><li>
 #: en/index.shtml:146

@@ -3,13 +3,13 @@
 #
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
-# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2012.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2012, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-28 16:04+0100\n"
-"PO-Revision-Date: 2012-09-05 08:07-0300\n"
+"PO-Revision-Date: 2013-01-30 08:52-0200\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "Language: pt_BR\n"
@@ -88,7 +88,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run "
 "search\" />"
 
-#. #include virtual="../sponsors.html" 
+#. #include virtual="../sponsors.html"
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:110 en/index.shtml:151 en/index.shtml:184
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -99,6 +99,7 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 msgid ""
 "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 msgstr ""
+"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
@@ -345,7 +346,7 @@ msgstr "Inglês"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html" 
+#. #include virtual="../languages.html"
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:173
 msgid "</select>"
