@@ -54,12 +54,12 @@ src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
     <div id="background">
       <div class="centered">
 
-        <a href="https://news.opensuse.org/2012/12/17/2013_new_board_members/">
-        <img src="../images/frontpage/openSUSE-2012-Election-Results_banner_760.png"/>
+        <a href="http://conference.opensuse.org">
+        <img src="../images/frontpage/oSC13_banner.jpg" alt="oSC13 Banner" />
         </a>
 
         <div id="intro" class="left minor_column">
-          <a href="http://conference.opensuse.org"><h1 title="openSUSE"><span>openSUSE</span></h1></a>
+          <h1 title="openSUSE"><span>openSUSE</span></h1>
           <p class="first">
             <strong>openSUSE</strong> 是一個自由的、基於 Linux 的作業系統， 專為您的個人電腦、筆記型電腦或伺服器所設計。
 您可以暢遊網路、管理您的電子郵件與照片、 執行辦公室工作、欣賞影片與音樂並且 <em>have a lot of fun!</em>

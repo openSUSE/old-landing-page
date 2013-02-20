@@ -77,7 +77,7 @@ msgid ""
 "search\" />"
 msgstr ""
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:110 en/index.shtml:151 en/index.shtml:184
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -257,7 +257,8 @@ msgstr "<a href=\"http://shop.opensuse.org/shop-us.html\">美洲地區的商店<
 msgid ""
 "<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; "
 "Asia</a>"
-msgstr "<a href=\"http://shop.opensuse.org/shop-eu.html\">歐洲 &amp; 亞洲的商店</a>"
+msgstr ""
+"<a href=\"http://shop.opensuse.org/shop-eu.html\">歐洲 &amp; 亞洲的商店</a>"
 
 #. type: Content of: <html><body><div><ul><li>
 #: en/index.shtml:156
@@ -325,7 +326,7 @@ msgstr "英語"
 msgid "---"
 msgstr ""
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:173
 msgid "</select>"

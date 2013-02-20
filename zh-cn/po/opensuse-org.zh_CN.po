@@ -79,10 +79,10 @@ msgid ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run "
 "search\" />"
 msgstr ""
-"<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"执行搜索\" "
-"/>"
+"<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"执行搜"
+"索\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:110 en/index.shtml:151 en/index.shtml:184
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -122,8 +122,9 @@ msgid ""
 "your PC, Laptop or Server.  You can surf the web, manage your e-mails and "
 "photos, do office work, play videos or music and <em>have a lot of fun!</em>"
 msgstr ""
-"<strong>openSUSE</strong> 是一个基于 Linux 的自由操作系统，倾心呵护您的台式机、笔记本或服务器 "
-"。您可以使用它上网冲浪、管理电子邮件和相片、处理工作事务、播放视频或音频，<em>祝您使用愉快！</em>"
+"<strong>openSUSE</strong> 是一个基于 Linux 的自由操作系统，倾心呵护您的台式"
+"机、笔记本或服务器 。您可以使用它上网冲浪、管理电子邮件和相片、处理工作事务、"
+"播放视频或音频，<em>祝您使用愉快！</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:68
@@ -134,8 +135,8 @@ msgid ""
 "span> </a>"
 msgstr ""
 "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>现在就要：</strong> 下载 openSUSE 或查找附加软件。</span>"
-" <span class=\"bottom clear\">&nbsp;</span> </a>"
+"<span class=\"buttontext\"> <strong>现在就要：</strong> 下载 openSUSE 或查找"
+"附加软件。</span> <span class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:78
@@ -146,8 +147,8 @@ msgid ""
 "\"bottom clear\">&nbsp;</span> </a>"
 msgstr ""
 "<a href=\"http://zh.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
-"class=\"buttontext\"> <strong>探索发现： </strong> 通过教程、文档以及更多方式掌握 openSUSE 的奥秘！<"
-"/span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+"class=\"buttontext\"> <strong>探索发现： </strong> 通过教程、文档以及更多方式"
+"掌握 openSUSE 的奥秘！</span> <span class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:88
@@ -158,9 +159,9 @@ msgid ""
 "\"bottom clear\">&nbsp;</span> </a>"
 msgstr ""
 "<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>参与创造：</strong> 使用编译服务为所有主要 "
-"Linux 发行版编译软件包。</span> <span class=\"bottom clear\">&nbsp;</span> </"
-"a>"
+"<span class=\"buttontext\"> <strong>参与创造：</strong> 使用编译服务为所有主"
+"要 Linux 发行版编译软件包。</span> <span class=\"bottom clear\">&nbsp;</"
+"span> </a>"
 
 #. type: Content of: <html><body><div><div>
 #: en/index.shtml:98
@@ -177,8 +178,8 @@ msgid ""
 "<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; "
 "Screenshots</span></a>"
 msgstr ""
-"<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; 荧幕快照</"
-"span></a>"
+"<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; 荧幕快"
+"照</span></a>"
 
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:114
@@ -216,8 +217,8 @@ msgid ""
 "</a> The <a href=\"http://forums.opensuse.org/\">forums</a> are the first "
 "place to go if you want answers to questions about openSUSE!"
 msgstr ""
-"</a>想要关于 openSUSE 问题的答案，先来<a href=\"http://forums.opensuse.org/\">论坛</a> "
-"吧！"
+"</a>想要关于 openSUSE 问题的答案，先来<a href=\"http://forums.opensuse.org/"
+"\">论坛</a> 吧！"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:131
@@ -250,8 +251,8 @@ msgid ""
 "</a> The <a href=\"http://shop.opensuse.org/\">shop</a> is the place to find "
 "official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
 msgstr ""
-"</a><a href=\"http://shop.opensuse.org/\">商店</a> 是淘官方 openSUSE 物品的"
-"市集。T恤衫、马克杯、货车帽，双肩包以及更多好物应有尽有。还有狗狗的饰物哦！"
+"</a><a href=\"http://shop.opensuse.org/\">商店</a> 是淘官方 openSUSE 物品的市"
+"集。T恤衫、马克杯、货车帽，双肩包以及更多好物应有尽有。还有狗狗的饰物哦！"
 
 #. type: Content of: <html><body><div><div><div><ul><li>
 #: en/index.shtml:146
@@ -330,7 +331,7 @@ msgstr "英语"
 msgid "---"
 msgstr "..."
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:173
 msgid "</select>"
@@ -423,9 +424,9 @@ msgid ""
 "<a href=\"http://software.opensuse.org/122\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"您可以 <a href=\"http://zh.opensuse.org/Features\">了解更新细节</a>，<a "
-"href=\"http://software.opensuse.org/122\">下载它</a> 和 <a href=\"http://"
-"upgrade.opensuse.org\">升级</a>！"
+"您可以 <a href=\"http://zh.opensuse.org/Features\">了解更新细节</a>，<a href="
+"\"http://software.opensuse.org/122\">下载它</a> 和 <a href=\"http://upgrade."
+"opensuse.org\">升级</a>！"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:29
@@ -470,14 +471,14 @@ msgid ""
 "How_to_participate\">Would you like to know more?</a>"
 msgstr ""
 "不管您是有经验的 Linux 开发者还是初心的最终用户，都有许多您可以参与进 "
-"openSUSE 项目的方法。加入<a href=\"http://forums.opensuse.org/\">论坛</a>来"
-"获取帮助或帮助他人，查找或<a href=\"http://zh.opensuse.org/openSUSE:"
+"openSUSE 项目的方法。加入<a href=\"http://forums.opensuse.org/\">论坛</a>来获"
+"取帮助或帮助他人，查找或<a href=\"http://zh.opensuse.org/openSUSE:"
 "Submitting_bug_reports\">汇报故障</a>，复核<a href=\"http://doc.opensuse.org"
-"\">文档</a>，发送您的<a href=\"http://features.opensuse.org\">心愿单</a>来请求新软件包和 "
-"功能，创建和提交<a href=\"http://build.opensuse.org\">补丁</a>，"
-"或找到其它独树一帜的方法来贡献。无论您从事什么工作，都可以花几分钟时间和其他用户讨论 "
-"openSUSE，做一个积极的 openSUSE 社员。<a href=\"http://zh.opensuse.org/"
-"Portal:如何參與\">心动了吗？赶快行动吧！</a>"
+"\">文档</a>，发送您的<a href=\"http://features.opensuse.org\">心愿单</a>来请"
+"求新软件包和 功能，创建和提交<a href=\"http://build.opensuse.org\">补丁</a>，"
+"或找到其它独树一帜的方法来贡献。无论您从事什么工作，都可以花几分钟时间和其他"
+"用户讨论 openSUSE，做一个积极的 openSUSE 社员。<a href=\"http://zh.opensuse."
+"org/Portal:如何參與\">心动了吗？赶快行动吧！</a>"
 
 #~| msgid "<a href=\"http://forums.opensuse.org/\">"
 #~ msgid "<a href=\"http://summit.opensuse.org\">"

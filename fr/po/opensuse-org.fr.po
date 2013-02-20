@@ -84,7 +84,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"lancer "
 "la recherche\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:110 en/index.shtml:151 en/index.shtml:184
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -344,7 +344,7 @@ msgstr "Français"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:173
 msgid "</select>"
@@ -383,7 +383,6 @@ msgstr "Fondé par Novell"
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 #, fuzzy
-#| msgid "openSUSE 12.1: All Green!"
 msgid "openSUSE 12.2: Green Means Go!"
 msgstr "openSUSE 12.2 : vert signifie aller !"
 
