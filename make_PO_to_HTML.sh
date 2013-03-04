@@ -47,6 +47,8 @@ for lang in $langs; do
 
 	
 # Sync PO files from opensuse-i18n SVN server
+# and update it using latest generated POT file (in case PO file not merged with latest POT)
+
 	echo "* Syncing PO file for $lang ($svn_server_lang_code)"
 	
 	for file in $(ls $POT_files_folder/*.pot); do
@@ -55,9 +57,10 @@ for lang in $langs; do
 		cd $PO_folder
 		svn export --force https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
 		cd -
+		msgmerge --update $PO_folder/$filename $POT_files_folder/*.pot
 	done
 	
-	
+
 # Generate translated HTML files
 	echo "* Generating HTML files for $lang ($svn_server_lang_code)"
 	
