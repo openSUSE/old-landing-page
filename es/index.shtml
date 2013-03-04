@@ -54,12 +54,16 @@ b&uacute;squeda" />
     <div id="background">
       <div class="centered">
 
+
+
+        <!-- disabled for time of 12.3 release
         <a href="http://conference.opensuse.org">
+
         <img src="../images/frontpage/oSC13_banner.jpg" alt="oSC13 Banner" />
         </a>
-
-        <div id="intro" class="left minor_column">
-          <h1 title="openSUSE"><span>openSUSE</span></h1>
+-->
+<div id="intro" class="left minor_column">
+          <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> es un sistema operativo libre basado en Linux
 paratu PC, portátil o servidor.  Puedes navegar en la Web, gestionar tu

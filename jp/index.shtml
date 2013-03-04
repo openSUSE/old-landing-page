@@ -53,12 +53,16 @@ src="//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png" />
     <div id="background">
       <div class="centered">
 
+
+
+        <!-- disabled for time of 12.3 release
         <a href="http://conference.opensuse.org">
+
         <img src="../images/frontpage/oSC13_banner.jpg" alt="oSC13 Banner" />
         </a>
-
-        <div id="intro" class="left minor_column">
-          <h1 title="openSUSE"><span>openSUSE</span></h1>
+-->
+<div id="intro" class="left minor_column">
+          <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> は PC やラップトップ、サーバでも動作するフリーで Linux
 ベースのオペレーティングシステムです。 Web を閲覧できるだけでなく、メールや写真の管理、オフィスでの仕事や映像／音楽の再生など、様々な形で

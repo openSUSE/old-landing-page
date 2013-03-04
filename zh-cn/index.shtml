@@ -53,12 +53,16 @@ src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"/>
     <div id="background">
       <div class="centered">
 
+
+
+        <!-- disabled for time of 12.3 release
         <a href="http://conference.opensuse.org">
+
         <img src="../images/frontpage/oSC13_banner.jpg" alt="oSC13 Banner" />
         </a>
-
-        <div id="intro" class="left minor_column">
-          <h1 title="openSUSE"><span>openSUSE</span></h1>
+-->
+<div id="intro" class="left minor_column">
+          <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> 是一个基于 Linux 的自由操作系统，倾心呵护您的台式机、笔记本或服务器
 。您可以使用它上网冲浪、管理电子邮件和相片、处理工作事务、播放视频或音频，<em>祝您使用愉快！</em>
