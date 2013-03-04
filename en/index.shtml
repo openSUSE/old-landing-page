@@ -49,9 +49,11 @@
     <div id="background">
       <div class="centered">
 
+<!-- disabled for time of 12.3 release
         <a href="http://conference.opensuse.org">
         <img src="../images/frontpage/oSC13_banner.jpg" alt="oSC13 Banner" />
         </a>
+-->
 
         <div id="intro" class="left minor_column">
           <h1 title="openSUSE"><span>openSUSE</span></h1>
