@@ -29,10 +29,12 @@ g.src=u+'piwik.js';
 s.parentNode.insertBefore(g,s);
 })();
 
+/*
 // inject banner link
 $(document).ready(function() {
   $("#intro > a").replaceWith( "<a href='//counter.opensuse.org/link/'><h1 title='openSUSE'><span>openSUSE</span></h1></a>" );
 });
+*/
 
 // inject changed de wiki link
 // $(document).ready(function() {
@@ -57,5 +59,3 @@ $(document).ready(function() {
     }
   }
 });
-
-

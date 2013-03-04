@@ -56,7 +56,7 @@
 -->
 
         <div id="intro" class="left minor_column">
-          <h1 title="openSUSE"><span>openSUSE</span></h1>
+          <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> is a free and Linux-based
             operating system for your PC, Laptop or Server.
