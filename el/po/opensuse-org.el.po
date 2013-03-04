@@ -1,12 +1,12 @@
 #
-# Efstathios Iosifidis <iosifidis@opensuse.org>, 2012.
+# Efstathios Iosifidis <iosifidis@opensuse.org>, 2012, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-28 16:04+0100\n"
-"PO-Revision-Date: 2012-12-31 00:20+0200\n"
+"POT-Creation-Date: 2013-02-25 11:12+0100\n"
+"PO-Revision-Date: 2013-03-01 17:59+0200\n"
 "Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
 "Language-Team: Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org>\n"
 "Language: \n"
@@ -90,27 +90,25 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><a>
 #: en/index.shtml:52
-msgid ""
-"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
-msgstr ""
-"<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
-
-#. type: Content of: <html><body><div><p>
-#: en/index.shtml:54 en/index.shtml:57 en/index.shtml:118 en/index.shtml:195
-msgid "</a>"
-msgstr "</a>"
-
-#. type: Content of: <html><body><div><div><div><a>
-#: en/index.shtml:57
 msgid "<a href=\"http://conference.opensuse.org\">"
 msgstr "<a href=\"http://conference.opensuse.org\">"
 
-#. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
+#. type: Attribute 'alt' of: <html><body><div><div><a><img>
+#: en/index.shtml:53
+msgid "oSC13 Banner"
+msgstr "oSC13 Banner"
+
+#. type: Content of: <html><body><div><p>
+#: en/index.shtml:54 en/index.shtml:118 en/index.shtml:195
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Attribute 'title' of: <html><body><div><div><div><h1>
 #: en/index.shtml:57
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#. type: Content of: <html><body><div><div><div><a><h1>
+#. type: Content of: <html><body><div><div><div><h1>
 #: en/index.shtml:57
 msgid "<span>openSUSE</span>"
 msgstr "<span>openSUSE</span>"
@@ -504,6 +502,11 @@ msgstr ""
 "συζητήσετε με άλλους χρήστες openSUSE και γίνετε ενεργό μέλος της κοινότητας "
 "openSUSE.  <a href=\"http://el.opensuse.org/Portal:How_to_participate"
 "\">Θέλετε ναμάθετε περισσότερα;</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
+#~ msgstr ""
+#~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #~ msgid ""
 #~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
