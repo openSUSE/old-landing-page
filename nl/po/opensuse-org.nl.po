@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-03-04 10:36+0100\n"
-"PO-Revision-Date: 2013-02-25 14:15+0100\n"
+"POT-Creation-Date: 2013-03-08 20:19+0100\n"
+"PO-Revision-Date: 2013-03-11 17:54+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <opensuse-nl@opensuse.org>\n"
 "Language: nl\n"
@@ -34,11 +34,11 @@ msgstr "openSUSE nieuws &amp; gebeurtenissen"
 #. type: Content of: <html><body><div><div><form><div><select>
 #: en/index.shtml:33
 msgid ""
-"<input type=\"hidden\" name=\"language\" value=\"en\" /> <select id="
-"\"searchscope\" name=\"searchscope\">"
+"<input type=\"hidden\" name=\"language\" value=\"en\" /> <select "
+"id=\"searchscope\" name=\"searchscope\">"
 msgstr ""
-"<input type=\"hidden\" name=\"language\" value=\"nl\" /> <select id="
-"\"searchscope\" name=\"searchscope\">"
+"<input type=\"hidden\" name=\"language\" value=\"nl\" /> <select "
+"id=\"searchscope\" name=\"searchscope\">"
 
 #. type: Content of: <html><body><div><div><form><div><select><option>
 #: en/index.shtml:35
@@ -63,15 +63,15 @@ msgstr "zoeken in de help-sectie"
 #. type: Content of: <html><body><div><div><form><div>
 #: en/index.shtml:39
 msgid ""
-"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> "
-"<input type=\"image\" alt=\"run search\" title=\"run search\" class="
-"\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/"
-"magnifier.png\" />"
+"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <"
+"input type=\"image\" alt=\"run search\" title=\"run search\" "
+"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontp"
+"age/magnifier.png\" />"
 msgstr ""
-"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> "
-"<input type=\"image\" alt=\"zoeken uitvoeren\" title=\"zoeken uitvoeren\" "
-"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/"
-"frontpage/magnifier.png\" />"
+"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <"
+"input type=\"image\" alt=\"zoeken uitvoeren\" title=\"zoeken uitvoeren\" "
+"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontp"
+"age/magnifier.png\" />"
 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:43
@@ -82,7 +82,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"zoeken "
 "uitvoeren\" />"
 
-#. #include virtual="../sponsors.html" 
+#. #include virtual="../sponsors.html"
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -90,9 +90,8 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
-#, fuzzy
 msgid "<a href='//counter.opensuse.org/link/'>"
-msgstr "<a href=\"http://conference.opensuse.org\">"
+msgstr "<a href='//counter.opensuse.org/link/'>"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
 #: en/index.shtml:59
@@ -112,62 +111,62 @@ msgstr "</a>"
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:61
 msgid ""
-"<strong>openSUSE</strong> is a free and Linux-based operating system for "
-"your PC, Laptop or Server.  You can surf the web, manage your e-mails and "
-"photos, do office work, play videos or music and <em>have a lot of fun!</em>"
+"<strong>openSUSE</strong> is a free and Linux-based operating system for your "
+"PC, Laptop or Server.  You can surf the web, manage your e-mails and photos, "
+"do office work, play videos or music and <em>have a lot of fun!</em>"
 msgstr ""
 "<strong>openSUSE</strong> is een vrij op Linux gebaseerd besturingssysteem "
-"voor uw PC, laptop of server.  U kunt op het web surfen, uw e-mails en "
-"foto's beheren, kantoorwerk doen, video's of muziek afspelen en <em>have a "
-"lot of fun!</em>"
+"voor uw PC, laptop of server.  U kunt op het web surfen, uw e-mails en foto's "
+"beheren, kantoorwerk doen, video's of muziek afspelen en <em>have a lot of "
+"fun!</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:70
 msgid ""
-"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>Get it: </strong> Download openSUSE or "
-"find additional software.  </span> <span class=\"bottom clear\">&nbsp;</"
-"span> </a>"
+"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
+"span class=\"buttontext\"> <strong>Get it: </strong> Download openSUSE or "
+"find additional software.  </span> <span class=\"bottom clear\">&nbsp;</span> "
+"</a>"
 msgstr ""
-"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>Verkrijg het: </strong> Download "
-"openSUSE of zoek extra software.  </span> <span class=\"bottom clear\">&nbsp;"
-"</span> </a>"
+"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
+"span class=\"buttontext\"> <strong>Verkrijg het: </strong> Download openSUSE "
+"of zoek extra software.  </span> <span class=\"bottom clear\">&nbsp;</span> <"
+"/a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:80
 msgid ""
 "<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
 "class=\"buttontext\"> <strong>Discover it: </strong> Learn more about "
-"openSUSE with tutorials, documentation, and more! </span> <span class="
-"\"bottom clear\">&nbsp;</span> </a>"
+"openSUSE with tutorials, documentation, and more! </span> <span "
+"class=\"bottom clear\">&nbsp;</span> </a>"
 msgstr ""
 "<a href=\"http://nl.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
 "class=\"buttontext\"> <strong>Ontdek het: </strong> Leer meer over openSUSE "
-"met inleidingen, documentatie en meer! </span> <span class=\"bottom clear"
-"\">&nbsp;</span> </a>"
+"met inleidingen, documentatie en meer! </span> <span class=\"bottom clear\">"
+"&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:90
 msgid ""
-"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>Create it: </strong> Build packages for "
-"all major Linux distributions with the Build Service.  </span> <span class="
-"\"bottom clear\">&nbsp;</span> </a>"
+"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
+"span class=\"buttontext\"> <strong>Create it: </strong> Build packages for "
+"all major Linux distributions with the Build Service.  </span> <span "
+"class=\"bottom clear\">&nbsp;</span> </a>"
 msgstr ""
-"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
-"<span class=\"buttontext\"> <strong>Maak het: </strong> Bouw pakketten voor "
+"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
+"span class=\"buttontext\"> <strong>Maak het: </strong> Bouw pakketten voor "
 "alle belangrijke Linux distributies met de \"Build Service\".</span> <span "
 "class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div>
 #: en/index.shtml:100
 msgid ""
-"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" id=\"screenshots"
-"\">&nbsp;</span>"
+"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" "
+"id=\"screenshots\">&nbsp;</span>"
 msgstr ""
-"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" id=\"screenshots"
-"\">&nbsp;</span>"
+"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" "
+"id=\"screenshots\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:105
@@ -225,8 +224,8 @@ msgid ""
 "\">mailing lists</a>."
 msgstr ""
 "Wilt u discussies voeren over openSUSE, in de ontwikkeling deelnemen of op "
-"andere manieren bijdragen? Meldt u dan aan op de <a href=\"http://nl."
-"opensuse.org/openSUSE:Mailing_lists\">e-maillijsten</a>."
+"andere manieren bijdragen? Meldt u dan aan op de <a "
+"href=\"http://nl.opensuse.org/openSUSE:Mailing_lists\">e-maillijsten</a>."
 
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:140
@@ -250,8 +249,8 @@ msgid ""
 "official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
 msgstr ""
 "</a> De <a href=\"http://shop.opensuse.org/\">shop</a> is de plek waar u "
-"officiële dingen van openSUSE vindt.  T-shirts, mokken, petjes, tassen en "
-"nog veel meer."
+"officiële dingen van openSUSE vindt.  T-shirts, mokken, petjes, tassen en nog "
+"veel meer."
 
 #. type: Content of: <html><body><div><div><div><ul><li>
 #: en/index.shtml:148
@@ -262,8 +261,8 @@ msgstr ""
 #. type: Content of: <html><body><div><div><div><ul><li>
 #: en/index.shtml:149
 msgid ""
-"<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; "
-"Asia</a>"
+"<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; Asia<"
+"/a>"
 msgstr "<a href=\"http://shop.opensuse.org\">Shop voor Europe &amp; Azië</a>"
 
 #. type: Content of: <html><body><div><ul><li>
@@ -331,7 +330,7 @@ msgstr "Engels"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html" 
+#. #include virtual="../languages.html"
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"
@@ -369,144 +368,138 @@ msgstr "Founded by Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 12.2: Green Means Go!"
-msgstr "openSUSE 12.2:Groen betekent vooruit!"
+#| msgid "openSUSE 12.2: Green Means Go!"
+msgid "openSUSE 12.3 - Awesome as 1-2-3"
+msgstr "openSUSE 12.3: - Fantastisch als 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid ""
-"Dear users, developers, and Geekos around the world - <a href=\"http://news."
-"opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is "
-"ready for you! Two months of extra stabilization work have resulted into a "
-"stellar release, chock-full of goodies, yet stable as you all like it."
+"Dear contributors, friends and fans: the latest version of the openSUSE "
+"distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12"
+"-3-free-open-and-awesome\">is ready for you</a>! After 6 months of hard work, "
+"we are happy to bring you the mash of the best things that Free and Open "
+"Source Software has to offer with the unique green sauce - stable, friendly "
+"and fun."
 msgstr ""
-"Geachte gebruikers, ontwikkelaars en Geeko's van over de gehele wereld - <a "
-"href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
-"\">openSUSE 12.2</a> is voor u gereed! Twee maanden van extra werk aan "
-"stabilisatie heeft geresulteerd in een ster-uitgave, afgeladen met \"goodies"
-"\", toch stabiel zoals u het graag hebt."
+"Beste mensen die hebben bijgedragen, vrienden en fans: De nieuwste versie van "
+"de openSUSE distributie, versie 12.3, <a "
+"href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesom"
+"e\">is voor u beschikbaar</a>! Na zes maanden van hard werken, zijn wij blij "
+"om u de samenstelling van het beste wat vrije en open-source software heeft "
+"te bieden, overgoten met de unieke groene saus, voor te schotelen – stabiel, "
+"gebruikersvriendelijk en met plezier. "
 
 #. type: Content of: <p>
-#: en/whats_hot.html:7
+#: en/whats_hot.html:9
 msgid ""
-"The latest release of the world's most powerful and flexible Linux "
-"Distribution brings you speed-ups across the board with a faster storage "
-"layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a more "
-"fluid and responsive KDE desktop. The infrastructure below openSUSE has "
-"evolved, bringing in mature new technologies like GRUB2 and Plymouth and the "
-"first steps in the direction of a revised and simplified UNIX file system "
-"hierarchy.  Users will also notice the added polish to existing features "
-"bringing an improved user experience all over. The novel Btrfs file system "
-"comes with improved error handling and recovery tools, GNOME 3.4, developing "
-"rapidly, brings smooth scrolling to all applications and features a reworked "
-"System Settings and Contacts manager while XFCE has an enhanced application "
-"finder."
+"As this was a shorter-than-normal release cycle, much attention went into the "
+"details and we bring you a very refurbished product. This release of the "
+"world&#39;s most powerful and flexible Linux Distribution gives the finishing "
+"touch to our boot infrastructure and package management, a bright polish to "
+"your desktop and a touch of cloud for your server."
 msgstr ""
-"De nieuwste uitgave van 's wereld meest krachtige en flexibelste Linux "
-"Distributie brengt u <em>speed-ups across the board</em> met een snellere "
-"opslaglaag in Linux 3.4 en versnelde functies in glibc en Qt, waarmee u een "
-"vloeiend en snelle respons gevend bureaublad krijgt. De infrastructuur onder "
-"openSUSE heeft zich ontwikkeld, waarmee u <em>nieuwe volwassen "
-"technologieën</em> zoals GRUB2 en Plymouth en de eerste stappen in de "
-"richting van een herzien en vereenvoudigde hiërarchie in het UNIX "
-"bestandssysteem krijgt. Gebruikers zullen ook merken dat het <em>toegevoegde "
-"oppoetsen van bestaande features</em> over het geheel een verbeterde "
-"gebruikerservaring geeft. Het nieuwe bestandssysteem Btrfs komt met "
-"verbeterde foutafhandeling en hulpmiddelen voor herstel, GNOME 3.4, dat zich "
-"snel ontwikkelt, brengt geleidelijk schuiven (smooth scrolling) bij alle "
-"toepassingen en biedt een opgeknapte beheerder voor systeeminstellingen en "
-"contacten terwijl XFCE een verbeterde zoeker heeft naar toepassing."
+"Omdat dit een kortere dan normale uitgavecyclus was, is er veel aandacht "
+"gegaan naar de details en brengen we u een kwaliteitsproduct. Deze uitgave "
+"van een van 's werelds meest krachtige en flexibele Linux distributie geeft u "
+"de eindafwerking van onze infrastructuur voor opstarten en pakketbeheer, een "
+"glanzend gepolijst bureaublad en een toefje 'cloud' voor uw server."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:18
+#: en/whats_hot.html:14
+#| msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
 msgid ""
-"<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
-"\">Read more ...</a>"
+"<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awe"
+"some\">Read more ...</a>"
 msgstr ""
-"<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
-"\">Lees meer ...</a>"
+"<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awe"
+"some\">Lees meer ...</a>"
 
 #. type: Content of: <p><p>
-#: en/whats_hot.html:21
+#: en/whats_hot.html:17
+#| msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org/122\">download it</a> and <a href="
-"\"http://upgrade.opensuse.org\">upgrade</a>!"
+"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a "
+"href=\"http://software.opensuse.org/123\">download it</a> and <a "
+"href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"U kunt in <a href=\"http://nl.opensuse.org/Features\">lezen wat nieuw is </"
-"a>, <a href=\"http://software.opensuse.org/\">het downloaden</a> en <a href="
-"\"http://upgrade.opensuse.org\">opwaarderen</a>!"
+"U kunt in <a href=\"http://nl.opensuse.org/Features\">lezen wat nieuw is </a>"
+", <a href=\"http://software.opensuse.org/123\">het downloaden</a> en <a "
+"href=\"http://upgrade.opensuse.org\">opwaarderen</a>!"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:25
 msgid "Follow openSUSE on Google Plus"
 msgstr "Volg openSUSE op Google+"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:26
 msgid ""
-"Keep informed about openSUSE following our <a href=\"https://plus.google."
-"com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
-"none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
+"Keep informed about openSUSE following our <a "
+"href=\"https://plus.google.com/110312141834246266844/\">new Google+ page</a><"
+"a style=\"text-decoration:none;\" href=\"https://plus.google.com/1103121418342"
+"46266844/?prsrc=3\">"
 msgstr ""
-"Blijf geïnformeerd over openSUSE door onze <a href=\"https://plus.google."
-"com/110312141834246266844/\">nieuwe Google+ pagina</a> te volgen<a style="
-"\"text-decoration:none;\" href=\"https://plus.google."
-"com/110312141834246266844/?prsrc=3\">"
+"Blijf geïnformeerd over openSUSE door onze <a "
+"href=\"https://plus.google.com/110312141834246266844/\">nieuwe Google+ "
+"pagina</a> te volgen<a style=\"text-decoration:none;\" "
+"href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:26
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:29
 msgid "Participate and join the community!"
 msgstr "Doe mee en wordt lid van de gemeenschap!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:30
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
-"openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> "
-"to get help or help others with openSUSE, find and <a href=\"http://en."
-"opensuse.org/openSUSE:Submitting_bug_reports\">report bugs</a>, review the "
-"<a href=\"http://doc.opensuse.org\">documentation</a>, send your <a href="
-"\"http://features.opensuse.org\">wish list</a> for new packages and "
-"features, create and submit <a href=\"http://build.opensuse.org\">patches</"
-"a>, or find other creative ways to contribute.  Whatever you do, take a few "
-"minutes to discuss openSUSE with other users and become an active member of "
-"the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:"
-"How_to_participate\">Would you like to know more?</a>"
+"openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> to "
+"get help or help others with openSUSE, find and <a "
+"href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">report bugs<"
+"/a>, review the <a href=\"http://doc.opensuse.org\">documentation</a>, send "
+"your <a href=\"http://features.opensuse.org\">wish list</a> for new packages "
+"and features, create and submit <a href=\"http://build.opensuse.org\">"
+"patches</a>, or find other creative ways to contribute.  Whatever you do, "
+"take a few minutes to discuss openSUSE with other users and become an active "
+"member of the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:H"
+"ow_to_participate\">Would you like to know more?</a>"
 msgstr ""
 "Of u nu een ervaren Linux ontwikkelaar bent of een eindgebruiker die net met "
 "Linux begint, er zijn vele manieren waarop u kunt meedoen in het openSUSE "
 "project. Wordt lid van een <a href=\"http://forums.opensuse.org/\">forum</a> "
-"om hulp te krijgen of help anderen met openSUSE, zoek naar bugs en <a href="
-"\"http://nl.opensuse.org/openSUSE:Submitting_bug_reports\">rapporteer deze</"
-"a>, lees de <a href=\"http://doc.opensuse.org\">documentatie</a> na, stuur "
-"uw <a href=\"http://features.opensuse.org\">wensenlijst</a> in voor nieuwe "
-"pakketten en functies, maak en zend ze in <a href=\"http://build.opensuse.org"
-"\">patches</a>, of zoek andere creatieve manieren om bij te dragen.  Wat u "
-"ook doet, neem een paar minuten om over openSUSE met andere gebruikers te "
-"discussiëren en wordt een actief lid van de openSUSE gemeenschappen.  <a "
-"href=\"http://nl.opensuse.org/Portal:How_to_participate\">Wilt u meer weten?"
-"</a>"
+"om hulp te krijgen of help anderen met openSUSE, zoek naar bugs en <a "
+"href=\"http://nl.opensuse.org/openSUSE:Submitting_bug_reports\">rapporteer "
+"deze</a>, lees de <a href=\"http://doc.opensuse.org\">documentatie</a> na, "
+"stuur uw <a href=\"http://features.opensuse.org\">wensenlijst</a> in voor "
+"nieuwe pakketten en functies, maak en zend ze in <a "
+"href=\"http://build.opensuse.org\">patches</a>, of zoek andere creatieve "
+"manieren om bij te dragen.  Wat u ook doet, neem een paar minuten om over "
+"openSUSE met andere gebruikers te discussiëren en wordt een actief lid van de "
+"openSUSE gemeenschappen.  <a href=\"http://nl.opensuse.org/Portal:How_to_parti"
+"cipate\">Wilt u meer weten?</a>"
+
+#~ msgid "Dear users, developers, and Geekos around the world - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is ready for you! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it."
+#~ msgstr "Geachte gebruikers, ontwikkelaars en Geeko's van over de gehele wereld - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is voor u gereed! Twee maanden van extra werk aan stabilisatie heeft geresulteerd in een ster-uitgave, afgeladen met \"goodies\", toch stabiel zoals u het graag hebt."
+
+#~ msgid "The latest release of the world's most powerful and flexible Linux Distribution brings you speed-ups across the board with a faster storage layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a more fluid and responsive KDE desktop. The infrastructure below openSUSE has evolved, bringing in mature new technologies like GRUB2 and Plymouth and the first steps in the direction of a revised and simplified UNIX file system hierarchy.  Users will also notice the added polish to existing features bringing an improved user experience all over. The novel Btrfs file system comes with improved error handling and recovery tools, GNOME 3.4, developing rapidly, brings smooth scrolling to all applications and features a reworked System Settings and Contacts manager while XFCE has an enhanced application finder."
+#~ msgstr "De nieuwste uitgave van 's wereld meest krachtige en flexibelste Linux Distributie brengt u <em>speed-ups across the board</em> met een snellere opslaglaag in Linux 3.4 en versnelde functies in glibc en Qt, waarmee u een vloeiend en snelle respons gevend bureaublad krijgt. De infrastructuur onder openSUSE heeft zich ontwikkeld, waarmee u <em>nieuwe volwassen technologieën</em> zoals GRUB2 en Plymouth en de eerste stappen in de richting van een herzien en vereenvoudigde hiërarchie in het UNIX bestandssysteem krijgt. Gebruikers zullen ook merken dat het <em>toegevoegde oppoetsen van bestaande features</em> over het geheel een verbeterde gebruikerservaring geeft. Het nieuwe bestandssysteem Btrfs komt met verbeterde foutafhandeling en hulpmiddelen voor herstel, GNOME 3.4, dat zich snel ontwikkelt, brengt geleidelijk schuiven (smooth scrolling) bij alle toepassingen en biedt een opgeknapte beheerder voor systeeminstellingen en contacten terwijl XFCE een verbeterde zoeker heeft naar toepassing."
 
 #~ msgid "oSC13 Banner"
 #~ msgstr "oSC13 banier"
 
-#~ msgid ""
-#~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
-#~ msgstr ""
-#~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
+#~ msgid "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
+#~ msgstr "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 
 #~| msgid "<a href=\"http://news.opensuse.org/feed/\">"
-#~ msgid ""
-#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
-#~ msgstr ""
-#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+#~ msgid "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+#~ msgstr "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
 
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"
@@ -514,31 +507,6 @@ msgstr ""
 #~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
 #~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
 
-#~| msgid ""
-#~| "It is November 16, 2011 and our mirrors have synced. Time to present to "
-#~| "you: <a href=\"http://software.opensuse.org/\">openSUSE 12.1</a>! This "
-#~| "release represents more than eight months of work by our international "
-#~| "community and brings you the best Free Software has to offer. Awesome "
-#~| "improvements include the latest GNOME 3.2 desktop as well as the newest "
-#~| "from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-"
-#~| "shots of your file system; and much, much more. (<a href=\"http://news."
-#~| "opensuse.org/2011/11/16/opensuse-12-1-all-green/\">continue reading</a>)."
-#~ msgid ""
-#~ "It is Spetember 5, 2012 and our mirrors have synced. Time to present to "
-#~ "you: <a href=\"http://software.opensuse.org/\">openSUSE 12.2</a>! This "
-#~ "release represents more than eight months of work by our international "
-#~ "community and brings you the best Free Software has to offer. Awesome "
-#~ "improvements include the latest GNOME 3.4 desktop as well as the newest "
-#~ "from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-"
-#~ "shots of your file system; and much, much more. (<a href=\"http://news."
-#~ "opensuse.org/2012/09/05/opensuse-12-2-all-green/\">continue reading</a>)."
-#~ msgstr ""
-#~ "Het is 5 september 2012 en onze mirrors zijn gesynchroniseerd. Tijd om u "
-#~ "<a href=\"http://software.opensuse.org/\">openSUSE 12.2</a> te "
-#~ "presenteren! Deze uitgave representeert meer dan acht maanden werk door "
-#~ "onze internationale gemeenschap en brengt u het beste dat Vrije Software "
-#~ "heeft te bieden. Geweldige verbeteringen inclusief het laatste GNOME 3.4 "
-#~ "bureaublad evenals het nieuwste van KDE, XFCE en LXDE; ownCloud wordt "
-#~ "gemakkelijk met mirall; Snapper-shots van uw bestandssysteem; en veel, "
-#~ "veel meer. (<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-"
-#~ "all-green/\">lees verder</a>)."
+#~| msgid "It is November 16, 2011 and our mirrors have synced. Time to present to you: <a href=\"http://software.opensuse.org/\">openSUSE 12.1</a>! This release represents more than eight months of work by our international community and brings you the best Free Software has to offer. Awesome improvements include the latest GNOME 3.2 desktop as well as the newest from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-shots of your file system; and much, much more. (<a href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/\">continue reading</a>)."
+#~ msgid "It is Spetember 5, 2012 and our mirrors have synced. Time to present to you: <a href=\"http://software.opensuse.org/\">openSUSE 12.2</a>! This release represents more than eight months of work by our international community and brings you the best Free Software has to offer. Awesome improvements include the latest GNOME 3.4 desktop as well as the newest from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-shots of your file system; and much, much more. (<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-all-green/\">continue reading</a>)."
+#~ msgstr "Het is 5 september 2012 en onze mirrors zijn gesynchroniseerd. Tijd om u <a href=\"http://software.opensuse.org/\">openSUSE 12.2</a> te presenteren! Deze uitgave representeert meer dan acht maanden werk door onze internationale gemeenschap en brengt u het beste dat Vrije Software heeft te bieden. Geweldige verbeteringen inclusief het laatste GNOME 3.4 bureaublad evenals het nieuwste van KDE, XFCE en LXDE; ownCloud wordt gemakkelijk met mirall; Snapper-shots van uw bestandssysteem; en veel, veel meer. (<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-all-green/\">lees verder</a>)."

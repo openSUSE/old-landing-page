@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-03-04 10:36+0100\n"
-"PO-Revision-Date: 2013-03-04 10:40+0100\n"
+"POT-Creation-Date: 2013-03-08 20:19+0100\n"
+"PO-Revision-Date: 2013-03-12 14:42+0100\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@free.fr>\n"
 "Language-Team: French <opensuse-fr@opensuse.org>\n"
 "Language: fr\n"
@@ -84,7 +84,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"lancer "
 "la recherche\" />"
 
-#. #include virtual="../sponsors.html" 
+#. #include virtual="../sponsors.html"
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -337,7 +337,7 @@ msgstr "Français"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html" 
+#. #include virtual="../languages.html"
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"
@@ -375,85 +375,65 @@ msgstr "Fondé par Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#, fuzzy
-msgid "openSUSE 12.2: Green Means Go!"
-msgstr "openSUSE 12.2 : vert signifie aller !"
+msgid "openSUSE 12.3 - Awesome as 1-2-3"
+msgstr "openSUSE 12.3 : géniale comme 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid ""
-"Dear users, developers, and Geekos around the world - <a href=\"http://news."
-"opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is "
-"ready for you! Two months of extra stabilization work have resulted into a "
-"stellar release, chock-full of goodies, yet stable as you all like it."
+"Dear contributors, friends and fans: the latest version of the openSUSE "
+"distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/"
+"opensuse-12-3-free-open-and-awesome\">is ready for you</a>! After 6 months "
+"of hard work, we are happy to bring you the mash of the best things that "
+"Free and Open Source Software has to offer with the unique green sauce - "
+"stable, friendly and fun."
 msgstr ""
-"Chers utilisateurs, développeurs et Geekos du monde entier  - <a href="
-"\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
-"\">openSUSE 12.2</a> est disponible ! Deux mois d'un travail supplémentaire "
-"de stabilisation ont permis de parvenir à une nouvelle version "
-"sensationnelle, débordante de petits plaisirs, et pourtant stable comme vous "
-"l'aimez tous."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:7
+#: en/whats_hot.html:9
 msgid ""
-"The latest release of the world's most powerful and flexible Linux "
-"Distribution brings you speed-ups across the board with a faster storage "
-"layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a more "
-"fluid and responsive KDE desktop. The infrastructure below openSUSE has "
-"evolved, bringing in mature new technologies like GRUB2 and Plymouth and the "
-"first steps in the direction of a revised and simplified UNIX file system "
-"hierarchy.  Users will also notice the added polish to existing features "
-"bringing an improved user experience all over. The novel Btrfs file system "
-"comes with improved error handling and recovery tools, GNOME 3.4, developing "
-"rapidly, brings smooth scrolling to all applications and features a reworked "
-"System Settings and Contacts manager while XFCE has an enhanced application "
-"finder."
+"As this was a shorter-than-normal release cycle, much attention went into "
+"the details and we bring you a very refurbished product. This release of the "
+"world&#39;s most powerful and flexible Linux Distribution gives the "
+"finishing touch to our boot infrastructure and package management, a bright "
+"polish to your desktop and a touch of cloud for your server."
 msgstr ""
-"La dernière version de la distribution Linux la plus puissante et flexible "
-"au monde vous apporte de meilleures performances à tous les niveaux avec une "
-"couche de stockage plus rapide dans Linux 3.4 et des fonctions accélérées "
-"dans glibc et Qt, résultant en un environnement de bureau plus fluide et "
-"réactif. L'infrastructure dans les couches basses d'openSUSE a évolué, "
-"apportant de nouvelles technologies maintenant matures telles que GRUB2 et "
-"Plymouth ainsi que les premiers pas dans la direction d'une hiérarchie de "
-"système de fichier UNIX revue et simplifiée. Les utilisateurs remarqueront "
-"aussi les nouvelles touches apportées aux fonctionnalités existantes "
-"permettant une meilleure expérience utilisateur de manière générale. Le "
-"nouveau système de fichier Btrfs arrive avec une gestion des erreurs et des "
-"outils de récupération améliorés. Avec son développement rapide, GNOME 3.4 "
-"introduit le défilement fluide dans toutes les applications et offre des "
-"paramètres système ainsi qu'un gestionnaire de contacts retravaillés, tandis "
-"que XFCE propose un outil de recherche d'applications amélioré."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:18
+#: en/whats_hot.html:14
+#| msgid ""
+#| "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-"
+#| "go/\">Read more ...</a>"
 msgid ""
-"<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
-"\">Read more ...</a>"
+"<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-"
+"awesome\">Read more ...</a>"
 msgstr ""
-"<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
-"\">En lire plus ...</a>"
+"<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-"
+"awesome\">En lire plus ...</a>"
 
 #. type: Content of: <p><p>
-#: en/whats_hot.html:21
+#: en/whats_hot.html:17
+#| msgid ""
+#| "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#| "a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a "
+#| "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org/122\">download it</a> and <a href="
+"<a href=\"http://software.opensuse.org/123\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Vous pouvez <a href=\"http://en.opensuse.org/Product_highlights\">prendre  "
+"Vous pouvez <a href=\"http://fr.opensuse.org/Features\">prendre  "
 "connaissances des nouveautés</a>, <a href=\"http://software.opensuse."
-"org/122\">la télécharger</a> et <a href=\"http://fr.opensuse.org/SDB:"
+"org/123\">la télécharger</a> et <a href=\"http://fr.opensuse.org/SDB:"
 "System_upgrade\">la mettre à jour</a> !"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:25
 msgid "Follow openSUSE on Google Plus"
 msgstr "Suivez openSUSE sur Google Plus"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:26
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -465,17 +445,17 @@ msgstr ""
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:26
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:29
 msgid "Participate and join the community!"
 msgstr "Participez et rejoignez la communauté !"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:30
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -505,6 +485,51 @@ msgstr ""
 "d'autres utilisateurs et devenez un membre actif de la communauté "
 "openSUSE.   <a href=\"http://fr.opensuse.org/Portal:Comment_participer"
 "\">Voulez-vous en savoir davantage ?</a>"
+
+#~ msgid ""
+#~ "Dear users, developers, and Geekos around the world - <a href=\"http://"
+#~ "news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE "
+#~ "12.2</a> is ready for you! Two months of extra stabilization work have "
+#~ "resulted into a stellar release, chock-full of goodies, yet stable as you "
+#~ "all like it."
+#~ msgstr ""
+#~ "Chers utilisateurs, développeurs et Geekos du monde entier  - <a href="
+#~ "\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/"
+#~ "\">openSUSE 12.2</a> est disponible ! Deux mois d'un travail "
+#~ "supplémentaire de stabilisation ont permis de parvenir à une nouvelle "
+#~ "version sensationnelle, débordante de petits plaisirs, et pourtant stable "
+#~ "comme vous l'aimez tous."
+
+#~ msgid ""
+#~ "The latest release of the world's most powerful and flexible Linux "
+#~ "Distribution brings you speed-ups across the board with a faster storage "
+#~ "layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a "
+#~ "more fluid and responsive KDE desktop. The infrastructure below openSUSE "
+#~ "has evolved, bringing in mature new technologies like GRUB2 and Plymouth "
+#~ "and the first steps in the direction of a revised and simplified UNIX "
+#~ "file system hierarchy.  Users will also notice the added polish to "
+#~ "existing features bringing an improved user experience all over. The "
+#~ "novel Btrfs file system comes with improved error handling and recovery "
+#~ "tools, GNOME 3.4, developing rapidly, brings smooth scrolling to all "
+#~ "applications and features a reworked System Settings and Contacts manager "
+#~ "while XFCE has an enhanced application finder."
+#~ msgstr ""
+#~ "La dernière version de la distribution Linux la plus puissante et "
+#~ "flexible au monde vous apporte de meilleures performances à tous les "
+#~ "niveaux avec une couche de stockage plus rapide dans Linux 3.4 et des "
+#~ "fonctions accélérées dans glibc et Qt, résultant en un environnement de "
+#~ "bureau plus fluide et réactif. L'infrastructure dans les couches basses "
+#~ "d'openSUSE a évolué, apportant de nouvelles technologies maintenant "
+#~ "matures telles que GRUB2 et Plymouth ainsi que les premiers pas dans la "
+#~ "direction d'une hiérarchie de système de fichier UNIX revue et "
+#~ "simplifiée. Les utilisateurs remarqueront aussi les nouvelles touches "
+#~ "apportées aux fonctionnalités existantes permettant une meilleure "
+#~ "expérience utilisateur de manière générale. Le nouveau système de fichier "
+#~ "Btrfs arrive avec une gestion des erreurs et des outils de récupération "
+#~ "améliorés. Avec son développement rapide, GNOME 3.4 introduit le "
+#~ "défilement fluide dans toutes les applications et offre des paramètres "
+#~ "système ainsi qu'un gestionnaire de contacts retravaillés, tandis que "
+#~ "XFCE propose un outil de recherche d'applications amélioré."
 
 #~ msgid "oSC13 Banner"
 #~ msgstr "Bannière oSC13"

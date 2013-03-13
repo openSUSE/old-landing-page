@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-03-04 10:36+0100\n"
+"POT-Creation-Date: 2013-03-08 20:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -332,59 +332,53 @@ msgstr ""
 
 #. type: Content of: <h2>
 #: ./en/whats_hot.html:1
-msgid "openSUSE 12.2: Green Means Go!"
+msgid "openSUSE 12.3 - Awesome as 1-2-3"
 msgstr ""
 
 #. type: Content of: <p>
 #: ./en/whats_hot.html:3
 msgid ""
-"Dear users, developers, and Geekos around the world - <a "
-"href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE "
-"12.2</a> is ready for you! Two months of extra stabilization work have "
-"resulted into a stellar release, chock-full of goodies, yet stable as you "
-"all like it."
+"Dear contributors, friends and fans: the latest version of the openSUSE "
+"distribution, 12.3, <a "
+"href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">is "
+"ready for you</a>! After 6 months of hard work, we are happy to bring you "
+"the mash of the best things that Free and Open Source Software has to offer "
+"with the unique green sauce - stable, friendly and fun."
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:7
+#: ./en/whats_hot.html:9
 msgid ""
-"The latest release of the world's most powerful and flexible Linux "
-"Distribution brings you speed-ups across the board with a faster storage "
-"layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a more "
-"fluid and responsive KDE desktop. The infrastructure below openSUSE has "
-"evolved, bringing in mature new technologies like GRUB2 and Plymouth and the "
-"first steps in the direction of a revised and simplified UNIX file system "
-"hierarchy.  Users will also notice the added polish to existing features "
-"bringing an improved user experience all over. The novel Btrfs file system "
-"comes with improved error handling and recovery tools, GNOME 3.4, developing "
-"rapidly, brings smooth scrolling to all applications and features a reworked "
-"System Settings and Contacts manager while XFCE has an enhanced application "
-"finder."
+"As this was a shorter-than-normal release cycle, much attention went into "
+"the details and we bring you a very refurbished product. This release of the "
+"world&#39;s most powerful and flexible Linux Distribution gives the "
+"finishing touch to our boot infrastructure and package management, a bright "
+"polish to your desktop and a touch of cloud for your server."
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:18
+#: ./en/whats_hot.html:14
 msgid ""
 "<a "
-"href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read "
+"href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read "
 "more ...</a>"
 msgstr ""
 
 #. type: Content of: <p><p>
-#: ./en/whats_hot.html:21
+#: ./en/whats_hot.html:17
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org/122\">download it</a> and <a "
+"<a href=\"http://software.opensuse.org/123\">download it</a> and <a "
 "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 
 #. type: Content of: <h2>
-#: ./en/whats_hot.html:29
+#: ./en/whats_hot.html:25
 msgid "Follow openSUSE on Google Plus"
 msgstr ""
 
 #. type: Content of: <p><a>
-#: ./en/whats_hot.html:30
+#: ./en/whats_hot.html:26
 msgid ""
 "Keep informed about openSUSE following our <a "
 "href=\"https://plus.google.com/110312141834246266844/\">new Google+ "
@@ -393,17 +387,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:30
+#: ./en/whats_hot.html:26
 msgid "</a>."
 msgstr ""
 
 #. type: Content of: <h2>
-#: ./en/whats_hot.html:33
+#: ./en/whats_hot.html:29
 msgid "Participate and join the community!"
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:34
+#: ./en/whats_hot.html:30
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
