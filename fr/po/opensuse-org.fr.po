@@ -3,20 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2012.
-# Guillaume GARDET <guillaume.gardet@opensuse.org>, 2012.
+# Guillaume GARDET <guillaume.gardet@opensuse.org>, 2012, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2013-03-08 20:19+0100\n"
-"PO-Revision-Date: 2013-03-12 14:42+0100\n"
-"Last-Translator: Guillaume GARDET <guillaume.gardet@free.fr>\n"
+"PO-Revision-Date: 2013-03-20 17:37+0100\n"
+"Last-Translator: Guillaume GARDET <guillaume.gardet@opensuse.org>\n"
 "Language-Team: French <opensuse-fr@opensuse.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Lokalize 1.4\n"
 
 #. type: Attribute 'lang' of: <html>
 #: en/index.shtml:2
@@ -84,7 +84,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"lancer "
 "la recherche\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -337,7 +337,7 @@ msgstr "Français"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"
@@ -388,6 +388,12 @@ msgid ""
 "Free and Open Source Software has to offer with the unique green sauce - "
 "stable, friendly and fun."
 msgstr ""
+"Chers contributeurs, amis et fans : la dernière version de la distribution "
+"openSUSE, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-"
+"free-open-and-awesome\">est prête pour vous</a> ! Après 6 mois de travail, "
+"nous sommes heureux de vous fournir un savant mélange des meilleurs choses "
+"que les logiciels libres et open sources ont à offrir avec une sauce verte "
+"unique - stable, sympathique et fun."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:9
@@ -398,12 +404,15 @@ msgid ""
 "finishing touch to our boot infrastructure and package management, a bright "
 "polish to your desktop and a touch of cloud for your server."
 msgstr ""
+"Comme il s'agit d'un cycle plus court que la normal, beaucoup d'attentions "
+"ont été portées aux détails et nous vous offrons un produit très rénové. "
+"Cette version de la distribution Linux la plus flexible et puissante du "
+"monde donne la touche finale à notre infrastructure de démarrage et à notre "
+"gestion de paquets, un vernis brillant sur votre bureau et une touch de "
+"nuage (cloud) pour vos serveurs."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#| msgid ""
-#| "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-"
-#| "go/\">Read more ...</a>"
 msgid ""
 "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-"
 "awesome\">Read more ...</a>"
@@ -413,10 +422,6 @@ msgstr ""
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
-#| msgid ""
-#| "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
-#| "a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a "
-#| "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/123\">download it</a> and <a href="

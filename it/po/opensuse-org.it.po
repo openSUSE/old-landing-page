@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "POT-Creation-Date: 2013-03-08 20:19+0100\n"
-"PO-Revision-Date: 2013-03-11 13:32+0100\n"
+"PO-Revision-Date: 2013-03-13 21:11+0100\n"
 "Last-Translator: Andrea Turrini <andrea.turrini@gmail.com>\n"
 "Language-Team: Italian <opensuse-translation@opensuse.org>\n"
 "Language: it\n"
@@ -83,7 +83,7 @@ msgstr ""
 "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run "
 "search\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -333,7 +333,7 @@ msgstr "Italiano"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"
@@ -371,9 +371,8 @@ msgstr "Fondato da Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#| msgid "openSUSE 12.2: Green Means Go!"
 msgid "openSUSE 12.3 - Awesome as 1-2-3"
-msgstr "openSUSE 12.2 - fantastica come 1-2-3"
+msgstr "openSUSE 12.3 - fantastica come 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
@@ -410,9 +409,6 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#| msgid ""
-#| "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-"
-#| "go/\">Read more ...</a>"
 msgid ""
 "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-"
 "awesome\">Read more ...</a>"
@@ -422,10 +418,6 @@ msgstr ""
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
-#| msgid ""
-#| "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
-#| "a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a "
-#| "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/123\">download it</a> and <a href="
