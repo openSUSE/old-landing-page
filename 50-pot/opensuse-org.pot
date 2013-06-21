@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-03-08 20:19+0100\n"
+"POT-Creation-Date: 2013-06-21 10:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -317,7 +317,7 @@ msgstr ""
 
 #. type: Content of: <html><body><div><p>
 #: ./en/index.shtml:192
-msgid "&copy; 2008 Novell, Inc. All Rights Reserved."
+msgid "&copy; 2013 SUSE LLC.  All Rights Reserved."
 msgstr ""
 
 #. type: Content of: <html><body><div><p><a>
