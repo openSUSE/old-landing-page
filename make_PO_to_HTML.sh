@@ -22,6 +22,13 @@ langs="cs da de el es fi fr hu it jp lt nb nl pl pt-br ru sk th zh-cn zh-tw" #wi
 PO_filename_root="opensuse-org"
 # FIXME: not output HTML needs to be handled better
 translation_limit="0"	# Minimal translation percentage. Under this limit, no HTML file is output.
+dosync=1 # whether to pull new translations from svn
+
+for i in "$@"; do
+	if [ "$i" = "--nosync" ]; then
+		dosync=0
+	fi
+done
 
 for lang in $langs; do
 	output_folder=$lang
@@ -49,17 +56,18 @@ for lang in $langs; do
 # Sync PO files from opensuse-i18n SVN server
 # and update it using latest generated POT file (in case PO file not merged with latest POT)
 
-	echo "* Syncing PO file for $lang ($svn_server_lang_code)"
-	
-	for file in $(ls $POT_files_folder/*.pot); do
-		filename=$(basename ${file%.pot}).$svn_server_lang_code.po
-		mkdir -p $PO_folder
-		cd $PO_folder
-		svn export --force https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
-		cd -
-		msgmerge --update $PO_folder/$filename $POT_files_folder/*.pot
-	done
-	
+	if [ "$dosync" = 1 ]; then
+		echo "* Syncing PO file for $lang ($svn_server_lang_code)"
+
+		for file in $(ls $POT_files_folder/*.pot); do
+			filename=$(basename ${file%.pot}).$svn_server_lang_code.po
+			mkdir -p $PO_folder
+			cd $PO_folder
+			svn export --force https://svn.opensuse.org/svn/opensuse-i18n/trunk/lcn/$svn_server_lang_code/po/$filename
+			cd -
+			msgmerge --update $PO_folder/$filename $POT_files_folder/*.pot
+		done
+	fi
 
 # Generate translated HTML files
 	echo "* Generating HTML files for $lang ($svn_server_lang_code)"
