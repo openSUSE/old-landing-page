@@ -1,23 +1,25 @@
-# Martin Schlander <mschlander@opensuse.org>, 2012.
+# Copyright (C) 2013 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Martin Schlander <mschlander@opensuse.org>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: @PACKAGE@\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2013-03-08 20:19+0100\n"
-"PO-Revision-Date: 2012-09-05 13:46+0200\n"
+"PO-Revision-Date: 2013-08-19 20:20+0200\n"
 "Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
 "Language-Team: Danish <opensuse-translation@opensuse.org>\n"
-"Language: \n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: Attribute 'lang' of: <html>
 #: en/index.shtml:2
 msgid "en"
-msgstr "da"
+msgstr "en"
 
 #. type: Content of: <html><head><title>
 #: en/index.shtml:4
@@ -72,10 +74,8 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
-#, fuzzy
-#| msgid "<a href=\"http://conference.opensuse.org\">"
 msgid "<a href='//counter.opensuse.org/link/'>"
-msgstr "<a href=\"http://conference.opensuse.org\">"
+msgstr " <a href=\"http://conference.opensuse.org\">"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
 #: en/index.shtml:59
@@ -237,7 +237,6 @@ msgstr "<a href=\"http://lizards.opensuse.org/\">Blogs</a>"
 msgid "<a href=\"mailto:press@opensuse.org\">Press</a>"
 msgstr "<a href=\"mailto:press@opensuse.org\">Presse</a>"
 
-# label for language selection
 #. type: Attribute 'title' of: <html><body><div><div><form><img>
 #: en/index.shtml:170
 msgid "language"
@@ -296,34 +295,28 @@ msgstr "Grundlagt af Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#, fuzzy
-#| msgid "openSUSE 12.2: Green Means Go!"
 msgid "openSUSE 12.3 - Awesome as 1-2-3"
-msgstr "openSUSE 12.1: Grønt betyder kør!"
+msgstr "openSUSE 12.3 - Fantastisk som 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid "Dear contributors, friends and fans: the latest version of the openSUSE distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">is ready for you</a>! After 6 months of hard work, we are happy to bring you the mash of the best things that Free and Open Source Software has to offer with the unique green sauce - stable, friendly and fun."
-msgstr ""
+msgstr "Kære bidragsydere, venner og fans: Den seneste version af distributionen openSUSE, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">er klar til dig</a>! Efter seks måneders hårdt arbejde er vi glade for at give dig en sammenkogt ret af det bedste som fri og open source software har at byde på, med den unikke grønne sauce - stabil, venlig og sjov."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:9
 msgid "As this was a shorter-than-normal release cycle, much attention went into the details and we bring you a very refurbished product. This release of the world&#39;s most powerful and flexible Linux Distribution gives the finishing touch to our boot infrastructure and package management, a bright polish to your desktop and a touch of cloud for your server."
-msgstr ""
+msgstr "Da dette var en kortere udgivelsescyklus end normalt, blev der gjort meget ud af detaljerne og vi bringer dig et meget poleret produkt. Denne udgivelse af verdens mest kraftfulde og fleksible Linux-distribution lægger sidste hånd på værket mht. vores boot-infrastruktur og pakkehåndtering, en polering til din desktop og et pift af cloud til din server."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#, fuzzy
-#| msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
 msgid "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Læs mere ...</a>"
+msgstr "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Læs mere...</a>"
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
-#, fuzzy
-#| msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr "Du kan <a href=\"http://en.opensuse.org/Features\">se hvad der er nyt</a>, <a href=\"http://software.opensuse.org/122\">downloade den</a> og <a href=\"http://upgrade.opensuse.org\">opgradere</a>!"
+msgstr "Du kan <a href=\"http://en.opensuse.org/Features\">se hvad der er nyt</a>, <a href=\"http://software.opensuse.org/123\">downloade den</a> og <a href=\"http://upgrade.opensuse.org\">opgradere</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:25
@@ -349,24 +342,3 @@ msgstr "Deltag og vær med i fællesskabet!"
 #: en/whats_hot.html:30
 msgid "Whether you're an experienced Linux developer or an end user just getting started with Linux, there are many ways for you to participate in the openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> to get help or help others with openSUSE, find and <a href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">report bugs</a>, review the <a href=\"http://doc.opensuse.org\">documentation</a>, send your <a href=\"http://features.opensuse.org\">wish list</a> for new packages and features, create and submit <a href=\"http://build.opensuse.org\">patches</a>, or find other creative ways to contribute.  Whatever you do, take a few minutes to discuss openSUSE with other users and become an active member of the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:How_to_participate\">Would you like to know more?</a>"
 msgstr "Hvadenten du er en erfaren Linux-udvikler eller en slutbruger som første er ved at begynde med Linux, så er der mange måder du kan deltage i openSUSE-projektet på. Gå med i et <a href=\"http://forums.opensuse.org/\">forum</a> for at få hjælp eller hjælpe andre med openSUSE, find og <a href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">rapportér programfejl</a>, læs korrektur på <a href=\"http://doc.opensuse.org\">dokumentationen</a>, send din <a href=\"http://features.opensuse.org\">ønskeliste</a> til nye pakker og funktioner, opret og indsend <a href=\"http://build.opensuse.org\">rettelser</a> eller find på andre kreative måder at bidrage på. Uanset hvad du gør, så brug nogle få minutter på at diskutere openSUSE med andre brugere og bliv et aktivt medlem af openSUSE-fællesskaberne.  <a href=\"http://en.opensuse.org/Portal:How_to_participate\">Vil du gerne vide mere?</a>"
-
-#~ msgid "Dear users, developers, and Geekos around the world - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is ready for you! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it."
-#~ msgstr "Kære brugere, udviklere og Geekos i hele verden - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> er klar til jer! To måneders ekstra stabiliseringsarbejde har ført til en fremragende udgivelse, stopfyldt med godbidder, men alligevel stabil, ligesom I kan lide det."
-
-#~ msgid "The latest release of the world's most powerful and flexible Linux Distribution brings you speed-ups across the board with a faster storage layer in Linux 3.4 and accelerated functions in glibc and Qt, giving a more fluid and responsive KDE desktop. The infrastructure below openSUSE has evolved, bringing in mature new technologies like GRUB2 and Plymouth and the first steps in the direction of a revised and simplified UNIX file system hierarchy.  Users will also notice the added polish to existing features bringing an improved user experience all over. The novel Btrfs file system comes with improved error handling and recovery tools, GNOME 3.4, developing rapidly, brings smooth scrolling to all applications and features a reworked System Settings and Contacts manager while XFCE has an enhanced application finder."
-#~ msgstr "Den seneste udgivelse af verdens mest kraftfulde og fleksible Linux-distribution bringer dig hastighedsforbedringer over hele linjen med et hurtigere lagringslag i Linux 3.4 og accelererede funktioner i glibc og Qt, som giver et mere flydende og responsivt KDE-skrivebordsmiljø. Infrastrukturen under openSUSE har udviklet sig, hvilket bringer nye modne teknologier såsom GRUB2 og Plymouth og de første skridt imod et revideret og simplificeret UNIX filsystem-hierarki. Brugere vil også bemærke ekstra polering af eksisterende funktioner som giver en forbedret oplevelse generelt. Det nye Btrfs filsystem kommer med forbedret fejlhåndtering og gendannelsesværktøjer, GNOME 3.4, som udvikler sig hurtigt, bringer jævn rulning til alle programmer og indeholder ombyggede Systemindstillinger og Kontakt-håndtering og Xfce har en forbedret programfinder."
-
-#, fuzzy
-#~ msgid "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
-#~ msgstr "<a href=\"http://news.opensuse.org/feed/\">"
-
-#~| msgid "<a href=\"http://forums.opensuse.org/\">"
-#~ msgid "<a href=\"http://summit.opensuse.org\">"
-#~ msgstr "<a href=\"http://summit.opensuse.org\">"
-
-#~| msgid "<a href=\"http://conference.opensuse.org\">"
-#~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
-#~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
-
-#~ msgid "It is November 16, 2011 and our mirrors have synced. Time to present to you: <a href=\"http://software.opensuse.org/\">openSUSE 12.1</a>! This release represents more than eight months of work by our international community and brings you the best Free Software has to offer. Awesome improvements include the latest GNOME 3.2 desktop as well as the newest from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-shots of your file system; and much, much more. (<a href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/\">continue reading</a>)."
-#~ msgstr "Det er den 16. november 2011 og vores filspejle er synkroniseret. Tiden er kommet til at præsentere dig for: <a href=\"http://software.opensuse.org/\">openSUSE 12.1</a>! Denne udgivelse repræsenterer mere end otte måneders arbejde af vores internationale fællesskab og bringer dig det bedste som fri software har at tilbyde. Nogle af de fantastiske forbedringer er GNOME 3.2-skrivebordet samt det nyeste fra KDE, XFCE og LXDE, din ownCloud gjort nem mirall; Snapper-shots af dit filsystem og meget, meget mere. (<a href=\"http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/\">læs mere</a>)."

@@ -65,7 +65,7 @@ msgstr "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\"
 msgid "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
 msgstr "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"検索の実行\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -256,7 +256,7 @@ msgstr "英語"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"
@@ -294,38 +294,26 @@ msgstr "Founded by Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#| msgid "openSUSE 12.2: Green Means Go!"
 msgid "openSUSE 12.3 - Awesome as 1-2-3"
 msgstr "openSUSE 12.3 - Awesome as 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid "Dear contributors, friends and fans: the latest version of the openSUSE distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">is ready for you</a>! After 6 months of hard work, we are happy to bring you the mash of the best things that Free and Open Source Software has to offer with the unique green sauce - stable, friendly and fun."
-msgstr ""
-"貢献者の皆さん、利用者の皆さん、そして何よりも、ファンの皆さんへ: openSUSE ディストリビューションの最新版 "
-"12.3 が <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">公開</a> "
-"されました！ 6 ヶ月にわたった努力の成果により、我々はユニークな緑色のソース - それは安定性とフレンドリーさ、"
-"そして面白さを表わす色として - で、フリーソフトウエア／オープンソースソフトウエア"
-"の世界に最高のものを提供できたと自負しています。 "
+msgstr "貢献者の皆さん、利用者の皆さん、そして何よりも、ファンの皆さんへ: openSUSE ディストリビューションの最新版 12.3 が <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">公開</a> されました！ 6 ヶ月にわたった努力の成果により、我々はユニークな緑色のソース - それは安定性とフレンドリーさ、そして面白さを表わす色として - で、フリーソフトウエア／オープンソースソフトウエアの世界に最高のものを提供できたと自負しています。 "
 
 #. type: Content of: <p>
 #: en/whats_hot.html:9
 msgid "As this was a shorter-than-normal release cycle, much attention went into the details and we bring you a very refurbished product. This release of the world&#39;s most powerful and flexible Linux Distribution gives the finishing touch to our boot infrastructure and package management, a bright polish to your desktop and a touch of cloud for your server."
-msgstr ""
-"今回のリリースは通常よりも短い間隔でリリースされたものであったため、より細部に対して力を注ぐことができていて、"
-"とても洗練されたものに仕上がっています。世界で最もパワフルかつ柔軟な Linux ディストリビューションの"
-"本リリースでは、起動まわりとパッケージ管理関連の処理に最後の仕上げを行ない、デスクトップやサーバ、そして"
-"クラウドとして利用できる、輝かしいディストリビューションになっています。 "
+msgstr "今回のリリースは通常よりも短い間隔でリリースされたものであったため、より細部に対して力を注ぐことができていて、とても洗練されたものに仕上がっています。世界で最もパワフルかつ柔軟な Linux ディストリビューションの本リリースでは、起動まわりとパッケージ管理関連の処理に最後の仕上げを行ない、デスクトップやサーバ、そしてクラウドとして利用できる、輝かしいディストリビューションになっています。 "
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#| msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
 msgid "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read more ...</a>"
 msgstr "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">続きを読む (英語) ...</a>"
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
-#| msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr "<a href=\"http://ja.opensuse.org/Features\">主な機能</a>, <a href=\"http://software.opensuse.org/123\">ダウンロード</a>, <a href=\"http://upgrade.opensuse.org\">アップグレード</a> などもお読みください。"
 
@@ -353,4 +341,3 @@ msgstr "コミュニティへの参加"
 #: en/whats_hot.html:30
 msgid "Whether you're an experienced Linux developer or an end user just getting started with Linux, there are many ways for you to participate in the openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> to get help or help others with openSUSE, find and <a href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">report bugs</a>, review the <a href=\"http://doc.opensuse.org\">documentation</a>, send your <a href=\"http://features.opensuse.org\">wish list</a> for new packages and features, create and submit <a href=\"http://build.opensuse.org\">patches</a>, or find other creative ways to contribute.  Whatever you do, take a few minutes to discuss openSUSE with other users and become an active member of the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:How_to_participate\">Would you like to know more?</a>"
 msgstr "Linux の開発者から最近 Linux を触りはじめた方まで、 openSUSE プロジェクトには多種多様な参加方法があります。 openSUSE について質問したり、質問に回答したりしたい場合は、 <a href=\"http://forums.opensuse.org/\">フォーラム</a> にご参加ください。また、何らかのバグを発見された場合は、 <a href=\"http://ja.opensuse.org/%E3%83%90%E3%82%B0%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88\">バグ報告</a> から報告することができます。それ以外にも、 <a href=\"http://doc.opensuse.org\">ドキュメンテーション</a> のレビューや、新しいパッケージや機能の追加をリクエストするための <a href=\"http://features.opensuse.org\">wish list</a> 、そして <a href=\"http://build.opensuse.org\">ビルドサービス</a> による修正の作成や発信など、各種クリエイティブな貢献方法があります。どのような貢献方法をとられる場合でも、まずは openSUSE のコミュニティメンバーとなり、様々な方と対話されることをお勧めしています。さらに詳しい情報は、 <a href=\"http://ja.opensuse.org/%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F\">こちら</a> をお読みください。"
-

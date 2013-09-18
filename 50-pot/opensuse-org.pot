@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-06-21 10:34+0300\n"
+"POT-Creation-Date: 2013-09-18 15:54+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,9 +63,7 @@ msgstr ""
 msgid ""
 "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> "
 "<input type=\"image\" alt=\"run search\" title=\"run search\" "
-"class=\"searchbutton\" "
-"src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" "
-"/>"
+"class=\"searchbutton\" src=\"/images/frontpage/magnifier.png\" />"
 msgstr ""
 
 #. type: Content of: <html><body><div><div><form>
@@ -96,8 +94,8 @@ msgstr ""
 msgid "<span>openSUSE</span>"
 msgstr ""
 
-#. type: Content of: <html><body><div><p>
-#: ./en/index.shtml:59 ./en/index.shtml:120 ./en/index.shtml:197
+#. type: Content of: <html><body><div><div><div><p>
+#: ./en/index.shtml:59 ./en/index.shtml:120
 msgid "</a>"
 msgstr ""
 
@@ -317,17 +315,7 @@ msgstr ""
 
 #. type: Content of: <html><body><div><p>
 #: ./en/index.shtml:192
-msgid "&copy; 2013 SUSE LLC.  All Rights Reserved."
-msgstr ""
-
-#. type: Content of: <html><body><div><p><a>
-#: ./en/index.shtml:195
-msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
-msgstr ""
-
-#. type: Attribute 'alt' of: <html><body><div><p><a><img>
-#: ./en/index.shtml:196 ./en/index.shtml:196
-msgid "Founded by Novell"
+msgid "&copy; 2013 SUSE LLC. All Rights Reserved."
 msgstr ""
 
 #. type: Content of: <h2>

@@ -4,29 +4,29 @@
     <title>openSUSE.org</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="language" content="zh-cn" />
-    <link href="//static.opensuse.org/hosts/www.o.o/css/frontpage.css" rel="stylesheet" type="text/css" media="screen" />
-    <link href="//static.opensuse.org/hosts/www.o.o/css/fancybox.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/css/frontpage.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/css/fancybox.css" rel="stylesheet" type="text/css" media="screen" />
     
     
 	<!--[if IE 6]>
 
-	  <link rel="Stylesheet" rev="Stylesheet" href="//static.opensuse.org/hosts/www.o.o/css/frontpage.ie6.css" type="text/css" media="screen" />
+	  <link rel="Stylesheet" rev="Stylesheet" href="/css/frontpage.ie6.css" type="text/css" media="screen" />
 	<![endif]-->
 <!--[if IE 7]>
 
-	  <link rel="Stylesheet" rev="Stylesheet" href="//static.opensuse.org/hosts/www.o.o/css/frontpage.ie7.css" type="text/css" media="screen" />
+	  <link rel="Stylesheet" rev="Stylesheet" href="/css/frontpage.ie7.css" type="text/css" media="screen" />
 	<![endif]-->
-<link href="//static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.css" rel="stylesheet" type="text/css" media="screen" />
-	<link href="//static.opensuse.org/hosts/www.o.o/css/jquery.jcarousel.skin.opensuse.css" rel="stylesheet" type="text/css" media="screen" />
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/jquery-1.2.6.min.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/jquery.selectbox.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/jquery.dimensions.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/jquery.jcarousel.pack.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/jquery.reflect.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/jquery.fancybox-1.0.0.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/ie6_pngfix.js"></script>
-  	<script type="text/javascript" src="//static.opensuse.org/hosts/www.o.o/js/frontpage.js"></script>
-        <link rel="alternate" type="application/rss+xml" title="openSUSE 新闻 &amp; 事件" href="http://news.opensuse.org/feed/" />
+<link href="/css/jquery.jcarousel.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/jquery.jcarousel.skin.opensuse.css" rel="stylesheet" type="text/css" media="screen" />
+	<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.selectbox.js"></script>
+	<script type="text/javascript" src="/js/jquery.dimensions.js"></script>
+	<script type="text/javascript" src="/js/jquery.jcarousel.pack.js"></script>
+	<script type="text/javascript" src="/js/jquery.reflect.js"></script>
+	<script type="text/javascript" src="/js/jquery.fancybox-1.0.0.js"></script>
+	<script type="text/javascript" src="/js/ie6_pngfix.js"></script>
+	<script type="text/javascript" src="/js/frontpage.js"></script>
+	<link rel="alternate" type="application/rss+xml" title="openSUSE 新闻 &amp; 事件" href="http://news.opensuse.org/feed/" />
 	<link href="https://plus.google.com/110312141834246266844/" rel="publisher" />
   </head>
   <body>
@@ -40,9 +40,9 @@ id="searchscope" name="searchscope">
             <option value="news">搜索新闻</option>
             <option value="software">搜索软件</option>
             <option value="wiki" selected="selected">搜索帮助手册</option>
-            </select> <input type="text" name="searchstring" class="textfield" /><input
-type="image" alt="执行搜索" title="执行搜索" class="searchbutton"
-src="http://static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png"/>
+            </select> <input type="text" name="searchstring" class="textfield" /> <input
+type="image" alt="run search" title="run search" class="searchbutton"
+src="/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="执行搜索" />
         </form>
@@ -106,7 +106,7 @@ id="screenshots">&nbsp;</span>
           <h2>新闻 &amp; 事件</h2>
           <p id="rss">
             <a href="http://news.opensuse.org/feed/">
-              <img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/rss_icon.png" alt="RSS 新闻种子" title="RSS 新闻种子" />
+              <img src="/images/frontpage/rss_icon.png" alt="RSS 新闻种子" title="RSS 新闻种子" />
             </a>
           </p>
           
@@ -116,7 +116,7 @@ id="screenshots">&nbsp;</span>
         <div id="help" class="right minor_column">
           <h2>帮助 &amp; 支持</h2>
           <p>
-            <a href="http://forums.opensuse.org/"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/help.png" alt="寻求帮助" title="寻求帮助" /></a>使用过程中存疑或仅仅想知道其他人都用 openSUSE 做些什么？来我们的<a
+            <a href="http://forums.opensuse.org/"><img src="/images/frontpage/help.png" alt="寻求帮助" title="寻求帮助" /></a>使用过程中存疑或仅仅想知道其他人都用 openSUSE 做些什么？来我们的<a
 href="http://forums.opensuse.org/">论坛</a>留下您的脚印吧！
            </p>
            <p>
@@ -128,7 +128,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
         <div id="shop" class="right minor_column">
           <h2>openSUSE 小店</h2>
           <p>
-            <a href="http://shop.opensuse.org/"><img src="//static.opensuse.org/hosts/www.o.o/images/frontpage/shop_shirt.png" alt="openSUSE 小店" title="openSUSE 小店" /></a><a href="http://shop.opensuse.org/">openSUSE 小店</a> 是淘官方 openSUSE
+            <a href="http://shop.opensuse.org/"><img src="/images/frontpage/shop_shirt.png" alt="openSUSE 小店" title="openSUSE 小店" /></a><a href="http://shop.opensuse.org/">openSUSE 小店</a> 是淘官方 openSUSE
 藏品的市集。T恤衫、马克杯、货车帽，双肩包以及更多好物应有尽有。还有狗狗的饰物哦！
            </p>
            <ul>
@@ -154,7 +154,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="//static.opensuse.org/hosts/www.o.o/images/flags/cn.png" alt="语言" title="语言" />
+          <img src="/images/flags/gb.png" alt="语言" title="语言" />
           <select id="language" name="语言">
             <option value="zh-cn" selected="selected">英语</option>
             <option value="">...</option>
@@ -178,13 +178,8 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
- 	    &copy; 2013 SUSE LLC.  All Rights Reserved. 
+		&copy; 2013 SUSE LLC. All Rights Reserved.
  	  </p>
-	  <p>
-	    <a target="_blank" href="http://www.novell.com/">
-	      <img title="由 Novell 发起" alt="由 Novell 发起" src="//static.opensuse.org/hosts/www.o.o/images/frontpage/novell_logo.jpg" />
-	    </a>
-	  </p>
     </div>
 </body>
 </html>

@@ -67,7 +67,7 @@ msgstr "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\"
 msgid "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
 msgstr "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -259,7 +259,7 @@ msgstr "Norsk bokmål"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"

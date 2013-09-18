@@ -299,7 +299,6 @@ msgstr "Ufundowane przez firmę Novell"
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 #, fuzzy
-#| msgid "openSUSE 12.2: Green Means Go!"
 msgid "openSUSE 12.3 - Awesome as 1-2-3"
 msgstr "openSUSE 12.2: Green Means Go!"
 
@@ -316,14 +315,12 @@ msgstr ""
 #. type: Content of: <p>
 #: en/whats_hot.html:14
 #, fuzzy
-#| msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
 msgid "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read more ...</a>"
 msgstr "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Czytaj dalej ...</a>"
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
 #, fuzzy
-#| msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr "<a href=\"http://pl.opensuse.org/Features\">Dowiedz się co nowego</a>, <a href=\"http://software.opensuse.org/122\">pobierz</a> i <a href=\"http://upgrade.opensuse.org\">zaktualizuj</a>!"
 

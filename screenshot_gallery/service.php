@@ -8,8 +8,8 @@
  */
 
 define ('LOCAL_PATH_SCREENSHOTS', '../images/screenshots/thumbs/');
-define ('PATH_SCREENSHOTS_LARGE', '//static.opensuse.org/hosts/www.o.o/images/screenshots/zoom/');
-define ('PATH_SCREENSHOTS_SMALL', '//static.opensuse.org/hosts/www.o.o/images/screenshots/thumbs/');
+define ('PATH_SCREENSHOTS_LARGE', '//www.opensuse.org/images/screenshots/zoom/');
+define ('PATH_SCREENSHOTS_SMALL', '//www.opensuse.org/images/screenshots/thumbs/');
 
 $dir = dir (LOCAL_PATH_SCREENSHOTS);
 $screenshots = array ();

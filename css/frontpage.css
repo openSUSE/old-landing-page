@@ -8,16 +8,16 @@ hr{height:0px;color:white;border-top:1px dotted #999;margin:25px 0px 20px;}
 a{color:#669900;}
 img{border:0px;}
 #background{background-color:#eee;clear:both;margin:40px 0px 0px;padding:20px 0px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;}
-#search{height:40px;background-color:#e0e0e0;background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_search.png);background-position:bottom left;}
+#search{height:40px;background-color:#e0e0e0;background-image:url(../images/frontpage/box_search.png);background-position:bottom left;}
 #search form{margin:7px 0px 0px 20px;}
 #search form div{float:left;}
-#search form div.searchbox{float:left;width:360px;background-color:white;border:1px solid #999;background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/searchbox_bg.png);background-repeat:repeat-y;}
+#search form div.searchbox{float:left;width:360px;background-color:white;border:1px solid #999;background-image:url(../images/frontpage/searchbox_bg.png);background-repeat:repeat-y;}
 #search form select, #search form input{font-family:Verdana,Helvetica,Arial,sans-serif;font-size:0.9em;color:#444;}
 #search form select{width:180px;height:22px;padding:2px;}
 #search form div.select{cursor:pointer;float:left;width:33px;height:20px;}
-#search form div.select .green{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/geeko_green.png);}
-#search form div.select .orange{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/geeko_orange.png);}
-#search form div.select div{height:20px;background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/searchbox_arrow.png);background-repeat:no-repeat;background-position:2px 8px;padding:0px 0px 0px 12px;}
+#search form div.select .green{background-image:url(../images/frontpage/geeko_green.png);}
+#search form div.select .orange{background-image:url(../images/frontpage/geeko_orange.png);}
+#search form div.select div{height:20px;background-image:url(../images/frontpage/searchbox_arrow.png);background-repeat:no-repeat;background-position:2px 8px;padding:0px 0px 0px 12px;}
 #search form div.select div p{margin:0px;padding:0px;display:block;width:20px;overflow:hidden;background-repeat:no-repeat;background-position:0px 3px;}
 #search form div.select ul{margin:1px 0px 0px;padding:0;list-style:none;width:300px !important;background-color:#eee;border:1px solid #999;}
 #search form div.select li{color:#4d4d4d;padding-left:10px;padding:3px 10px 0px 30px;height:18px;cursor:pointer;background-repeat:no-repeat;background-position:10px 3px;}
@@ -33,26 +33,26 @@ img{border:0px;}
 #intro strong{color:#669900;}
 #quicklinks{float:right;margin:20px 0px 0px;padding:0px;list-style:none;}
 #quicklinks li{display:block;margin-bottom:21px;}
-#quicklinks li a{display:block;width:455px;color:white;font-size:0.8em;text-decoration:none;background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_border_middle.png);background-repeat:repeat-y;}
+#quicklinks li a{display:block;width:455px;color:white;font-size:0.8em;text-decoration:none;background-image:url(../images/frontpage/box_border_middle.png);background-repeat:repeat-y;}
 #quicklinks li a span.top, #quicklinks li a span.bottom{display:block;height:10px;width:455px;background-repeat:no-repeat;}
-#quicklinks li a span.top{float:left;background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_border_top.png);}
-#quicklinks li a span.bottom{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_border_bottom.png);}
+#quicklinks li a span.top{float:left;background-image:url(../images/frontpage/box_border_top.png);}
+#quicklinks li a span.bottom{background-image:url(../images/frontpage/box_border_bottom.png);}
 #quicklinks li a span.buttontext{display:block;float:left;padding:40px 20px 15px 210px;background-position:10px 0px;background-repeat:no-repeat;}
 #quicklinks li a strong{display:none;}
 #quicklinks #get a{background-color:#f08c0e;}
 #quicklinks #get a:hover{background-color:#f0a54a;}
-#quicklinks #get .buttontext{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_content_get.png);}
+#quicklinks #get .buttontext{background-image:url(../images/frontpage/box_content_get.png);}
 #quicklinks #discover a{background-color:#669900;}
 #quicklinks #discover a:hover{background-color:#89b337;}
-#quicklinks #discover .buttontext{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_content_discover.png);}
+#quicklinks #discover .buttontext{background-image:url(../images/frontpage/box_content_discover.png);}
 #quicklinks #create a{background-color:#5d666e;}
 #quicklinks #create a:hover{background-color:#77828c;}
-#quicklinks #create .buttontext{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/box_content_create.png);}
+#quicklinks #create .buttontext{background-image:url(../images/frontpage/box_content_create.png);}
 #screenshots{display:none;}
 #screenshots h2{position:relative;top:30px;}
 #toggle_screenshots_container{position:relative;top:-1px;margin-bottom:40px;}
-#toggle_screenshots{display:block;width:179px;height:29px;margin-left:30px;background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/button_screenshots_show.jpg);background-position:0px 0px;}
-#toggle_screenshots.expanded{background-image:url(//static.opensuse.org/hosts/www.o.o/images/frontpage/button_screenshots_hide.jpg);}
+#toggle_screenshots{display:block;width:179px;height:29px;margin-left:30px;background-image:url(../images/frontpage/button_screenshots_show.jpg);background-position:0px 0px;}
+#toggle_screenshots.expanded{background-image:url(../images/frontpage/button_screenshots_hide.jpg);}
 #toggle_screenshots:hover{background-position:0px -29px;}
 #toggle_screenshots span{display:none;}
 #teasers{clear:both;}

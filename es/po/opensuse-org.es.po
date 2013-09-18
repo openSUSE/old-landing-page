@@ -311,7 +311,6 @@ msgstr "Como este ciclo de publicación ha sido más corto de lo habitual, se ha
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#| msgid "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 msgid "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read more ...</a>"
 msgstr "<a href=\"https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_12.3\">Sigue leyendo...</a>"
 

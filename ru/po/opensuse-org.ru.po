@@ -13,8 +13,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 1.5\n"
 
 #. type: Attribute 'lang' of: <html>
@@ -34,12 +33,8 @@ msgstr "Новости и события openSUSE"
 
 #. type: Content of: <html><body><div><div><form><div><select>
 #: en/index.shtml:33
-msgid ""
-"<input type=\"hidden\" name=\"language\" value=\"en\" /> <select "
-"id=\"searchscope\" name=\"searchscope\">"
-msgstr ""
-"<input type=\"hidden\" name=\"language\" value=\"ru\" /> <select "
-"id=\"searchscope\" name=\"searchscope\">"
+msgid "<input type=\"hidden\" name=\"language\" value=\"en\" /> <select id=\"searchscope\" name=\"searchscope\">"
+msgstr "<input type=\"hidden\" name=\"language\" value=\"ru\" /> <select id=\"searchscope\" name=\"searchscope\">"
 
 #. type: Content of: <html><body><div><div><form><div><select><option>
 #: en/index.shtml:35
@@ -63,27 +58,15 @@ msgstr "поиск в справке"
 
 #. type: Content of: <html><body><div><div><form><div>
 #: en/index.shtml:39
-msgid ""
-"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <"
-"input type=\"image\" alt=\"run search\" title=\"run search\" "
-"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontp"
-"age/magnifier.png\" />"
-msgstr ""
-"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <"
-"input type=\"image\" alt=\"run search\" title=\"run search\" "
-"class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontp"
-"age/magnifier.png\" />"
+msgid "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
+msgstr "</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> <input type=\"image\" alt=\"run search\" title=\"run search\" class=\"searchbutton\" src=\"//static.opensuse.org/hosts/www.o.o/images/frontpage/magnifier.png\" />"
 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:43
-msgid ""
-"<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run "
-"search\" />"
-msgstr ""
-"<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run "
-"search\" />"
+msgid "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
+msgstr "<input type=\"submit\" name=\"searchbutton\" class=\"button\" value=\"run search\" />"
 
-#. #include virtual="../sponsors.html"
+#. #include virtual="../sponsors.html" 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:46 en/index.shtml:112 en/index.shtml:153 en/index.shtml:186
 msgid "<span class=\"clear\">&nbsp;</span>"
@@ -111,71 +94,33 @@ msgstr "</a>"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:61
-msgid ""
-"<strong>openSUSE</strong> is a free and Linux-based operating system for your "
-"PC, Laptop or Server.  You can surf the web, manage your e-mails and photos, "
-"do office work, play videos or music and <em>have a lot of fun!</em>"
-msgstr ""
-"<strong>openSUSE</strong> — это свободная операционная система на базе Linux "
-"для Вашего ПК, ноутбука или сервера. Вы можете просматривать веб, управлять "
-"почтой и фотографиями, выполнять офисную работу, смотреть видео или слушать "
-"музыку. <em>Have a lot of fun!</em>"
+msgid "<strong>openSUSE</strong> is a free and Linux-based operating system for your PC, Laptop or Server.  You can surf the web, manage your e-mails and photos, do office work, play videos or music and <em>have a lot of fun!</em>"
+msgstr "<strong>openSUSE</strong> — это свободная операционная система на базе Linux для Вашего ПК, ноутбука или сервера. Вы можете просматривать веб, управлять почтой и фотографиями, выполнять офисную работу, смотреть видео или слушать музыку. <em>Have a lot of fun!</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:70
-msgid ""
-"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
-"span class=\"buttontext\"> <strong>Get it: </strong> Download openSUSE or "
-"find additional software.  </span> <span class=\"bottom clear\">&nbsp;</span> "
-"</a>"
-msgstr ""
-"<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
-"span class=\"buttontext\"> <strong>Get it: </strong> Загрузите openSUSE или "
-"дополнительное ПО. </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+msgid "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span class=\"buttontext\"> <strong>Get it: </strong> Download openSUSE or find additional software.  </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+msgstr "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span class=\"buttontext\"> <strong>Get it: </strong> Загрузите openSUSE или дополнительное ПО. </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:80
-msgid ""
-"<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
-"class=\"buttontext\"> <strong>Discover it: </strong> Learn more about "
-"openSUSE with tutorials, documentation, and more! </span> <span "
-"class=\"bottom clear\">&nbsp;</span> </a>"
-msgstr ""
-"<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span "
-"class=\"buttontext\"> <strong>Discover it: </strong> Узнайте больше об "
-"openSUSE с помощью документации и других учебных материалов! </span> <span "
-"class=\"bottom clear\">&nbsp;</span> </a>"
+msgid "<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span class=\"buttontext\"> <strong>Discover it: </strong> Learn more about openSUSE with tutorials, documentation, and more! </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+msgstr "<a href=\"http://en.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span class=\"buttontext\"> <strong>Discover it: </strong> Узнайте больше об openSUSE с помощью документации и других учебных материалов! </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:90
-msgid ""
-"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
-"span class=\"buttontext\"> <strong>Create it: </strong> Build packages for "
-"all major Linux distributions with the Build Service.  </span> <span "
-"class=\"bottom clear\">&nbsp;</span> </a>"
-msgstr ""
-"<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> <"
-"span class=\"buttontext\"> <strong>Create it: </strong> Создавайте пакеты для "
-"всех ключевых дистрибутивов Linux с помощью Build Service.  </span> <span "
-"class=\"bottom clear\">&nbsp;</span> </a>"
+msgid "<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span class=\"buttontext\"> <strong>Create it: </strong> Build packages for all major Linux distributions with the Build Service.  </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
+msgstr "<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> <span class=\"buttontext\"> <strong>Create it: </strong> Создавайте пакеты для всех ключевых дистрибутивов Linux с помощью Build Service.  </span> <span class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div>
 #: en/index.shtml:100
-msgid ""
-"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" "
-"id=\"screenshots\">&nbsp;</span>"
-msgstr ""
-"<span class=\"clear\">&nbsp;</span> <span class=\"centered\" "
-"id=\"screenshots\">&nbsp;</span>"
+msgid "<span class=\"clear\">&nbsp;</span> <span class=\"centered\" id=\"screenshots\">&nbsp;</span>"
+msgstr "<span class=\"clear\">&nbsp;</span> <span class=\"centered\" id=\"screenshots\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div>
 #: en/index.shtml:105
-msgid ""
-"<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; "
-"Screenshots</span></a>"
-msgstr ""
-"<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; "
-"Снимки&nbsp;экрана</span></a>"
+msgid "<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; Screenshots</span></a>"
+msgstr "<a href=\"../screenshots.php\" id=\"toggle_screenshots\"><span>&raquo; Снимки&nbsp;экрана</span></a>"
 
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:116
@@ -209,23 +154,13 @@ msgstr "справка"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:128
-msgid ""
-"</a> The <a href=\"http://forums.opensuse.org/\">forums</a> are the first "
-"place to go if you want answers to questions about openSUSE!"
-msgstr ""
-"</a> <a href=\"http://forums.opensuse.org/\">Форумы</a> — это первое место, "
-"куда следует обратиться, чтобы получить ответы на свои вопросы об openSUSE!"
+msgid "</a> The <a href=\"http://forums.opensuse.org/\">forums</a> are the first place to go if you want answers to questions about openSUSE!"
+msgstr "</a> <a href=\"http://forums.opensuse.org/\">Форумы</a> — это первое место, куда следует обратиться, чтобы получить ответы на свои вопросы об openSUSE!"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:133
-msgid ""
-"Want to discuss openSUSE, participate in development, or contribute in other "
-"ways? Join one of the <a href=\"http://en.opensuse.org/openSUSE:Mailing_lists"
-"\">mailing lists</a>."
-msgstr ""
-"Хотите обсудить openSUSE, помочь в разработке или других областях? "
-"Присоединяйтесь к одному из <a href=\"http://ru.opensuse.org/openSUSE:Список_д"
-"оступных_рассылок\">списков рассылки</a>."
+msgid "Want to discuss openSUSE, participate in development, or contribute in other ways? Join one of the <a href=\"http://en.opensuse.org/openSUSE:Mailing_lists\">mailing lists</a>."
+msgstr "Хотите обсудить openSUSE, помочь в разработке или других областях? Присоединяйтесь к одному из <a href=\"http://ru.opensuse.org/openSUSE:Список_доступных_рассылок\">списков рассылки</a>."
 
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:140
@@ -244,25 +179,17 @@ msgstr "Магазин openSUSE"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:142
-msgid ""
-"</a> The <a href=\"http://shop.opensuse.org/\">shop</a> is the place to find "
-"official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
-msgstr ""
-"</a> <a href=\"http://shop.opensuse.org/\">Магазин</a> — это место, где вы "
-"сможете найти товары с символикой openSUSE. Футболки, кружки, кепки, сумки и "
-"многое другое."
+msgid "</a> The <a href=\"http://shop.opensuse.org/\">shop</a> is the place to find official openSUSE gear.  T-shirts, mugs, caps, bags and much more."
+msgstr "</a> <a href=\"http://shop.opensuse.org/\">Магазин</a> — это место, где вы сможете найти товары с символикой openSUSE. Футболки, кружки, кепки, сумки и многое другое."
 
 #. type: Content of: <html><body><div><div><div><ul><li>
 #: en/index.shtml:148
 msgid "<a href=\"http://shop.opensuse.org/shop-us.html\">Shop for Americas</a>"
-msgstr ""
-"<a href=\"http://shop.opensuse.org/shop-us.html\">Магазин для Америки</a>"
+msgstr "<a href=\"http://shop.opensuse.org/shop-us.html\">Магазин для Америки</a>"
 
 #. type: Content of: <html><body><div><div><div><ul><li>
 #: en/index.shtml:149
-msgid ""
-"<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; Asia<"
-"/a>"
+msgid "<a href=\"http://shop.opensuse.org/shop-eu.html\">Shop for Europe &amp; Asia</a>"
 msgstr "<a href=\"http://shop.opensuse.org\">Магазин для Европы и Азии</a>"
 
 #. type: Content of: <html><body><div><ul><li>
@@ -330,7 +257,7 @@ msgstr "Русский"
 msgid "---"
 msgstr "---"
 
-#. #include virtual="../languages.html"
+#. #include virtual="../languages.html" 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:175
 msgid "</select>"
@@ -368,62 +295,28 @@ msgstr "Основано Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#| msgid "openSUSE 12.2: Green Means Go!"
 msgid "openSUSE 12.3 - Awesome as 1-2-3"
 msgstr "openSUSE 12.3 — просто как 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
-msgid ""
-"Dear contributors, friends and fans: the latest version of the openSUSE "
-"distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12"
-"-3-free-open-and-awesome\">is ready for you</a>! After 6 months of hard work, "
-"we are happy to bring you the mash of the best things that Free and Open "
-"Source Software has to offer with the unique green sauce - stable, friendly "
-"and fun."
-msgstr ""
-"Дорогие друзья, поклонники и участники: новейшая версия дистрибутива "
-"openSUSE, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-f"
-"ree-open-and-awesome\">готова</a>! После шести месяцев тяжёлой работы мы рады "
-"представить вам лучшее из мира свободного ПО с открытым исходным кодом под "
-"нашим фирменным зелёным соусом из стабильности, дружелюбия и веселья."
+msgid "Dear contributors, friends and fans: the latest version of the openSUSE distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">is ready for you</a>! After 6 months of hard work, we are happy to bring you the mash of the best things that Free and Open Source Software has to offer with the unique green sauce - stable, friendly and fun."
+msgstr "Дорогие друзья, поклонники и участники: новейшая версия дистрибутива openSUSE, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">готова</a>! После шести месяцев тяжёлой работы мы рады представить вам лучшее из мира свободного ПО с открытым исходным кодом под нашим фирменным зелёным соусом из стабильности, дружелюбия и веселья."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:9
-msgid ""
-"As this was a shorter-than-normal release cycle, much attention went into the "
-"details and we bring you a very refurbished product. This release of the "
-"world&#39;s most powerful and flexible Linux Distribution gives the finishing "
-"touch to our boot infrastructure and package management, a bright polish to "
-"your desktop and a touch of cloud for your server."
-msgstr ""
-"В этом укороченном цикле подготовки выпуска большое внимание было уделено "
-"деталям и мы представляем вам прекрасно отполированный продукт. Этот выпуск "
-"самого мощного и гибкого дистрибутива Linux в мире вносит завершающие штрихи "
-"в процесс загрузки и управление пакетами, отличный внешний вид рабочего стола "
-"и облачные технологии для вашего сервера."
+msgid "As this was a shorter-than-normal release cycle, much attention went into the details and we bring you a very refurbished product. This release of the world&#39;s most powerful and flexible Linux Distribution gives the finishing touch to our boot infrastructure and package management, a bright polish to your desktop and a touch of cloud for your server."
+msgstr "В этом укороченном цикле подготовки выпуска большое внимание было уделено деталям и мы представляем вам прекрасно отполированный продукт. Этот выпуск самого мощного и гибкого дистрибутива Linux в мире вносит завершающие штрихи в процесс загрузки и управление пакетами, отличный внешний вид рабочего стола и облачные технологии для вашего сервера."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#| msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
-msgid ""
-"<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awe"
-"some\">Read more ...</a>"
-msgstr ""
-"<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awe"
-"some\">Читать дальше…</a>"
+msgid "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read more ...</a>"
+msgstr "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Читать дальше…</a>"
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
-#| msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a "
-"href=\"http://software.opensuse.org/123\">download it</a> and <a "
-"href=\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr ""
-"Вы можете <a href=\"http://en.opensuse.org/Features\">узнать, что нового</a>, "
-"<a href=\"http://software.opensuse.org/123\">скачать</a> или <a "
-"href=\"http://upgrade.opensuse.org\">обновить</a> дистрибутив!"
+msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+msgstr "Вы можете <a href=\"http://en.opensuse.org/Features\">узнать, что нового</a>, <a href=\"http://software.opensuse.org/123\">скачать</a> или <a href=\"http://upgrade.opensuse.org\">обновить</a> дистрибутив!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:25
@@ -432,17 +325,8 @@ msgstr "Следите за openSUSE на Google Plus"
 
 #. type: Content of: <p><a>
 #: en/whats_hot.html:26
-msgid ""
-"Keep informed about openSUSE following our <a "
-"href=\"https://plus.google.com/110312141834246266844/\">new Google+ page</a><"
-"a style=\"text-decoration:none;\" href=\"https://plus.google.com/1103121418342"
-"46266844/?prsrc=3\">"
-msgstr ""
-"Будьте в курсе событий мира openSUSE, подписавшись на <a "
-"href=\"https://plus.google.com/110312141834246266844/\">английскую</a> и <a "
-"href=\"https://plus.google.com/102241590925437493205/\">русскую</a> страницы "
-"Google+<a style=\"text-decoration:none;\" "
-"href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
+msgid "Keep informed about openSUSE following our <a href=\"https://plus.google.com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
+msgstr "Будьте в курсе событий мира openSUSE, подписавшись на <a href=\"https://plus.google.com/110312141834246266844/\">английскую</a> и <a href=\"https://plus.google.com/102241590925437493205/\">русскую</a> страницы Google+<a style=\"text-decoration:none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:26
@@ -456,34 +340,8 @@ msgstr "Участвуйте и присоединяйтесь к сообщес
 
 #. type: Content of: <p>
 #: en/whats_hot.html:30
-msgid ""
-"Whether you're an experienced Linux developer or an end user just getting "
-"started with Linux, there are many ways for you to participate in the "
-"openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> to "
-"get help or help others with openSUSE, find and <a "
-"href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">report bugs<"
-"/a>, review the <a href=\"http://doc.opensuse.org\">documentation</a>, send "
-"your <a href=\"http://features.opensuse.org\">wish list</a> for new packages "
-"and features, create and submit <a href=\"http://build.opensuse.org\">"
-"patches</a>, or find other creative ways to contribute.  Whatever you do, "
-"take a few minutes to discuss openSUSE with other users and become an active "
-"member of the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:H"
-"ow_to_participate\">Would you like to know more?</a>"
-msgstr ""
-"Являетесь ли вы опытным разработчиком Linux или простым пользователем, "
-"который только знакомится с Linux, есть много способов для Вас принять "
-"участие в проекте openSUSE. Заходите на <a "
-"href=\"http://forums.opensuse.org/p-russian/\">форум</a> чтобы получить "
-"помощь или помочь другим с openSUSE, находите и <a "
-"href=\"http://ru.opensuse.org/openSUSE:Сообщить_об_ошибке\">сообщайте об "
-"ошибках</a>, изучайте <a href=\"http://ru.opensuse.org/Portal:Документация\">"
-"документацию</a>, присылайте <a href=\"http://features.opensuse.org\">"
-"пожелания</a> новых пакетов и возможностей, создавайте и отправляйте <a "
-"href=\"http://build.opensuse.org\">патчи</a>или найдите другие способы помочь "
-"проекту и внести свой вклад. Чем бы Вы не занимались, найдите пару минут, "
-"чтобы обсудить openSUSE с другими пользователями и стать активным членом "
-"сообщества openSUSE. <a href=\"http://ru.opensuse.org/Portal:Как_принять_участ"
-"ие\">Хотите знать больше?</a>"
+msgid "Whether you're an experienced Linux developer or an end user just getting started with Linux, there are many ways for you to participate in the openSUSE project. Join a <a href=\"http://forums.opensuse.org/\">forum</a> to get help or help others with openSUSE, find and <a href=\"http://en.opensuse.org/openSUSE:Submitting_bug_reports\">report bugs</a>, review the <a href=\"http://doc.opensuse.org\">documentation</a>, send your <a href=\"http://features.opensuse.org\">wish list</a> for new packages and features, create and submit <a href=\"http://build.opensuse.org\">patches</a>, or find other creative ways to contribute.  Whatever you do, take a few minutes to discuss openSUSE with other users and become an active member of the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:How_to_participate\">Would you like to know more?</a>"
+msgstr "Являетесь ли вы опытным разработчиком Linux или простым пользователем, который только знакомится с Linux, есть много способов для Вас принять участие в проекте openSUSE. Заходите на <a href=\"http://forums.opensuse.org/p-russian/\">форум</a> чтобы получить помощь или помочь другим с openSUSE, находите и <a href=\"http://ru.opensuse.org/openSUSE:Сообщить_об_ошибке\">сообщайте об ошибках</a>, изучайте <a href=\"http://ru.opensuse.org/Portal:Документация\">документацию</a>, присылайте <a href=\"http://features.opensuse.org\">пожелания</a> новых пакетов и возможностей, создавайте и отправляйте <a href=\"http://build.opensuse.org\">патчи</a>или найдите другие способы помочь проекту и внести свой вклад. Чем бы Вы не занимались, найдите пару минут, чтобы обсудить openSUSE с другими пользователями и стать активным членом сообщества openSUSE. <a href=\"http://ru.opensuse.org/Portal:Как_принять_участие\">Хотите знать больше?</a>"
 
 #~ msgid "Dear users, developers, and Geekos around the world - <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> is ready for you! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it."
 #~ msgstr "Дорогие пользователи и разработчики, <a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE 12.2</a> уже готова! Два дополнительных месяца работы над стабильностью — и вот перед вами новый выпуск, под завязку набитый всякими вкусностями, однако, стабильный, как вы и любите."

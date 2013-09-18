@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2013-03-08 20:19+0100\n"
-"PO-Revision-Date: 2013-01-11 08:45+0100\n"
+"PO-Revision-Date: 2013-03-13 12:30+0100\n"
 "Last-Translator: Michael Skiba <trans@michael-skiba.de>\n"
 "Language-Team: German <opensuse-translation-de@opensuse.org>\n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: Attribute 'lang' of: <html>
 #: en/index.shtml:2
@@ -74,7 +74,7 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
-msgstr ""
+msgstr "<a href='//counter.opensuse.org/link/'>"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
 #: en/index.shtml:59

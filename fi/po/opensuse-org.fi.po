@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2013-03-08 20:19+0100\n"
-"PO-Revision-Date: 2013-03-02 12:02+0200\n"
-"Last-Translator: Jyri Palokangas <jyri.palokangas@opensuse.org>\n"
+"PO-Revision-Date: 2013-07-07 20:59+0300\n"
+"Last-Translator: Harri Miettinen <harmie@opensuse.fi>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -75,10 +75,8 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
-#, fuzzy
-#| msgid "<a href=\"http://conference.opensuse.org\">"
 msgid "<a href='//counter.opensuse.org/link/'>"
-msgstr "<a href=\"http://conference.opensuse.org\">"
+msgstr "<a href='//counter.opensuse.org/link/'>"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
 #: en/index.shtml:59
@@ -298,34 +296,28 @@ msgstr "Founded by Novell"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-#, fuzzy
-#| msgid "openSUSE 12.2: Green Means Go!"
 msgid "openSUSE 12.3 - Awesome as 1-2-3"
-msgstr "openSUSE 12.2: Green Means Go!"
+msgstr "openSUSE 12.3 - Awesome as 1-2-3"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:3
 msgid "Dear contributors, friends and fans: the latest version of the openSUSE distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">is ready for you</a>! After 6 months of hard work, we are happy to bring you the mash of the best things that Free and Open Source Software has to offer with the unique green sauce - stable, friendly and fun."
-msgstr ""
+msgstr "Hyvät avustajat, ystävät ja fanit: Viimeisin openSUSE jakelu 12.3 <a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">on valmis</a>! Takana on 6 kuukautta kovaa työtä. Olemme iloisia voidessamme tuoda sinulle parhaat palat, jotka vapaan ja avoimen lähdekoodin ohjelmilla on tarjottavana höystettynä ainutlaatuisella vihreällä kastikkeella - vakaa, käyttäjäystävällinen ja hauska."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:9
 msgid "As this was a shorter-than-normal release cycle, much attention went into the details and we bring you a very refurbished product. This release of the world&#39;s most powerful and flexible Linux Distribution gives the finishing touch to our boot infrastructure and package management, a bright polish to your desktop and a touch of cloud for your server."
-msgstr ""
+msgstr "Koska tämä oli lyhyempi kuin normaali julkaisusykli, suurin huomio meniyksityiskohtien hiomiseen ja siksi tuomme sinulle hyvin viimeistellyn tuotteen. Tämä julkaisu maailman tehokkaimmasta ja joustavimmasta Linux jakelusta antaa viimeistellyn kosketukseen käynnistysrakenteeseen ja ohjelmistonhallintaan. Työpöytää on kiillotettu ja hieman pilvipalvelujakin."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:14
-#, fuzzy
-#| msgid "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Read more ...</a>"
 msgid "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">Lue lisää ...</a>"
+msgstr "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Lue lisää ....</a>"
 
 #. type: Content of: <p><p>
 #: en/whats_hot.html:17
-#, fuzzy
-#| msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/122\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgid "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a href=\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr "Voit lukea <a href=\"http://en.opensuse.org/Features\">lisää uudistuksista</a>, <a href=\"http://software.opensuse.org/122\">ladata</a> tai <a href=\"http://upgrade.opensuse.org\">päivittää</a> sen!"
+msgstr "Voit lukea <a href=\"http://en.opensuse.org/Features\">lisää uudistuksista</a>, <a href=\"http://software.opensuse.org/123\">ladata</a> tai <a href=\"http://upgrade.opensuse.org\">päivittää</a> sen!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:25
