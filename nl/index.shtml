@@ -41,8 +41,8 @@ name="searchscope">
             <option value="software">zoeken naar software</option>
             <option value="wiki" selected="selected">zoeken in de help-sectie</option>
             </select> <input type="text" name="searchstring" class="textfield" /> <input
-type="image" alt="run search" title="run search" class="searchbutton"
-src="/images/frontpage/magnifier.png" />
+type="image" alt="zoeken uitvoeren" title="zoeken uitvoeren"
+class="searchbutton" src="/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="zoeken
 uitvoeren" />
@@ -186,7 +186,7 @@ nog veel meer.
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
-		&copy; 2013 SUSE LLC. All Rights Reserved.
+	    &copy; 2013 SUSE LLC. Alle rechten voorbehouden.
  	  </p>
     </div>
 </body>

@@ -41,7 +41,7 @@ name="searchscope">
             <option value="software">poszukaj oprogramowania</option>
             <option value="wiki" selected="selected">poszukaj w sekcji pomocy</option>
             </select> <input type="text" name="searchstring" class="textfield" /> <input
-type="image" alt="run search" title="run search" class="searchbutton"
+type="image" alt="wyszukaj" title="wyszukaj" class="searchbutton"
 src="/images/frontpage/magnifier.png" />
           </div>
           <input type="submit" name="searchbutton" class="button" value="wyszukaj" />
@@ -186,7 +186,7 @@ azjatycki</a></li>
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
-		&copy; 2013 SUSE LLC. All Rights Reserved.
+	    &copy; 2013 SUSE LLC. All Rights Reserved.
  	  </p>
     </div>
 </body>

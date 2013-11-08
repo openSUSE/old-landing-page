@@ -40,9 +40,9 @@ id="searchscope" name="searchscope">
             <option value="news">搜索新闻</option>
             <option value="software">搜索软件</option>
             <option value="wiki" selected="selected">搜索帮助手册</option>
-            </select> <input type="text" name="searchstring" class="textfield" /> <input
-type="image" alt="run search" title="run search" class="searchbutton"
-src="/images/frontpage/magnifier.png" />
+            </select> <input type="text" name="searchstring" class="textfield" /><input
+type="image" alt="执行搜索" title="执行搜索" class="searchbutton"
+src="/images/frontpage/magnifier.png"/>
           </div>
           <input type="submit" name="searchbutton" class="button" value="执行搜索" />
         </form>
@@ -65,7 +65,7 @@ src="/images/frontpage/magnifier.png" />
           <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> 是一个基于 Linux 的自由操作系统，倾心呵护您的台式机、笔记本或服务器
-。您可以使用它上网冲浪、管理电子邮件和相片、处理工作事务、播放视频或音乐，<em>祝您使用愉快！</em>
+。您可以使用它上网冲浪、管理电子邮件和相片、处理工作事务、播放视频或音乐，<em>尽飨品质生活 ！</em>
           </p>
         </div>
         <ul id="quicklinks" class="right major_column">
@@ -116,8 +116,8 @@ id="screenshots">&nbsp;</span>
         <div id="help" class="right minor_column">
           <h2>帮助 &amp; 支持</h2>
           <p>
-            <a href="http://forums.opensuse.org/"><img src="/images/frontpage/help.png" alt="寻求帮助" title="寻求帮助" /></a>使用过程中存疑或仅仅想知道其他人都用 openSUSE 做些什么？来我们的<a
-href="http://forums.opensuse.org/">论坛</a>留下您的脚印吧！
+            <a href="https://forum.suse.org.cn/"><img src="/images/frontpage/help.png" alt="寻求帮助" title="寻求帮助" /></a>使用过程中存疑或仅仅想知道其他人都用 openSUSE 做些什么？来我们的<a
+href="https://forum.suse.org.cn/">论坛</a>留下您的脚印吧！
            </p>
            <p>
           	想要讨论 openSUSE，参与开发，或者通过其它方式出力？加入一个<a
@@ -126,14 +126,14 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
         </div>
         <hr class="right minor_column" />
         <div id="shop" class="right minor_column">
-          <h2>openSUSE 小店</h2>
+          <h2>openSUSE 周边</h2>
           <p>
-            <a href="http://shop.opensuse.org/"><img src="/images/frontpage/shop_shirt.png" alt="openSUSE 小店" title="openSUSE 小店" /></a><a href="http://shop.opensuse.org/">openSUSE 小店</a> 是淘官方 openSUSE
+            <a href="http://shop.opensuse.org/"><img src="/images/frontpage/shop_shirt.png" alt="openSUSE 周边" title="openSUSE 周边" /></a><a href="http://shop.opensuse.org/">openSUSE 周边</a>是淘官方 openSUSE
 藏品的市集。T恤衫、马克杯、货车帽，双肩包以及更多好物应有尽有。还有狗狗的饰物哦！
            </p>
            <ul>
           	 <li><a href="http://shop.opensuse.org/shop-us.html">面向美洲的小店</a></li>
-          	 <li><a href="http://shop.opensuse.org">面向欧洲和亚洲的小店</a></li>
+          	 <li><a href="http://shop.opensuse.org">面向欧亚的小店</a></li>
           </ul>
         </div>
       </div>
@@ -147,8 +147,8 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
 	    <li><a href="http://build.opensuse.org/">编译服务</a></li>
 	    <li><a href="http://connect.opensuse.org/">社交网络</a></li>
 	    <li><a href="http://news.opensuse.org/">新闻</a></li>
-	    <li><a href="http://forums.opensuse.org/">论坛</a></li>
-	    <li><a href="http://shop.opensuse.org/">小店</a></li>
+	    <li><a href="https://forum.suse.org.cn/">论坛</a></li>
+	    <li><a href="http://shop.opensuse.org/">周边</a></li>
 	    <li><a href="http://lizards.opensuse.org/">博客</a></li>
             <li><a href="mailto:press@opensuse.org">媒体</a></li>
       </ul>
@@ -178,7 +178,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
 	<hr class="centered" />
     <div id="legal" class="centered">
  	  <p>
-		&copy; 2013 SUSE LLC. All Rights Reserved.
+	    &copy; 2013 SUSE, Inc. 保留一切权利。
  	  </p>
     </div>
 </body>
