@@ -1,14 +1,14 @@
 This are the sources for the www.opensuse.org startpage. 
 
 The page is hosted at Novell: 130.57.4.24 (mehle@novell, scweber@novell.com)
-it includes some static files from: //static.opensuse.org/hosts/www.o.o (tom@suse)
+The sources are hosted at: git@github.com:openSUSE/landing-page.git
 
-so both systems need to be updated on changes. The sources are hosted at: git@github.com:openSUSE/landing-page.git
+The page uses SSI includes and a cronjob that creates the news part.
 
-The page uses SSI includes, a wysiwyg editor for the hot_stuff part, and a cronjob that creates the news part. 
-XXX: is that still valid? ^
-
-After deploying, please run fix_permissions.sh to make the files writeable for the editor. 
+It also used to have a wysiwyg editor for the hot_stuff part which required to
+run fix_permissions.sh after deployment in order to make the files writeable for
+te editor. Most likely, the wysiwyg editor is not used anymore, so this can be
+skipped.
 
 note about translations: (reverse engineered by lnussel)
 # install the tools
