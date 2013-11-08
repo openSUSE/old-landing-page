@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-09-18 15:54+0300\n"
+"POT-Creation-Date: 2013-11-08 13:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -320,53 +320,51 @@ msgstr ""
 
 #. type: Content of: <h2>
 #: ./en/whats_hot.html:1
-msgid "openSUSE 12.3 - Awesome as 1-2-3"
+msgid "openSUSE 13.1: Ready For Action!"
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:3
+#: ./en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: the latest version of the openSUSE "
-"distribution, 12.3, <a "
-"href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">is "
-"ready for you</a>! After 6 months of hard work, we are happy to bring you "
-"the mash of the best things that Free and Open Source Software has to offer "
-"with the unique green sauce - stable, friendly and fun."
+"Dear contributors, friends and fans: <a "
+"href=\"https://news.opensuse.org/?p=16841\">The release is here</a>! Eight "
+"months of planning, packaging, adding features, fixing issues, testing and "
+"fixing more issues has brought you the best that Free and Open Source has to "
+"offer, with our Green touch: Stable and Awesome."
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:9
+#: ./en/whats_hot.html:11
 msgid ""
-"As this was a shorter-than-normal release cycle, much attention went into "
-"the details and we bring you a very refurbished product. This release of the "
-"world&#39;s most powerful and flexible Linux Distribution gives the "
-"finishing touch to our boot infrastructure and package management, a bright "
-"polish to your desktop and a touch of cloud for your server."
+"This release did benefit from the improvements to our testing infrastructure "
+"and much attention for bug fixing. While a combination of over 6000 packages "
+"supporting 5 architectures can never be perfect, we're proud to say this "
+"really does represent the best Free Software has to offer! The latest "
+"desktops (five of them!), server and cloud technologies, software "
+"development tools and everything in between are included as well as a number "
+"of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:14
-msgid ""
-"<a "
-"href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">Read "
-"more ...</a>"
+#: ./en/whats_hot.html:18
+msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
 msgstr ""
 
-#. type: Content of: <p><p>
-#: ./en/whats_hot.html:17
+#. type: Content of: <p>
+#: ./en/whats_hot.html:22
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+"<a href=\"http://software.opensuse.org/131\">download it</a> and <a "
 "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 
 #. type: Content of: <h2>
-#: ./en/whats_hot.html:25
+#: ./en/whats_hot.html:30
 msgid "Follow openSUSE on Google Plus"
 msgstr ""
 
 #. type: Content of: <p><a>
-#: ./en/whats_hot.html:26
+#: ./en/whats_hot.html:31
 msgid ""
 "Keep informed about openSUSE following our <a "
 "href=\"https://plus.google.com/110312141834246266844/\">new Google+ "
@@ -375,17 +373,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:26
+#: ./en/whats_hot.html:31
 msgid "</a>."
 msgstr ""
 
 #. type: Content of: <h2>
-#: ./en/whats_hot.html:29
+#: ./en/whats_hot.html:34
 msgid "Participate and join the community!"
 msgstr ""
 
 #. type: Content of: <p>
-#: ./en/whats_hot.html:30
+#: ./en/whats_hot.html:35
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
