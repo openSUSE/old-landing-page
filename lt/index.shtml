@@ -167,7 +167,7 @@ Azijoje</a></li>
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="/images/flags/gb.png" alt="kalba" title="kalba" />
+          <img src="/images/flags/lt.png" alt="kalba" title="kalba" />
           <select id="language" name="language">
             <option value="lt" selected="selected">Lietuvių</option>
             <option value="">---</option>

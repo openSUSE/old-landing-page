@@ -164,7 +164,7 @@ Asia</a></li>
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="/images/flags/gb.png" alt="idioma" title="idioma" />
+          <img src="/images/flags/es.png" alt="idioma" title="idioma" />
           <select id="language" name="language">
             <option value="es" selected="selected">Inglés</option>
             <option value="">---</option>

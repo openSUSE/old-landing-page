@@ -154,7 +154,7 @@ href="http://en.opensuse.org/openSUSE:Mailing_lists">邮件列表</a>吧。
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="/images/flags/gb.png" alt="语言" title="语言" />
+          <img src="/images/flags/cn.png" alt="语言" title="语言" />
           <select id="language" name="语言">
             <option value="zh-cn" selected="selected">英语</option>
             <option value="">...</option>
