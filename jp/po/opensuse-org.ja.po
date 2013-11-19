@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-19 20:10+0900\n"
+"PO-Revision-Date: 2013-11-09 08:40+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
 "Language: ja\n"
@@ -360,7 +360,7 @@ msgstr "&copy; 2013 SUSE LLC. All Rights Reserved."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Ready For Action!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -371,6 +371,12 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"貢献者の皆様、そして友人およびファンの皆様へ: <a href=\"https://news."
+"opensuse.org/?p=16841\">本リリースがようやく完成しました</a>！ 8 ヶ月にもわた"
+"る計画とパッケージ作成、機能の追加や問題の解決、そして何よりもテストとその修"
+"正の結果、これまでで最良のフリー／オープンソースソフトウエアが完成しました。"
+"これは我々のカラーである緑色の示す、安定性とすばらしさを兼ね備えたものと自負"
+"しています。"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -383,23 +389,28 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"本リリースは、我々の成果であるテストインフラの改善から得られる恩恵を存分に受"
+"けたリリースで、バグ修正の点では非常に力を注いでいます。 6000 個ものパッケー"
+"ジが 5 つものアーキテクチャで動作する都合上、全く問題がないわけではないと思い"
+"ますが、フリーソフトウエアの世界で提供可能な、最高のものに仕上がったと自信を"
+"持っています。最新のデスクトップやサーバ／クラウド技術のほか、ソフトウエア開"
+"発ツールなど、全てのものが刺激的な新技術になっています。 openSUSE の世界をお"
+"楽しみください！"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">ニュース</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">さらに詳しく ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 "<a href=\"http://ja.opensuse.org/Features\">主な機能</a>, <a href=\"http://"
-"software.opensuse.org/123\">ダウンロード</a>, <a href=\"http://upgrade."
+"software.opensuse.org/131\">ダウンロード</a>, <a href=\"http://upgrade."
 "opensuse.org\">アップグレード</a> などもお読みください。"
 
 #. type: Content of: <h2>
@@ -459,43 +470,3 @@ msgstr ""
 "様々な方と対話されることをお勧めしています。さらに詳しい情報は、 <a href="
 "\"http://ja.opensuse.org/%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%97%E3%81%8B"
 "%E3%81%9F\">こちら</a> をお読みください。"
-
-#~ msgid "openSUSE 12.3 - Awesome as 1-2-3"
-#~ msgstr "openSUSE 12.3 - Awesome as 1-2-3"
-
-#~ msgid ""
-#~ "Dear contributors, friends and fans: the latest version of the openSUSE "
-#~ "distribution, 12.3, <a href=\"https://news.opensuse.org/2013/03/13/"
-#~ "opensuse-12-3-free-open-and-awesome\">is ready for you</a>! After 6 "
-#~ "months of hard work, we are happy to bring you the mash of the best "
-#~ "things that Free and Open Source Software has to offer with the unique "
-#~ "green sauce - stable, friendly and fun."
-#~ msgstr ""
-#~ "貢献者の皆さん、利用者の皆さん、そして何よりも、ファンの皆さんへ: "
-#~ "openSUSE ディストリビューションの最新版 12.3 が <a href=\"https://news."
-#~ "opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome\">公開</a> さ"
-#~ "れました！ 6 ヶ月にわたった努力の成果により、我々はユニークな緑色のソース "
-#~ "- それは安定性とフレンドリーさ、そして面白さを表わす色として - で、フリー"
-#~ "ソフトウエア／オープンソースソフトウエアの世界に最高のものを提供できたと自"
-#~ "負しています。 "
-
-#~ msgid ""
-#~ "As this was a shorter-than-normal release cycle, much attention went into "
-#~ "the details and we bring you a very refurbished product. This release of "
-#~ "the world&#39;s most powerful and flexible Linux Distribution gives the "
-#~ "finishing touch to our boot infrastructure and package management, a "
-#~ "bright polish to your desktop and a touch of cloud for your server."
-#~ msgstr ""
-#~ "今回のリリースは通常よりも短い間隔でリリースされたものであったため、より細"
-#~ "部に対して力を注ぐことができていて、とても洗練されたものに仕上がっていま"
-#~ "す。世界で最もパワフルかつ柔軟な Linux ディストリビューションの本リリース"
-#~ "では、起動まわりとパッケージ管理関連の処理に最後の仕上げを行ない、デスク"
-#~ "トップやサーバ、そしてクラウドとして利用できる、輝かしいディストリビュー"
-#~ "ションになっています。 "
-
-#~ msgid ""
-#~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
-#~ "and-awesome\">Read more ...</a>"
-#~ msgstr ""
-#~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
-#~ "and-awesome\">続きを読む (英語) ...</a>"

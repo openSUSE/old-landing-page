@@ -1,17 +1,18 @@
 # Javier Llorente <javier@opensuse.org>, 2012.
+# Carlos E. Robinson <carlos.e.r@opensuse.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2012-08-17 17:39+0200\n"
-"Last-Translator: Javier Llorente <javier@opensuse.org>\n"
+"PO-Revision-Date: 2013-11-18 16:23+0100\n"
+"Last-Translator: Carlos E. Robinson <carlos.e.r@opensuse.org>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Spanish\n"
 
@@ -66,6 +67,9 @@ msgid ""
 "<input type=\"image\" alt=\"run search\" title=\"run search\" class="
 "\"searchbutton\" src=\"/images/frontpage/magnifier.png\" />"
 msgstr ""
+"</select> <input type=\"text\" name=\"searchstring\" class=\"textfield\" /> "
+"<input type=\"image\" alt=\"run search\" title=\"run search\" class="
+"\"searchbutton\" src=\"/images/frontpage/magnifier.png\" />"
 
 #. type: Content of: <html><body><div><div><form>
 #: en/index.shtml:43
@@ -85,7 +89,7 @@ msgstr "<span class=\"clear\">&nbsp;</span>"
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
-msgstr ""
+msgstr "<a href='//counter.opensuse.org/link/'>"
 
 #. type: Attribute 'title' of: <html><body><div><div><div><a><h1>
 #: en/index.shtml:59
@@ -353,12 +357,12 @@ msgstr "<span>&nbsp;</span>"
 #. type: Content of: <html><body><div><p>
 #: en/index.shtml:192
 msgid "&copy; 2013 SUSE LLC. All Rights Reserved."
-msgstr ""
+msgstr "&copy; 2013 SUSE LLC. Todos los derechos reservados."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: ¡Listo para la acción!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -369,6 +373,12 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Estimados colaboradores, amigos y fans: <a href=\"https://news.opensuse.org/?"
+"p=16841\">¡El lanzamiento está aquí</a>! Ocho meses de planificación, "
+"empaquetado, adición de características, arreglar problemas, probando y "
+"ajustando más problemas, que han traído  hasta usted lo mejor que el "
+"software abierto y libre tiene que ofrecer, con nuestro toque verde: Estable "
+"y impresionante."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -381,25 +391,30 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Ésta versión se benefició de las mejoras en nuestra infraestructura de "
+"pruebas y mucha atención para la corrección de gazapos. Si bien una "
+"combinación de más de 6000 paquetes que soportan 5 arquitecturas nunca puede "
+"ser perfecta, estamos orgullosos de decir que ¡esto realmente representa lo "
+"mejor que el software libre tiene para ofrecer! Los escritorios (¡cinco de "
+"ellos!), tecnologías de servidor y en la nube, herramientas de desarrollo de "
+"software y todo lo demás se incluyen, así como una serie de emocionantes y "
+"nuevas tecnologías para que usted pueda jugar. ¡Disfrute!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Noticias</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Leer más ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"&iexcl;Puedes echar un vistazo a <a href=\"https://es.opensuse.org/"
-"Portal:12.3/Caracter%C3%ADsticas\">las novedades</a>, <a href=\"http://"
-"software.opensuse.org/123/es\">descargártelo</a> y <a href=\"http://upgrade."
-"opensuse.org\">actualizarlo</a>!"
+"¡Puede en <a href=\"http://en.opensuse.org/Features\">enterarse que hay de "
+"nuevo</a>, en<a href=\"http://software.opensuse.org/131\">descargarlo</a> y "
+"en <a href=\"http://upgrade.opensuse.org\">actualizarlo</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -496,6 +511,16 @@ msgstr ""
 #~ msgstr ""
 #~ "<a href=\"https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci"
 #~ "%C3%B3n_de_la_versi%C3%B3n_12.3\">Sigue leyendo...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "&iexcl;Puedes echar un vistazo a <a href=\"https://es.opensuse.org/"
+#~ "Portal:12.3/Caracter%C3%ADsticas\">las novedades</a>, <a href=\"http://"
+#~ "software.opensuse.org/123/es\">descargártelo</a> y <a href=\"http://"
+#~ "upgrade.opensuse.org\">actualizarlo</a>!"
 
 #, fuzzy
 #~ msgid ""

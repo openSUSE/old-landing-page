@@ -162,7 +162,7 @@ oficiální openSUSE výbavu.  Trička, hrnky, čepice, tašky a spoustu další
       </ul>
       <div id="i18n" class="right">
         <form method="post" action="../index.php">
-          <img src="/images/flags/cs.png" alt="jazyk" title="jazyk" />
+          <img src="/images/flags/cz.png" alt="jazyk" title="jazyk" />
           <select id="language" name="language">
             <option value="cs" selected="selected">Angličtina</option>
             <option value="">---</option>

@@ -165,7 +165,7 @@ Asien</a></li>
         <form method="post" action="../index.php">
           <img src="/images/flags/de.png" alt="Sprache" title="Sprache" />
           <select id="language" name="language">
-            <option value="de" selected="selected">Englisch</option>
+            <option value="de" selected="selected">Deutsch</option>
             <option value="">---</option>
             
           <!--#include virtual="../languages.html" -->

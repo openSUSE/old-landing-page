@@ -389,21 +389,16 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Νέα</a>"
+msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Μπορείτε να <a href=\"http://el.opensuse.org/Features\">μάθετε τι νέο "
-"υπάρχει</a>, να το <a href=\"http://software.opensuse.org/123\">αποκτήσετε</"
-"a> και να <a href=\"http://upgrade.opensuse.org\">αναβαθμίσετε</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -500,6 +495,16 @@ msgstr ""
 #~ msgstr ""
 #~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
 #~ "and-awesome\">Διαβάστε περισσότερα ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Μπορείτε να <a href=\"http://el.opensuse.org/Features\">μάθετε τι νέο "
+#~ "υπάρχει</a>, να το <a href=\"http://software.opensuse."
+#~ "org/123\">αποκτήσετε</a> και να <a href=\"http://upgrade.opensuse.org"
+#~ "\">αναβαθμίσετε</a>!"
 
 #~ msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 #~ msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"

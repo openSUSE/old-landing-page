@@ -391,21 +391,16 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Hírek</a>"
+msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Itt találhatók az <a href=\"http://en.opensuse.org/Features\">újdonságok</"
-"a>, <a href=\"http://software.opensuse.org/123\">letölthető</a>és <a href="
-"\"http://upgrade.opensuse.org\">frissíthető</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -502,6 +497,15 @@ msgstr ""
 #~ msgstr ""
 #~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
 #~ "and-awesome\">Tovább ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Itt találhatók az <a href=\"http://en.opensuse.org/Features\">újdonságok</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">letölthető</a>és <a href="
+#~ "\"http://upgrade.opensuse.org\">frissíthető</a>!"
 
 #~ msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 #~ msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"

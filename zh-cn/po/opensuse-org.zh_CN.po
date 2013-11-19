@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-21 12:42+0800\n"
+"PO-Revision-Date: 2013-11-11 08:22+0800\n"
 "Last-Translator: 玛格丽特 · 苏 <marguerite@opensuse.org>\n"
 "Language-Team: Chinese Simplified <opensuse-zh@opensuse.org>\n"
 "Language: zh_CN\n"
@@ -354,7 +354,7 @@ msgstr "&copy; 2013 SUSE, Inc. 保留一切权利。"
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1：蓄势待发！"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -365,6 +365,10 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"亲爱的贡献者、朋友们和粉丝们：<a href=\"https://news.opensuse.org/?p=16841\">"
+"新版来啦</a>！八个月的策划、打包、功能添加、问题修复、测试和更多的问题修复为"
+"您带来了自由开源社区所能提供的最好产物，带有我们绿色之触、稳定卓越的："
+"openSUSE 13.1！"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -377,24 +381,27 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"本发布版从我们基础测试设施的改进中获益良多，并把很多注意力放在了故障修复上"
+"面。虽然超过 6000 个软件包、支持 5 种架构的组合永远无法完美，我们还是要自豪地"
+"说这真的是代表自由软件所能提供的最好产物了！最新的桌面（五种都是！），服务器"
+"和云技术，软件开发工具和介于其间的东西都被囊括在内了！还有一系列激活人心的新"
+"科技等您来把玩！尽情鄉用吧！"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">新闻</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">阅读更多 ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 "您可以<a href=\"http://zh.opensuse.org/Features\">了解更新细节</a>，<a href="
-"\"http://software.opensuse.org/123\">下载它</a>和<a href=\"http://upgrade."
-"opensuse.org\">升级</a>！"
+"\"http://software.opensuse.org/131/zh_CN\">下载它</a>和<a href=\"http://"
+"upgrade.opensuse.org\">升级</a>！"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30

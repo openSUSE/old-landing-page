@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-19 19:08-0300\n"
+"PO-Revision-Date: 2013-11-11 19:50-0200\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "Language: pt_BR\n"
@@ -366,7 +366,7 @@ msgstr "&copy; 2013 SUSE LLC. Todos os direitos reservados."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Pronto para a ação!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -377,6 +377,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Caros contribuidores, amigos e fãs: <a href=\"https://news.opensuse.org/?"
+"p=16841\">A versão está aqui</a>! Oito meses de planejamento, empacotamento, "
+"adição de recursos, correção de erros, testes e mais correção de erros para "
+"trazer a vocês o melhor que o software livre e aberto tem a oferecer, com "
+"nosso toque verde: estável e incrível."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -389,24 +394,30 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Esta versão se beneficia das melhorias em nossa infraestrutura de testes e "
+"mais atenção à correção de erros. Enquanto uma combinação de mais de 6000 "
+"pacotes para as 5 arquiteturas suportadas nunca é perfeita, estamos "
+"orgulhosos de dizer que isto representa o que de melhor o software livre tem "
+"a oferecer. As últimas versões das áreas de trabalho (cinco delas!), "
+"tecnologias para servidores e para a nuvem, ferramentas de desenvolvimento "
+"de softwares e tudo o mais está incluído bem como um número de novas e "
+"excitantes tecnologias para você se brincar. Divirta-se!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Notícias</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Leia mais ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Você pode <a href=\"http://en.opensuse.org/Features\">aprender o que há de "
-"novo</a>, <a href=\"http://software.opensuse.org/123/pt_BR/\">baixar</a> e "
-"<a href=\"http://upgrade.opensuse.org\">fazer um upgrade</a>!"
+"Você pode <a href=\"http://en.opensuse.org/Features\">aprender sobre as "
+"novidades</a>, <a href=\"http://software.opensuse.org/131\">baixar</a> e <a "
+"href=\"http://upgrade.opensuse.org\">atualizar</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -501,6 +512,15 @@ msgstr ""
 #~ msgstr ""
 #~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
 #~ "and-awesome\">Leia mais...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Você pode <a href=\"http://en.opensuse.org/Features\">aprender o que há "
+#~ "de novo</a>, <a href=\"http://software.opensuse.org/123/pt_BR/\">baixar</"
+#~ "a> e <a href=\"http://upgrade.opensuse.org\">fazer um upgrade</a>!"
 
 #~ msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 #~ msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"

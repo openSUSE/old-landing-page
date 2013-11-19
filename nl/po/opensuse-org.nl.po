@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-19 23:02+0200\n"
+"PO-Revision-Date: 2013-11-08 22:08+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <opensuse-nl@opensuse.org>\n"
 "Language: nl\n"
@@ -357,7 +357,7 @@ msgstr "&copy; 2013 SUSE LLC. Alle rechten voorbehouden."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Klaar voor actie!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -368,6 +368,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"U die hebt bijgedragen, geachte vrienden en fans: <a href=\"https://news."
+"opensuse.org/?p=16841\">De uitgave is hier</a>! Acht maanden van plannen, "
+"softwarepakketten maken, functies toevoegen, fouten repareren, testen en nog "
+"meer reparaties heeft ons het beste gebracht dat vrije en open source heeft "
+"te bieden, met onze groene toets: Stabiel en geweldig."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -380,23 +385,29 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Deze uitgave heeft geprofiteerd van de verbeteringen in onze infrastructuur "
+"voor testen en veel aandacht voor reparatie van bugs. Terwijl een combinatie "
+"van meer dan 6000 pakketten die vijf architecturen ondersteunt nooit perfect "
+"kan zijn, zijn we er toch trots op deze echt het beste dat vrije software "
+"heeft te bieden! De nieuwste bureaubladen (vijf hiervan!), server- en cloud-"
+"technologieën, hulpmiddelen voor software-ontwikkeling en alles er tussenin "
+"zijn ingevoegd evenals een aantal opwindende, nieuwe technologieën voor u om "
+"mee te spelen. Veel plezier!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Nieuws</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Meer...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 "U kunt in <a href=\"http://nl.opensuse.org/Features\">lezen wat nieuw is </"
-"a>, <a href=\"http://software.opensuse.org/123\">het downloaden</a> en <a "
+"a>, <a href=\"http://software.opensuse.org/131\">het downloaden</a> en <a "
 "href=\"http://upgrade.opensuse.org\">opwaarderen</a>!"
 
 #. type: Content of: <h2>

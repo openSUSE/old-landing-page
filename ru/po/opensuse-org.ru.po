@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: opensuse-org-theme\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-19 16:00+0400\n"
+"PO-Revision-Date: 2013-11-12 20:24+0400\n"
 "Last-Translator: Alexander Melentev <minton@opensuse.org>\n"
 "Language-Team: Russian <opensuse-translation-ru@opensuse.org>\n"
 "Language: ru\n"
@@ -357,7 +357,7 @@ msgstr "&copy; 2013 SUSE LLC. Все права защищены."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Готова к действию!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -368,6 +368,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Уважаемые коллеги, товарищи, соратники: <a href=\"https://news.opensuse.org/?"
+"p=16841\">Вышла новая версия</a>! Восемь месяцев планов, исправлений, новых "
+"пакетов, добавленных возможностей, исправлений, тестирования и исправлений "
+"произвели на свет лучшее, что может предложить мир свободного ПО и открытого "
+"исходного кода, с нашим фирменным зелёным налётом стабильности и качества."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -380,24 +385,30 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Данный выпуск значительно похорошел из-за улучшений в нашей инфраструктуре "
+"тестирования и повышенного внимания к исправлению ошибок. Хотя сочетание "
+"более шести тысяч пакетов для пяти поддерживаемых архитектур никогда не "
+"сможет стать идеальным, мы с гордостью заявляем, что выпустили лучшее из "
+"того, что предлагает свободное ПО. Новейшие версии рабочих столов (целых "
+"пять!), серверных и облачных технологий, инструментов разработки ПО и всего "
+"остального к вашим услугам, равно как и несколько новейших технологий, что "
+"вы могли с ними познакомиться. Наслаждайтесь!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Новости</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Читать далее…</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 "Вы можете <a href=\"http://en.opensuse.org/Features\">узнать, что нового</"
-"a>, <a href=\"http://software.opensuse.org/123\">скачать</a> или <a href="
-"\"http://upgrade.opensuse.org\">обновить</a> дистрибутив!"
+"a>, <a href=\"http://software.opensuse.org/131\">скачать</a> или <a href="
+"\"http://upgrade.opensuse.org\">обновиться</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -446,16 +457,16 @@ msgstr ""
 "Являетесь ли вы опытным разработчиком Linux или простым пользователем, "
 "который только знакомится с Linux, есть много способов для Вас принять "
 "участие в проекте openSUSE. Заходите на <a href=\"http://forums.opensuse.org/"
-"p-russian/\">форум</a> чтобы получить помощь или помочь другим с openSUSE, "
-"находите и <a href=\"http://ru.opensuse.org/openSUSE:Сообщить_об_ошибке"
-"\">сообщайте об ошибках</a>, изучайте <a href=\"http://ru.opensuse.org/"
-"Portal:Документация\">документацию</a>, присылайте <a href=\"http://features."
-"opensuse.org\">пожелания</a> новых пакетов и возможностей, создавайте и "
-"отправляйте <a href=\"http://build.opensuse.org\">патчи</a>или найдите "
-"другие способы помочь проекту и внести свой вклад. Чем бы Вы не занимались, "
-"найдите пару минут, чтобы обсудить openSUSE с другими пользователями и стать "
-"активным членом сообщества openSUSE. <a href=\"http://ru.opensuse.org/Portal:"
-"Как_принять_участие\">Хотите знать больше?</a>"
+"p-russian/\">форум</a>, чтобы получить помощь или помочь другим с openSUSE, "
+"находите ошибки и <a href=\"http://ru.opensuse.org/openSUSE:"
+"Сообщить_об_ошибке\">сообщайте о них</a>, изучайте <a href=\"http://ru."
+"opensuse.org/Portal:Документация\">документацию</a>, присылайте <a href="
+"\"http://features.opensuse.org\">пожелания</a> новых пакетов и возможностей, "
+"создавайте и отправляйте <a href=\"http://build.opensuse.org\">патчи</a> или "
+"найдите другие способы помочь проекту и внести свой вклад. Чем бы Вы не "
+"занимались, найдите пару минут, чтобы обсудить openSUSE с другими "
+"пользователями и стать активным членом сообщества openSUSE. <a href=\"http://"
+"ru.opensuse.org/Portal:Как_принять_участие\">Хотите знать больше?</a>"
 
 #~ msgid "openSUSE 12.3 - Awesome as 1-2-3"
 #~ msgstr "openSUSE 12.3 — просто как 1-2-3"
@@ -494,6 +505,15 @@ msgstr ""
 #~ msgstr ""
 #~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
 #~ "and-awesome\">Читать дальше…</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Вы можете <a href=\"http://en.opensuse.org/Features\">узнать, что нового</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">скачать</a> или <a href="
+#~ "\"http://upgrade.opensuse.org\">обновить</a> дистрибутив!"
 
 #~ msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 #~ msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"

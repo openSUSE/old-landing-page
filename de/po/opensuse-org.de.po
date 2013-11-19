@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-26 19:39+0200\n"
+"PO-Revision-Date: 2013-11-10 11:59+0100\n"
 "Last-Translator: Michael Skiba <trans@michael-skiba.de>\n"
 "Language-Team: German <opensuse-translation-de@opensuse.org>\n"
 "Language: de\n"
@@ -322,7 +322,7 @@ msgstr "<select id=\"language\" name=\"language\">"
 #. type: Content of: <html><body><div><div><form><select><option>
 #: en/index.shtml:172
 msgid "English"
-msgstr "Englisch"
+msgstr "Deutsch"
 
 #. type: Content of: <html><body><div><div><form><select><option>
 #: en/index.shtml:173
@@ -358,7 +358,7 @@ msgstr "&copy; 2013 SUSE LLC. Alle Rechte vorbehalten."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Fertig zur Tat!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -369,6 +369,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Liebe Mitwirkende, Freunde, und Fans:<a href=\"https://news.opensuse.org/?"
+"p=16841\">Das Release ist da</a>! Acht Monate Planung, Paketierung, Features "
+"hinzufügen, Probleme beheben, testen und noch mehr Probleme beheben hat Euch "
+"das Beste, was Freie und Open Source Software bieten muss, gebracht, mit "
+"unserer grünen Note: Stabil und Großartig."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -381,26 +386,30 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Diese Veröffentlichung profitierte von den Verbesserungen unserer "
+"Testinfrastruktur und der Konzentration auf die Fehlerbehebung. Weil eine "
+"Kombination aus über 6000 Paketen, die 5 Architekturen unterstützt, nie "
+"perfekt sein kann, sind wir stolz zu sagen, dass das wirklich das beste "
+"darstellt, was Freie Software zu bieten hat. Sowohl die neusten Desktops "
+"(Fünf von ihnen!), Server und Cloud-Technologien, Softwareentwicklungstools "
+"und alles dazwischen ist mit enthalten, sowie eine Anzahl aufregender neuer "
+"Technologien, mit der Sie spielen können. Habe Spaß!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">News</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Weiterlesen ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Hier erfahren Sie, <a href=\"http://de.opensuse.org/Produktbesonderheiten"
-"\">was neu ist</a>, wie Sie die neue Software <a href=\"http://software."
-"opensuse.org/123/de\">herunterladen</a> können oder wie Sie Ihr <a href="
-"\"http://de.opensuse.org/SDB:Distribution-Upgrade\">System aktualisieren</a> "
-"können!"
+"Du kannst <a href=\"http://en.opensuse.org/Features\">lernen, was neu ist</"
+"a>, <a href=\"http://software.opensuse.org/131\">es herunterladen</a> und <a "
+"href=\"http://upgrade.opensuse.org\">das System aktualisieren</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -489,6 +498,17 @@ msgstr ""
 #~ "and-awesome\">Read more ...</a>"
 #~ msgstr ""
 #~ "<a href=\"https://de.opensuse.org/Ank%C3%BCndigung\">Weiterlesen ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Hier erfahren Sie, <a href=\"http://de.opensuse.org/Produktbesonderheiten"
+#~ "\">was neu ist</a>, wie Sie die neue Software <a href=\"http://software."
+#~ "opensuse.org/123/de\">herunterladen</a> können oder wie Sie Ihr <a href="
+#~ "\"http://de.opensuse.org/SDB:Distribution-Upgrade\">System aktualisieren</"
+#~ "a> können!"
 
 #~ msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 #~ msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"

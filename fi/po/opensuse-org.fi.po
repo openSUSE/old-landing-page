@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-21 10:13+0300\n"
+"PO-Revision-Date: 2013-11-10 13:12+0200\n"
 "Last-Translator: Jyri Palokangas <jyri.palokangas@opensuse.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
 "Language: fi\n"
@@ -359,10 +359,11 @@ msgstr "&copy; 2013 SUSE LLC. All Rights Reserved."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Valmiina topimintaan!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
+#, fuzzy
 msgid ""
 "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
 "p=16841\">The release is here</a>! Eight months of planning, packaging, "
@@ -370,6 +371,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Hyvät avustajat, ystävät ja fanit: <a href=\"https://news.opensuse.org/?"
+"p=16841\">Julkaisu on tässä</a>! Kahdeksan kuukauden suunnittelu, "
+"paketointi, ominaisuuksien lisääminen, ongelmien korjaus, testaus ja "
+"ilmenneiden ongelmien korjaus on tuonut sinulle parhasta mitä vapaa ja avoin "
+"lähdekoodi voi tarjota, Vihreällä kosketuksellamme: Vakaa ja Mahtava."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -385,21 +391,19 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Uutiset</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Lue lisää ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Voit lukea <a href=\"http://en.opensuse.org/Features\">lisää uudistuksista</"
-"a>, <a href=\"http://software.opensuse.org/123\">ladata</a> tai <a href="
-"\"http://upgrade.opensuse.org\">päivittää</a> sen!"
+" Voit lukea <a href=\"http://en.opensuse.org/Features\">lisää uudistuksista</"
+"a>, <a href=\"http://software.opensuse.org/131\">ladata</a> tai <a href="
+"\"http://upgrade.opensuse.org\">päivittää</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30

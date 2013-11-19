@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-09-22 20:35+0200\n"
+"PO-Revision-Date: 2013-11-18 09:31+0100\n"
 "Last-Translator: Jan Papez (honyczek) <honyczek@centrum.cz>\n"
-"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language-Team: Czech <opensuse-translation@opensuse.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -357,7 +357,7 @@ msgstr "&copy; 2013 SUSE LLC. Všechna práva vyhrazena."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1: Připraveno k akci!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -368,6 +368,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Milí přispěvatelé, přátelé a příznivci: <a href=\"https://news.opensuse.org/?"
+"p=16841\">nové vydání je tu</a>! Po osmi měsících plánování, vytváření "
+"balíčků, přidávání funkcí, opravování chyb, testování a další opravě chyb "
+"přinášíme to nejlepší z nabídky Svobodného a otevřeného softwaru v našem "
+"zeleném hávu: stabilní a velkolepé."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -380,23 +385,28 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Toto vydání získalo benefit z vylepšení naší testovací infrastruktury a "
+"většího zaměření na opravu chyb. I když kombinace více než 6000 balíčků s "
+"podporou 5 architektur nemůže být nikdy dokonalá, jsme rádi, že můžeme říct, "
+"že reprezentujeme to nejlepší, co nabízí Svobodný software! Nejnovější "
+"pracovní plochy (pět!), serverové a cloudové technologie, nástroje pro vývoj "
+"softwaru a vše zahrnuté mezi mezi tím vším. Stejně tak i řada zajímavých "
+"nových technologií, se kterými si můžete hrát. Užijte si to!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Novinky</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Číst dále ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 "Můžete <a href=\"http://en.opensuse.org/Features\">zjistit, co je nového</"
-"a>, <a href=\"http://software.opensuse.org/123\">stáhnout jej</a> a&nbsp;<a "
+"a>, <a href=\"http://software.opensuse.org/131\">stáhnout jej</a> a nebo <a "
 "href=\"http://upgrade.opensuse.org\">povýšit vaši stávající verzi</a>!"
 
 #. type: Content of: <h2>
@@ -494,6 +504,15 @@ msgstr ""
 #~ msgstr ""
 #~ "<a href=\"http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n"
 #~ "%C3%AD\">Přečtěte si více ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Můžete <a href=\"http://en.opensuse.org/Features\">zjistit, co je nového</"
+#~ "a>, <a href=\"http://software.opensuse.org/123\">stáhnout jej</a> a&nbsp;"
+#~ "<a href=\"http://upgrade.opensuse.org\">povýšit vaši stávající verzi</a>!"
 
 #~ msgid "<a target=\"_blank\" href=\"http://www.novell.com/\">"
 #~ msgstr "<a target=\"_blank\" href=\"http://www.novell.com/\">"
