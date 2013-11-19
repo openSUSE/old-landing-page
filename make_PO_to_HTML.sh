@@ -119,7 +119,7 @@ $output_folder/$HTML_file"
 	 	flag=$lang
 	 	;;
 	esac
-	sed -i -e "s/<img src=\"\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/gb.png\"/<img src=\"\/\/static.opensuse.org\/hosts\/www.o.o\/images\/flags\/$flag.png\"/g" "$file"
+	sed -i -e "s/<img src=\"\/images\/flags\/gb.png\"/<img src=\"\/images\/flags\/$flag.png\"/g" "$file"
 	
 
 	# Replace <option value="en" selected="selected"> with the right lang code
