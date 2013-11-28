@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-10-15 13:58+0300\n"
+"PO-Revision-Date: 2013-11-19 14:42+0200\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "Language: lt\n"
@@ -367,7 +367,7 @@ msgstr "&copy; 2013 SUSE LLC. Visos teisės saugomos."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr ""
+msgstr "openSUSE 13.1 pasirengusi veikti!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -378,6 +378,11 @@ msgid ""
 "you the best that Free and Open Source has to offer, with our Green touch: "
 "Stable and Awesome."
 msgstr ""
+"Mieli pagalbininkai, draugai ir aistruoliai: <a href=\"https://news.opensuse."
+"org/?p=16841\">Pasirodė nauja versija</a>! Po aštuonių mėnesių planavimo, "
+"paketų kūrimo, naujų funkcijų rengimo, klaidų taisymo, testavimo ir vėl "
+"taisymo, pateikiame tai, ką geriausio gali pasiūlyti atviro ir nemokamo kodo "
+"bendruomenė – su žaliu atspalviu: stabiliu ir nuostabiu."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -393,20 +398,18 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
-#, fuzzy
 msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"http://news.opensuse.org/\">Naujienos</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Skaityti toliau ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:22
-#, fuzzy
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
 "Galite <a href=\"http://en.opensuse.org/Features\">susipažinti</a>, <a href="
-"\"http://software.opensuse.org/123/lt\">parsisiųsti</a> ir <a href=\"http://"
+"\"http://software.opensuse.org/131/lt\">parsisiųsti</a> ir <a href=\"http://"
 "upgrade.opensuse.org\">atnaujinti</a>! "
 
 #. type: Content of: <h2>
