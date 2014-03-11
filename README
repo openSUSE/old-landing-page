@@ -16,7 +16,7 @@ $ zypper in po4a
 # add your stuff
 $ vi en/en/whats_hot.html
 # generate pot file
-$ make_POT.sh
+$ ./make_POT.sh
 # remove old translations
 $ echo */po/*.po|xargs rm
 # merge new translations

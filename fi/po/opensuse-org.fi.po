@@ -2,13 +2,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Jyri Palokangas <jyri.palokangas@opensuse.org>, 2012, 2013.
-# Harri Miettinen <harmie@opensuse.fi>, 2013.
+# Harri Miettinen <harmie@opensuse.fi>, 2013, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-11-08 13:41+0100\n"
-"PO-Revision-Date: 2013-11-10 13:12+0200\n"
-"Last-Translator: Jyri Palokangas <jyri.palokangas@opensuse.org>\n"
+"POT-Creation-Date: 2014-03-11 17:14+0100\n"
+"PO-Revision-Date: 2014-02-22 17:53+0200\n"
+"Last-Translator: Harri Miettinen <harmie@opensuse.fi>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -87,6 +87,23 @@ msgstr ""
 msgid "<span class=\"clear\">&nbsp;</span>"
 msgstr "<span class=\"clear\">&nbsp;</span>"
 
+#.  disabled it for the time of the release 
+#. type: Content of: <html><body><div><div><a>
+#: en/index.shtml:53
+#, fuzzy
+msgid "<a href=\"http://conference.opensuse.org\">"
+msgstr "</a> <a href=\"http://conference.opensuse.org\">"
+
+#. type: Attribute 'alt' of: <html><body><div><div><a><img>
+#: en/index.shtml:54
+msgid "oSC13 Banner"
+msgstr "oSC13 Juliste"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: en/index.shtml:55 en/index.shtml:59 en/index.shtml:120
+msgid "</a>"
+msgstr "</a>"
+
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
@@ -101,11 +118,6 @@ msgstr "openSUSE"
 #: en/index.shtml:59
 msgid "<span>openSUSE</span>"
 msgstr "<span>openSUSE</span>"
-
-#. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:59 en/index.shtml:120
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:61
@@ -154,7 +166,7 @@ msgid ""
 msgstr ""
 "<a href=\"http://build.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
 "<span class=\"buttontext\"> <strong>Luo: </strong> Rakenna paketteja "
-"kaikille yleisimmille Linux distroille BuildServicen avulla.  </span> <span "
+"kaikille yleisimmille Linux jakeluille BuildServicen avulla.  </span> <span "
 "class=\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div>
@@ -178,7 +190,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:116
 msgid "News &amp; Events"
-msgstr " news &amp; tapahtumat"
+msgstr " Uutiset &amp; tapahtumat"
 
 #. type: Content of: <html><body><div><div><div><p><a>
 #: en/index.shtml:118
@@ -359,7 +371,7 @@ msgstr "&copy; 2013 SUSE LLC. All Rights Reserved."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.1: Ready For Action!"
-msgstr "openSUSE 13.1: Valmiina topimintaan!"
+msgstr "openSUSE 13.1: Valmiina toimintaan!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -379,6 +391,7 @@ msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
+#, fuzzy
 msgid ""
 "This release did benefit from the improvements to our testing infrastructure "
 "and much attention for bug fixing. While a combination of over 6000 packages "
@@ -388,6 +401,14 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
+"Tämä julkaisu hyötyy parannuksista testausympäristöömme ja suuresta "
+"kiinnostuksesta virheiden korjaukseen. Vaikka yli 6000 paketin yhdistelmä 5 "
+"arkkitehtuurin tukemiseen ei koskaan voi olla täydellistä, voimme ylpeänä "
+"todeta että tämä todellakin edustaa parasta mitä vapaat ohjelmistot "
+"tarjoavat! Viimeisimmät työpöytäympäristöt (viisi erilaista!), palvelin ja "
+"pilviteknologiat, ohjelmistokehitystyökalut ja kaikki muut näiden väliltä "
+"ovat sisällytettynä, kuten myös monet kiinnostavat uudet teknologiat joita "
+"voit kokeilla. Nauti!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
@@ -508,9 +529,6 @@ msgstr ""
 #~ msgid "Founded by Novell"
 #~ msgstr "Founded by Novell"
 
-#~ msgid "oSC13 Banner"
-#~ msgstr "oSC13 Juliste"
-
 #~ msgid ""
 #~ "Dear users, developers, and Geekos around the world - <a href=\"http://"
 #~ "news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/\">openSUSE "
@@ -559,10 +577,6 @@ msgstr ""
 #~| msgid "<a href=\"http://forums.opensuse.org/\">"
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"
-
-#~| msgid "<a href=\"http://conference.opensuse.org\">"
-#~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
-#~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
 
 #~ msgid ""
 #~ "It is November 16, 2011 and our mirrors have synced. Time to present to "

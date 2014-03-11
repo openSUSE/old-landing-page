@@ -55,14 +55,14 @@ src="/images/frontpage/magnifier.png" />
       <div class="centered">
 
 
+        <!-- disabled it for the time of the release -->
+<a href="http://conference.opensuse.org">
+        <img src="../images/frontpage/oSC14_banner.jpg" alt="oSC13 Juliste" />
+        <!-- -->
+</a>
 
-        <!-- disabled for time of 12.3 release
-        <a href="http://conference.opensuse.org">
 
-        <img src="../images/frontpage/oSC13_banner.jpg" alt="oSC13 Banner" />
-        </a>
--->
-<div id="intro" class="left minor_column">
+        <div id="intro" class="left minor_column">
           <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
             <strong>openSUSE</strong> on vapaa Linux-pohjainen käyttöjärjestelmä
@@ -86,7 +86,7 @@ clear">&nbsp;</span> </a>
           <li id="create">
             <a href="http://build.opensuse.org"> <span class="top">&nbsp;</span> <span
 class="buttontext"> <strong>Luo: </strong> Rakenna paketteja kaikille
-yleisimmille Linux distroille BuildServicen avulla.  </span> <span
+yleisimmille Linux jakeluille BuildServicen avulla.  </span> <span
 class="bottom clear">&nbsp;</span> </a>
           </li>
         </ul>
@@ -108,7 +108,7 @@ Kuvankaappaukset</span></a>
         </div>
         <hr class="hidden" />
         <div id="news" class="right minor_column">
-          <h2> news &amp; tapahtumat</h2>
+          <h2> Uutiset &amp; tapahtumat</h2>
           <p id="rss">
             <a href="http://news.opensuse.org/feed/">
               <img src="/images/frontpage/rss_icon.png" alt="RSS uutisvirta" title="RSS uutisvirta" />

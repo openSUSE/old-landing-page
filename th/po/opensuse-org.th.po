@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YaST (@memory@)\n"
 "Report-Msgid-Bugs-To: i18n@suse.de\n"
-"POT-Creation-Date: 2013-11-08 13:41+0100\n"
+"POT-Creation-Date: 2014-03-11 17:14+0100\n"
 "PO-Revision-Date: 2008-01-04 08:58+0100\n"
 "Last-Translator: i18n@suse.de\n"
 "Language-Team: Thai <i18n@suse.de>\n"
@@ -81,6 +81,22 @@ msgstr ""
 msgid "<span class=\"clear\">&nbsp;</span>"
 msgstr ""
 
+#.  disabled it for the time of the release 
+#. type: Content of: <html><body><div><div><a>
+#: en/index.shtml:53
+msgid "<a href=\"http://conference.opensuse.org\">"
+msgstr ""
+
+#. type: Attribute 'alt' of: <html><body><div><div><a><img>
+#: en/index.shtml:54
+msgid "oSC13 Banner"
+msgstr ""
+
+#. type: Content of: <html><body><div><div><div><p>
+#: en/index.shtml:55 en/index.shtml:59 en/index.shtml:120
+msgid "</a>"
+msgstr ""
+
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
@@ -95,11 +111,6 @@ msgstr "openSUSE.org"
 #. type: Content of: <html><body><div><div><div><a><h1>
 #: en/index.shtml:59
 msgid "<span>openSUSE</span>"
-msgstr ""
-
-#. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:59 en/index.shtml:120
-msgid "</a>"
 msgstr ""
 
 #. type: Content of: <html><body><div><div><div><p>

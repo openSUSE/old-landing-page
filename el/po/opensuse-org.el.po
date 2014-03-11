@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2013-11-08 13:41+0100\n"
+"POT-Creation-Date: 2014-03-11 17:14+0100\n"
 "PO-Revision-Date: 2013-11-20 22:30+0200\n"
 "Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
 "Language-Team: Ελληνικά <opensuse-translation-el@opensuse.org>\n"
@@ -86,6 +86,22 @@ msgstr ""
 msgid "<span class=\"clear\">&nbsp;</span>"
 msgstr "<span class=\"clear\">&nbsp;</span>"
 
+#.  disabled it for the time of the release 
+#. type: Content of: <html><body><div><div><a>
+#: en/index.shtml:53
+msgid "<a href=\"http://conference.opensuse.org\">"
+msgstr "<a href=\"http://conference.opensuse.org\">"
+
+#. type: Attribute 'alt' of: <html><body><div><div><a><img>
+#: en/index.shtml:54
+msgid "oSC13 Banner"
+msgstr "oSC13 Banner"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: en/index.shtml:55 en/index.shtml:59 en/index.shtml:120
+msgid "</a>"
+msgstr "</a>"
+
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
@@ -100,11 +116,6 @@ msgstr "openSUSE"
 #: en/index.shtml:59
 msgid "<span>openSUSE</span>"
 msgstr "<span>openSUSE</span>"
-
-#. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:59 en/index.shtml:120
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:61
@@ -570,12 +581,6 @@ msgstr ""
 #~ "κύλιση σε όλες τις εφαρμογές και τα χαρακτηριστικά, ένα επανασχεδιασμένο "
 #~ "περιβάλλον Ρυθμίσεων Συστήματος και Διαχείρισης Επαφών ενώ στο XFCE έχει "
 #~ "μια βελτιωμένη εύρεση εφαρμογών."
-
-#~ msgid "<a href=\"http://conference.opensuse.org\">"
-#~ msgstr "<a href=\"http://conference.opensuse.org\">"
-
-#~ msgid "oSC13 Banner"
-#~ msgstr "oSC13 Banner"
 
 #~ msgid ""
 #~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
