@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
-"POT-Creation-Date: 2014-03-11 17:14+0100\n"
+"POT-Creation-Date: 2014-06-12 13:36+0300\n"
 "PO-Revision-Date: 2013-11-10 09:58+0800\n"
 "Last-Translator: Andrea Turrini <andrea.turrini@gmail.com>\n"
 "Language-Team: Italian <opensuse-translation@opensuse.org>\n"
@@ -89,23 +89,6 @@ msgstr ""
 msgid "<span class=\"clear\">&nbsp;</span>"
 msgstr "<span class=\"clear\">&nbsp;</span>"
 
-#.  disabled it for the time of the release 
-#. type: Content of: <html><body><div><div><a>
-#: en/index.shtml:53
-#, fuzzy
-msgid "<a href=\"http://conference.opensuse.org\">"
-msgstr "</a> <a href=\"http://conference.opensuse.org\">"
-
-#. type: Attribute 'alt' of: <html><body><div><div><a><img>
-#: en/index.shtml:54
-msgid "oSC13 Banner"
-msgstr "Banner oSC13"
-
-#. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:55 en/index.shtml:59 en/index.shtml:120
-msgid "</a>"
-msgstr "</a>"
-
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
@@ -120,6 +103,11 @@ msgstr "openSUSE"
 #: en/index.shtml:59
 msgid "<span>openSUSE</span>"
 msgstr "<span>openSUSE</span>"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: en/index.shtml:59 en/index.shtml:120
+msgid "</a>"
+msgstr "</a>"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:61
@@ -584,6 +572,9 @@ msgstr ""
 #~ "contatti mentre XFCE propone un migliorato strumento per la ricerca delle "
 #~ "applicazioni."
 
+#~ msgid "oSC13 Banner"
+#~ msgstr "Banner oSC13"
+
 #~ msgid ""
 #~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
 #~ msgstr ""
@@ -596,6 +587,9 @@ msgstr ""
 
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"
+
+#~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
+#~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
 
 #~ msgid ""
 #~ "It is November 16, 2011 and our mirrors have synced. Time to present to "
