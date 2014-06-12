@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-11 17:14+0100\n"
+"POT-Creation-Date: 2014-06-12 13:36+0300\n"
 "PO-Revision-Date: 2013-11-12 14:40+0800\n"
 "Last-Translator: Ray Chen\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
@@ -89,23 +89,6 @@ msgstr ""
 msgid "<span class=\"clear\">&nbsp;</span>"
 msgstr "<span class=\"clear\">&nbsp;</span>"
 
-#.  disabled it for the time of the release 
-#. type: Content of: <html><body><div><div><a>
-#: en/index.shtml:53
-#, fuzzy
-msgid "<a href=\"http://conference.opensuse.org\">"
-msgstr "</a> <a href=\"http://conference.opensuse.org\">"
-
-#. type: Attribute 'alt' of: <html><body><div><div><a><img>
-#: en/index.shtml:54
-msgid "oSC13 Banner"
-msgstr ""
-
-#. type: Content of: <html><body><div><div><div><p>
-#: en/index.shtml:55 en/index.shtml:59 en/index.shtml:120
-msgid "</a>"
-msgstr "</a>"
-
 #. type: Content of: <html><body><div><div><div><a>
 #: en/index.shtml:59
 msgid "<a href='//counter.opensuse.org/link/'>"
@@ -120,6 +103,11 @@ msgstr "openSUSE"
 #: en/index.shtml:59
 msgid "<span>openSUSE</span>"
 msgstr "<span>openSUSE</span>"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: en/index.shtml:59 en/index.shtml:120
+msgid "</a>"
+msgstr "</a>"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:61
@@ -543,6 +531,10 @@ msgstr ""
 #~| msgid "<a href=\"http://shop.opensuse.org/\">Shop</a>"
 #~ msgid "<a href=\"http://summit.opensuse.org\">"
 #~ msgstr "<a href=\"http://summit.opensuse.org\">"
+
+#~| msgid "<a href=\"http://en.opensuse.org/\">Wiki</a>"
+#~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
+#~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
 
 #~ msgid ""
 #~ "It is November 16, 2011 and our mirrors have synced. Time to present to "
