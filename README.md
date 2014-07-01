@@ -11,6 +11,7 @@ te editor. Most likely, the wysiwyg editor is not used anymore, so this can be
 skipped.
 
 note about translations: (reverse engineered by lnussel)
+```bash
 # install the tools
 $ zypper in po4a
 # add your stuff
@@ -25,3 +26,4 @@ $ ./make_PO_to_HTML.sh
 $ git status
 # remove the languages that vanished from languages.html
 $ vi languages.html
+```
