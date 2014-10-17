@@ -18,7 +18,7 @@
 # Some vars
 HTML_files_folder="./en"
 POT_files_folder="./50-pot/"
-langs="cs da de el es fi fr hu it jp lt nb nl pl pt-br ru sk th zh-cn zh-tw" #without en, of course
+langs="ar ca cs da de el es fi fr hu it jp lt nb nl pl pt-br ru sk th zh-cn zh-tw" #without en, of course
 PO_filename_root="opensuse-org"
 # FIXME: not output HTML needs to be handled better
 translation_limit="0"	# Minimal translation percentage. Under this limit, no HTML file is output.
@@ -96,10 +96,16 @@ $output_folder/$HTML_file"
 	# Replace <img src="//static.opensuse.org/hosts/www.o.o/images/flags/gb.png" * with the right flag code
 	# Compute the right flag code
 	case $lang in
+	ar )
+		flag=arabic
+		;;
+	ca )
+		flag=catalonia
+		;;
 	pt-br )
 		flag=br
 		;;
-        cs )
+	cs )
 		flag=cz
 		;;
 	el )

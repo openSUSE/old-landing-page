@@ -1,12 +1,12 @@
-# Javier Llorente <javier@opensuse.org>, 2012.
+# Javier Llorente <javier@opensuse.org>, 2012, 2014.
 # Carlos E. Robinson <carlos.e.r@opensuse.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2014-06-12 13:36+0300\n"
-"PO-Revision-Date: 2013-11-18 16:23+0100\n"
-"Last-Translator: Carlos E. Robinson <carlos.e.r@opensuse.org>\n"
+"PO-Revision-Date: 2014-08-08 00:08+0200\n"
+"Last-Translator: Javier Llorente <javier@opensuse.org>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -113,10 +113,10 @@ msgid ""
 "your PC, Laptop or Server.  You can surf the web, manage your e-mails and "
 "photos, do office work, play videos or music and <em>have a lot of fun!</em>"
 msgstr ""
-"<strong>openSUSE</strong> es un sistema operativo libre basado en Linux "
-"paratu PC, portátil o servidor.  Puedes navegar en la Web, gestionar tu "
-"correo electr&oacute;nico  y fotos, hacer trabajos de oficina, reproducir "
-"música y vídeos y <em>have a lot of fun!</em>"
+"<strong>openSUSE</strong> es un sistema operativo libre basado en Linux para "
+"tu PC, portátil o servidor.  Puedes navegar en la Web, gestionar tu correo "
+"electr&oacute;nico  y fotos, hacer trabajo de oficina, reproducir música y "
+"vídeos y <em>have a lot of fun!</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:70
@@ -376,9 +376,8 @@ msgstr ""
 "Estimados colaboradores, amigos y fans: <a href=\"https://news.opensuse.org/?"
 "p=16841\">¡El lanzamiento está aquí</a>! Ocho meses de planificación, "
 "empaquetado, adición de características, arreglar problemas, probando y "
-"ajustando más problemas, que han traído  hasta usted lo mejor que el "
-"software abierto y libre tiene que ofrecer, con nuestro toque verde: Estable "
-"y impresionante."
+"ajustando más problemas, que han traído  hasta ti lo mejor del software "
+"abierto y libre, con nuestro toque verde: estable e impresionante."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:11
@@ -391,14 +390,14 @@ msgid ""
 "development tools and everything in between are included as well as a number "
 "of exciting, new technologies for you to play with. Enjoy!"
 msgstr ""
-"Ésta versión se benefició de las mejoras en nuestra infraestructura de "
+"Esta versión se ha beneficiado de las mejoras en nuestra infraestructura de "
 "pruebas y mucha atención para la corrección de gazapos. Si bien una "
 "combinación de más de 6000 paquetes que soportan 5 arquitecturas nunca puede "
 "ser perfecta, estamos orgullosos de decir que ¡esto realmente representa lo "
-"mejor que el software libre tiene para ofrecer! Los escritorios (¡cinco de "
+"mejor que el software libre te puede ofrecer! Los escritorios (¡cinco de "
 "ellos!), tecnologías de servidor y en la nube, herramientas de desarrollo de "
 "software y todo lo demás se incluyen, así como una serie de emocionantes y "
-"nuevas tecnologías para que usted pueda jugar. ¡Disfrute!"
+"nuevas tecnologías para que puedas jugar. ¡Qué disfrutes!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:18
@@ -412,9 +411,9 @@ msgid ""
 "<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"¡Puede en <a href=\"http://en.opensuse.org/Features\">enterarse que hay de "
-"nuevo</a>, en<a href=\"http://software.opensuse.org/131\">descargarlo</a> y "
-"en <a href=\"http://upgrade.opensuse.org\">actualizarlo</a>!"
+"¡Puedes enterarte en <a href=\"http://en.opensuse.org/Features\"> sobre las "
+"novedades</a>, en<a href=\"http://software.opensuse.org/131\">descargarlo</"
+"a> y en <a href=\"http://upgrade.opensuse.org\">actualizarlo</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:30
@@ -429,8 +428,8 @@ msgid ""
 "none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
 msgstr ""
 "Mantente informado sobre openSUSE siguiendo nuestra<a href=\"https://plus."
-"google.com/110312141834246266844/\">página de noticias en Google+</a><a "
-"style=\"text-decoration:none;\" href=\"https://plus.google."
+"google.com/110312141834246266844/\">nueva página de Google+</a><a style="
+"\"text-decoration:none;\" href=\"https://plus.google."
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
