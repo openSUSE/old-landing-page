@@ -67,7 +67,7 @@ cerca" />
           <p class="first">
             <strong>OpenSUSE</strong> és un sistema operatiu lliure basat en Linux per a
 ordinadors, portàtils o servidors.  Podeu navegar per Internet, gestionar el
-correu electrònic i les fotografies, fer feina d'ofincina, mirar vídeos o
+correu electrònic i les fotografies, fer feina d'oficina, mirar vídeos o
 escoltar música i <em>passar-vos-ho molt bé!</em>
           </p>
         </div>
@@ -75,14 +75,14 @@ escoltar música i <em>passar-vos-ho molt bé!</em>
           <li id="get">
             <a href="http://software.opensuse.org"> <span class="top">&nbsp;</span>
 <span class="buttontext"> <strong>Obtingueu-lo: </strong> Descarregeu
-openSUSE o trobeu-ne programari addicional.  </span> <span class="bottom
+l'openSUSE o trobeu-ne programari addicional.  </span> <span class="bottom
 clear">&nbsp;</span> </a>
           </li>
           <li id="discover">
             <a href="http://en.opensuse.org"> <span class="amunt">&nbsp;</span> <span
 class="buttontext"> <strong>Descobriu-lo: </strong> Apreneu més sobre
-openSUSE amb tutorials, documentació i molt més! </span> <span class="bottom
-clear">&nbsp;</span> </a>
+l'openSUSE amb tutorials, documentació i molt més! </span> <span
+class="bottom clear">&nbsp;</span> </a>
           </li>
           <li id="create">
             <a href="http://build.opensuse.org"> <span class="top">&nbsp;</span> <span
@@ -129,7 +129,7 @@ l'openSUSE!
            <p>
           	Voleu parlar d'openSUSE, participar en el desenvolupament o contribuir-hi
 d'una altra manera? Apunteu-vos a alguna de les <a
-href="http://en.opensuse.org/openSUSE:Mailing_lists">llistes de correu</a>.
+href="http://en.opensuse.org/openSUSE:Mailing_lists">llistes de correu</a>!.
           </p>
         </div>
         <hr class="right minor_column" />

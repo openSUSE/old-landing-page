@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2014-06-12 13:36+0300\n"
-"PO-Revision-Date: 2014-07-18 15:27+0100\n"
+"POT-Creation-Date: 2014-10-29 17:26+0100\n"
+"PO-Revision-Date: 2014-11-01 10:15+0100\n"
 "Last-Translator: David Medina <opensusecatala@gmail.com>\n"
 "Language-Team: Catalan\n"
-"Language: \n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. type: Attribute 'lang' of: <html>
 #: en/index.shtml:2
@@ -112,7 +112,7 @@ msgid ""
 msgstr ""
 "<strong>OpenSUSE</strong> és un sistema operatiu lliure basat en Linux per a "
 "ordinadors, portàtils o servidors.  Podeu navegar per Internet, gestionar el "
-"correu electrònic i les fotografies, fer feina d'ofincina, mirar vídeos o "
+"correu electrònic i les fotografies, fer feina d'oficina, mirar vídeos o "
 "escoltar música i <em>passar-vos-ho molt bé!</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
@@ -125,7 +125,7 @@ msgid ""
 msgstr ""
 "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
 "<span class=\"buttontext\"> <strong>Obtingueu-lo: </strong> Descarregeu "
-"openSUSE o trobeu-ne programari addicional.  </span> <span class=\"bottom "
+"l'openSUSE o trobeu-ne programari addicional.  </span> <span class=\"bottom "
 "clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
@@ -138,7 +138,7 @@ msgid ""
 msgstr ""
 "<a href=\"http://en.opensuse.org\"> <span class=\"amunt\">&nbsp;</span> "
 "<span class=\"buttontext\"> <strong>Descobriu-lo: </strong> Apreneu més "
-"sobre openSUSE amb tutorials, documentació i molt més! </span> <span class="
+"sobre l'openSUSE amb tutorials, documentació i molt més! </span> <span class="
 "\"bottom clear\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
@@ -221,7 +221,7 @@ msgid ""
 msgstr ""
 "Voleu parlar d'openSUSE, participar en el desenvolupament o contribuir-hi "
 "d'una altra manera? Apunteu-vos a alguna de les <a href=\"http://en.opensuse."
-"org/openSUSE:Mailing_lists\">llistes de correu</a>."
+"org/openSUSE:Mailing_lists\">llistes de correu</a>!."
 
 #. type: Content of: <html><body><div><div><div><h2>
 #: en/index.shtml:140
@@ -357,68 +357,66 @@ msgstr "&copy; 2013 SUSE LLC. Tots els drets reservats."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.1: Ready For Action!"
-msgstr "openSUSE 13.1: a punt per a l'acció!"
+msgid "openSUSE 13.2: green light to freedom!"
+msgstr "openSUSE 13.2: llum verda cap a la llibertat!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
 "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=16841\">The release is here</a>! Eight months of planning, packaging, "
-"adding features, fixing issues, testing and fixing more issues has brought "
-"you the best that Free and Open Source has to offer, with our Green touch: "
-"Stable and Awesome."
+"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
+"in the tools and procedures and many hours of developing, packaging, testing "
+"and fixing issues a new stable release is here providing the best that Free "
+"and Open Source has to offer with our special green touch: stable, "
+"innovative and fun!"
 msgstr ""
 "Benvolguts contribuïdors, amics i fans: <a href=\"https://news.opensuse.org/?"
-"p=16841\">La nova edició ja és aquí</a>! Vuit mesos de planificació, "
-"empaquetament, afegir característiques, arreglar problemes i provant i "
-"corregint més errors us han portat el millor que pot oferir el Codi Lliure "
-"amb el nostre toc de color verd: estable i sorprenent."
+"p=18707\">l'openSUSE 13.2 ja ha sortit</a>! Després d'un any de millores "
+"contínues a les eines i als procediments i moltes hores de desenvolupament, "
+"empaquetament, proves, correcció d'aspectes i traducció, ja és aquí una nova "
+"versió estable que proporciona el millor que pot oferir el Codi obert i "
+"lliure amb el nostre toc especial de color verd: estable, innovador i "
+"divertit!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:11
+#: en/whats_hot.html:12
 msgid ""
-"This release did benefit from the improvements to our testing infrastructure "
-"and much attention for bug fixing. While a combination of over 6000 packages "
-"supporting 5 architectures can never be perfect, we're proud to say this "
-"really does represent the best Free Software has to offer! The latest "
-"desktops (five of them!), server and cloud technologies, software "
-"development tools and everything in between are included as well as a number "
-"of exciting, new technologies for you to play with. Enjoy!"
+"This is the first release after the change in the openSUSE development mode, "
+"with a much shorter stabilization phase thanks to the extensive testing done "
+"in a daily basis in the rolling distribution used now as a base for openSUSE "
+"stable releases. The perfect balance between innovation and stability with "
+"the great level of freedom of choice that openSUSE users are used to."
 msgstr ""
-"Aquesta edició s'ha beneficiat de les millores a la infrastructura de proves "
-"i de moltíssima atenció en la resolució de problemes. Tot i que la "
-"combinació d'uns 6000 paquets i el suport de 5 arquitectures no pot ser mai "
-"del tot perfecte, ens sentim orgullosos de poder dir que això representa el "
-"millor que té per oferir el programari lliure! Els escriptoris més nous "
-"(n'hi ha 5!), tecnologies de servidor i de treball en núvol, eines de "
-"desenvolupament i de tot entre una cosa i l'altra estan inclosos, així "
-"mateix un munt de noves tecnologies perquè hi jugueu. Gaudiu-ne!"
+"Aquesta és la primera versió després del canvi de model de desenvolupament "
+"d'openSUSE, amb una fase d'estabilització més curta gràcies a les intenses "
+"proves fetes diàriament a la distribució contínua (rolling), usada ara com a "
+"base per a les versions estables d'openSUSE. És l'equilibri perfecte entre "
+"innovació i estabilitat, amb la gran llibertat per escollir a què els "
+"usuaris d'openSUSE estan acostumats."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:18
-msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr ""
-"<a href=\"https://news.opensuse.org/?p=16841\">Continueu llegint...</a>"
+#: en/whats_hot.html:17
+msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
+msgstr "<a href=\"https://news.opensuse.org/?p=18707\">Llegiu-ne més...</a>"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:22
+#: en/whats_hot.html:21
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
+"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"Podeu <a href=\"http://en.opensuse.org/Features\">saber-ne les novetats a</"
-"a>, <a href=\"http://software.opensuse.org/131\">descarrega'l</a> i a<a href="
-"\"http://upgrade.opensuse.org\">actualitza'l</a>!"
+"Aquí podeu <a href=\"http://en.opensuse.org/Features\">saber-ne les "
+"novetats</a>, <a href=\"http://software.opensuse.org\">descarregar-lo</a> i "
+"<a href=\"http://upgrade.opensuse.org\">actualitzar-lo</a>!"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:29
 msgid "Follow openSUSE on Google Plus"
-msgstr "Seguiu openSUSE a Google Plus"
+msgstr "Seguiu l'openSUSE a Google Plus"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:31
+#: en/whats_hot.html:30
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -430,17 +428,17 @@ msgstr ""
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:31
+#: en/whats_hot.html:30
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:33
 msgid "Participate and join the community!"
 msgstr "Participeu-hi i uniu-vos a la comunitat!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:35
+#: en/whats_hot.html:34
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -465,43 +463,54 @@ msgstr ""
 "característiques, creeu i envieu <a href=\"http://build.opensuse.org"
 "\">pedaços</a>, o trobeu alguna altra manera creativa de contribuir-hi. Feu "
 "el que feu, agafeu-vos uns minuts per parlar d'openSUSE amb altres usuaris i "
-"esdevingueu un membre actiu de les comunitats d'openSUSE. <a href=\"http://"
-"en.opensuse.org/Portal:How_to_participate\">En voleu saber més?</a>"
+"esdeveniu un membre actiu de les comunitats d'openSUSE. <a href=\"http://en."
+"opensuse.org/Portal:How_to_participate\">En voleu saber més?</a>"
 
-#, fuzzy
-#~| msgid ""
-#~| "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
-#~ msgid ""
-#~ "<a href=\"https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-"
-#~ "and-awesome\">Read more ...</a>"
-#~ msgstr ""
-#~ "<a href=\"https://news.opensuse.org/2012/12/17/2013_new_board_members/\">"
+#~ msgid "openSUSE 13.1: Ready For Action!"
+#~ msgstr "openSUSE 13.1: a punt per a l'acció!"
 
 #~ msgid ""
-#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
+#~ "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
+#~ "p=16841\">The release is here</a>! Eight months of planning, packaging, "
+#~ "adding features, fixing issues, testing and fixing more issues has "
+#~ "brought you the best that Free and Open Source has to offer, with our "
+#~ "Green touch: Stable and Awesome."
 #~ msgstr ""
-#~ "<a href=\"https://en.opensuse.org/openSUSE:Board_election#Candidates\">"
-
-#~ msgid "<a href=\"http://summit.opensuse.org\">"
-#~ msgstr "<a href=\"http://summit.opensuse.org\">"
-
-#~ msgid "</a> <a href=\"http://conference.opensuse.org\">"
-#~ msgstr "</a> <a href=\"http://conference.opensuse.org\">"
+#~ "Benvolguts contribuïdors, amics i fans: <a href=\"https://news.opensuse."
+#~ "org/?p=16841\">La nova edició ja és aquí</a>! Vuit mesos de planificació, "
+#~ "d'empaquetament, d'afegir característiques, arreglar problemes i provar i "
+#~ "corregir més errors us han portat el millor que pot oferir el Codi Lliure "
+#~ "amb el nostre toc de color verd: estable i sorprenent."
 
 #~ msgid ""
-#~ "It is November 16, 2011 and our mirrors have synced. Time to present to "
-#~ "you: <a href=\"http://software.opensuse.org/\">openSUSE 12.1</a>! This "
-#~ "release represents more than eight months of work by our international "
-#~ "community and brings you the best Free Software has to offer. Awesome "
-#~ "improvements include the latest GNOME 3.2 desktop as well as the newest "
-#~ "from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-"
-#~ "shots of your file system; and much, much more. (<a href=\"http://news."
-#~ "opensuse.org/2011/11/16/opensuse-12-1-all-green/\">continue reading</a>)."
+#~ "This release did benefit from the improvements to our testing "
+#~ "infrastructure and much attention for bug fixing. While a combination of "
+#~ "over 6000 packages supporting 5 architectures can never be perfect, we're "
+#~ "proud to say this really does represent the best Free Software has to "
+#~ "offer! The latest desktops (five of them!), server and cloud "
+#~ "technologies, software development tools and everything in between are "
+#~ "included as well as a number of exciting, new technologies for you to "
+#~ "play with. Enjoy!"
 #~ msgstr ""
-#~ "إنه 16 نوفمبر 2011 والمرايا تمت مزامنتها. حان الوقت لنقدم لكم:: <a href="
-#~ "\"http://software.opensuse.org/\">openSUSE 12.1</a>! هذا الإصدار يمثل "
-#~ "أكثر من ثمانية أشهر من العمل من جانب المجتمع الدولي، ويجلب لك أفضل "
-#~ "البرمجيات الحرة. وتشمل التحسينات كبيرة لسطح المكتب جنوم 3.2 الأخيرة فضلا "
-#~ "عن الأحدث من كيدي، إكسفس وLXDE؛ ownCloud الخاص بك بسهولة مع mirall؛ لقطة-"
-#~ "لقطات لنظام الملفات؛ وأكثر من هذا بكثير. (<a href=\"http://news.opensuse."
-#~ "org/2011/11/16/opensuse-12-1-all-green/\">مواصلة القراءة</a>)."
+#~ "Aquesta edició s'ha beneficiat de les millores a la infraestructura de "
+#~ "proves i de moltíssima atenció en la resolució de problemes. Tot i que la "
+#~ "combinació d'uns 6000 paquets i el suport de 5 arquitectures no pot ser "
+#~ "mai del tot perfecte, ens sentim orgullosos de poder dir que això "
+#~ "representa el millor que té per oferir el programari lliure! Els "
+#~ "escriptoris més nous (n'hi ha 5!), tecnologies de servidor i de treball "
+#~ "en núvol, eines de desenvolupament i de tot entre una cosa i l'altra "
+#~ "estan inclosos, així mateix un munt de noves tecnologies perquè hi "
+#~ "jugueu. Gaudiu-ne!"
+
+#~ msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
+#~ msgstr ""
+#~ "<a href=\"https://news.opensuse.org/?p=16841\">Continueu llegint...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/131\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Podeu <a href=\"http://en.opensuse.org/Features\">saber-ne les novetats</"
+#~ "a>, <a href=\"http://software.opensuse.org/131\">descarregar-lo</a> i <a "
+#~ "href=\"http://upgrade.opensuse.org\">actualitzar-lo</a>!"
