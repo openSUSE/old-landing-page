@@ -3,13 +3,13 @@
 #
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
-# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2012, 2013.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2012, 2013, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2014-10-29 17:26+0100\n"
-"PO-Revision-Date: 2013-11-11 19:50-0200\n"
+"PO-Revision-Date: 2014-11-06 08:42-0200\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "Language: pt_BR\n"
@@ -366,7 +366,7 @@ msgstr "&copy; 2013 SUSE LLC. Todos os direitos reservados."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.2: green light to freedom!"
-msgstr ""
+msgstr "openSUSE 13.2: luz verde para a liberdade!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -378,6 +378,12 @@ msgid ""
 "and Open Source has to offer with our special green touch: stable, "
 "innovative and fun!"
 msgstr ""
+"Caros contribuintes, amigos e fãs: <a href=\"https://news.opensuse.org/?"
+"p=18707\">o openSUSE 13.2 foi lançado!</a> Após um ano de melhorias "
+"contínuas nas ferramentas e procedimentos e muitas horas de desenvolvimento, "
+"empacotamento, testes e correções de erros uma nova versão estável está aqui "
+"fornecendo o melhor que o Software Livre e Aberto tem a oferecer com nosso "
+"toque verde especial: estável, inovador e divertido!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:12
@@ -388,11 +394,18 @@ msgid ""
 "stable releases. The perfect balance between innovation and stability with "
 "the great level of freedom of choice that openSUSE users are used to."
 msgstr ""
+"Esta é a primeira versão após a alteração no modo de desenvolvimento do "
+"openSUSE, com uma fase muito curta de estabilização graças aos testes "
+"extensivos feitos diariamente na distribuição rolling agora usada como base "
+"para as versões estáveis do openSUSE. O balanço perfeito entre inovação e "
+"estabilidade com um alto nível de liberdade de escolha que os usuários do "
+"openSUSE estão acostumados."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:17
 msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
 msgstr ""
+"<a href=\"https://news.opensuse.org/?p=18707\">Leia mais... (em inglês)</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:21
@@ -401,6 +414,9 @@ msgid ""
 "<a href=\"http://software.opensuse.org\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
+"Você pode <a href=\"http://en.opensuse.org/Features\">aprender sobre as "
+"novidades</a>, <a href=\"http://software.opensuse.org\">baixar</a> e <a href="
+"\"http://upgrade.opensuse.org\">atualizar</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:29

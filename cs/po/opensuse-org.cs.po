@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2014-10-29 17:26+0100\n"
-"PO-Revision-Date: 2014-11-02 17:17+0100\n"
+"PO-Revision-Date: 2014-11-06 13:24+0100\n"
 "Last-Translator: Jan Papez (honyczek) <honyczek@centrum.cz>\n"
 "Language-Team: Czech <opensuse-translation@opensuse.org>\n"
 "Language: cs\n"
@@ -369,12 +369,12 @@ msgid ""
 "and Open Source has to offer with our special green touch: stable, "
 "innovative and fun!"
 msgstr ""
-"Drazí přispěvatelé, přátelé a příznivci: <a href=\"https://news.opensuse."
-"org/?p=18707\">openSUSE 13.2 je venku</a>! Po roce neustálého zlepšování "
-"nástrojů a procedur, a po mnoha hodinách vývoje, balíčkování, testování a "
-"opravování chyb, nové stabilní vydání, poskytující to nejlepší z nabídky "
-"Svobodného a otevřeného softwaru, je tu, v našem zvláštním zeleném hávu: "
-"stabilní, pokrokové a zábavné!"
+"Drazí přispěvatelé, přátelé a příznivci: <a href=\"https://cs.opensuse.org/"
+"Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD\"> openSUSE 13.2 je venku</"
+"a>! Po roce neustálého zlepšování nástrojů a procedur, a po mnoha hodinách "
+"vývoje, balíčkování, testování a opravování chyb, nové stabilní vydání, "
+"poskytující to nejlepší z nabídky Svobodného a otevřeného softwaru, je tu, v "
+"našem zvláštním zeleném hávu: stabilní, pokrokové a zábavné!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:12
@@ -395,7 +395,9 @@ msgstr ""
 #. type: Content of: <p>
 #: en/whats_hot.html:17
 msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=18707\">Číst dále ...</a>"
+msgstr ""
+"<a href=\"https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n"
+"%C3%AD\">Číst dále ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:21
