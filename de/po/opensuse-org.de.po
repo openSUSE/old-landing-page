@@ -1,12 +1,13 @@
 # Michael Skiba <trans@michael-skiba.de>, 2012, 2013.
+# Sarah Kriesch <ada.lovelace@gmx.de>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2014-10-29 17:26+0100\n"
-"PO-Revision-Date: 2013-11-10 11:59+0100\n"
-"Last-Translator: Michael Skiba <trans@michael-skiba.de>\n"
-"Language-Team: German <opensuse-translation-de@opensuse.org>\n"
+"PO-Revision-Date: 2014-11-04 18:36+0100\n"
+"Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -237,7 +238,7 @@ msgstr "<a href=\"http://shop.opensuse.org/\">"
 #. type: Attribute 'title' of: <html><body><div><div><div><p><a><img>
 #: en/index.shtml:142
 msgid "openSUSE shop"
-msgstr "openSUSE-shop"
+msgstr "openSUSE-Shop"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: en/index.shtml:142
@@ -266,7 +267,7 @@ msgstr ""
 #. type: Content of: <html><body><div><ul><li>
 #: en/index.shtml:158
 msgid "<a href=\"http://software.opensuse.org/\">Get Software</a>"
-msgstr "<a href=\"http://software.opensuse.org/\">Software</a>"
+msgstr "<a href=\"http://software.opensuse.org/\">Software bekommen</a>"
 
 #. type: Content of: <html><body><div><ul><li>
 #: en/index.shtml:159
@@ -358,7 +359,7 @@ msgstr "&copy; 2013 SUSE LLC. Alle Rechte vorbehalten."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE 13.2: green light to freedom!"
-msgstr ""
+msgstr "openSUSE 13.2: Grünes Licht zur Freiheit!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -370,6 +371,12 @@ msgid ""
 "and Open Source has to offer with our special green touch: stable, "
 "innovative and fun!"
 msgstr ""
+"Liebe Mitwirkenden, Freunde und Fans: <a http://de.opensuse.org/Release-"
+"Ankündigung\">openSUSE 13.2 ist draußen</a>! Nach einem Jahr durchgehender "
+"Optimierung in den Tools und den Prozeduren, und viele Stunden Entwicklung, "
+"Paketierung, Testen und Behebung von Problemen, bietet hier ein neues "
+"stabiles Release das Beste, was Freie und Open Source Software mit unserem "
+"speziellen grünen Tatsch anbieten muss: stabil, erfindungsreich and Spaß!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:12
@@ -380,11 +387,17 @@ msgid ""
 "stable releases. The perfect balance between innovation and stability with "
 "the great level of freedom of choice that openSUSE users are used to."
 msgstr ""
+"Das ist das erste Release nach dem Wechsel in die openSUSE-Entwicklungsart. "
+"Mit einer viel kürzeren und stabileren Phase danken wir einem umfangreichen "
+"Test in einer täglichen Basis in eine rollenden Distribution, die jetzt als "
+"Grundlage für das stabile openSUSE-Release verwendet wird. Die perfekte "
+"Balance zwischen Innovation und Stabilität mit dem hohen Level der "
+"Wahlfreiheit, was von openSUSE-Benutzern verwendet wird."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:17
 msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr ""
+msgstr "<a href=\"https://news.opensuse.org/?p=18707\">Weiterlesen ...</a>"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:21
@@ -393,6 +406,9 @@ msgid ""
 "<a href=\"http://software.opensuse.org\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
+"Du kannst <a href=\"http://en.opensuse.org/Features\">lernen, was neu ist</"
+"a>, <a href=\"http://software.opensuse.org\">es herunterladen</a> und <a "
+"href=\"http://upgrade.opensuse.org\">das System aktualisieren</a>!"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:29
@@ -437,7 +453,7 @@ msgid ""
 "the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:"
 "How_to_participate\">Would you like to know more?</a>"
 msgstr ""
-"Unabhängig davon, ob Sie ein erfahrener Linuxentwickler sind oder ein "
+"Unabhängig davon, ob Sie ein erfahrener Linux-Entwickler sind oder ein "
 "Benutzer, der seine ersten Gehversuche wagt, ergeben sich vielfältige "
 "Möglichkeiten um am openSUSE-Projekt teilzunehmen. Werden Sie in einem <a "
 "href=\"http://forums.opensuse.org/\">Forum</a> aktiv, um Hilfe zu bekommen "
