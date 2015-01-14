@@ -7,6 +7,7 @@
 
 define ('CONTENT_FILE', $_SERVER['DOCUMENT_ROOT'] . '/news.html');
 define ('AMOUNT_NEWS', 5);
+define('MAGPIE_OUTPUT_ENCODING', 'UTF-8');
 
 require_once 'magpierss-0.72/rss_fetch.inc';
 
