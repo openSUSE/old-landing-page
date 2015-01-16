@@ -135,7 +135,7 @@ href="http://de.opensuse.org/openSUSE:Kommunikation#Mailinglisten">Mailinglisten
         <div id="shop" class="right minor_column">
           <h2>openSUSE-Shop</h2>
           <p>
-            <a href="http://shop.opensuse.org/"><img src="/images/frontpage/shop_shirt.png" alt="openSUSE-shop" title="openSUSE-shop" /></a> Der <a href="http://shop.opensuse.org/">Shop</a> ist der Ort, wo Sie
+            <a href="http://shop.opensuse.org/"><img src="/images/frontpage/shop_shirt.png" alt="openSUSE-Shop" title="openSUSE-Shop" /></a> Der <a href="http://shop.opensuse.org/">Shop</a> ist der Ort, wo Sie
 offizielle openSUSE-Fanartikel erhalten. T-Shirts, Tassen, Mützen, Taschen
 und mehr sind dort erhältlich. 
            </p>
@@ -151,7 +151,7 @@ Asien</a></li>
     <hr id="footer_start" class="centered" />
     <div class="centered">
         <ul id="network" class="left">
-	    <li><a href="http://software.opensuse.org/">Software</a></li>
+	    <li><a href="http://software.opensuse.org/">Software bekommen</a></li>
 	    <li><a href="http://de.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
 	    <li><a href="http://connect.opensuse.org/">Soziales Netzwerk</a></li>

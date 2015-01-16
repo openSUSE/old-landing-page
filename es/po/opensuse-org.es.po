@@ -1,12 +1,12 @@
-# Javier Llorente <javier@opensuse.org>, 2012.
+# Javier Llorente <javier@opensuse.org>, 2012, 2014.
 # Carlos E. Robinson <carlos.e.r@opensuse.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2014-06-12 13:36+0300\n"
-"PO-Revision-Date: 2013-11-18 16:23+0100\n"
-"Last-Translator: Carlos E. Robinson <carlos.e.r@opensuse.org>\n"
+"POT-Creation-Date: 2014-10-29 17:26+0100\n"
+"PO-Revision-Date: 2014-08-08 00:08+0200\n"
+"Last-Translator: Javier Llorente <javier@opensuse.org>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -113,10 +113,10 @@ msgid ""
 "your PC, Laptop or Server.  You can surf the web, manage your e-mails and "
 "photos, do office work, play videos or music and <em>have a lot of fun!</em>"
 msgstr ""
-"<strong>openSUSE</strong> es un sistema operativo libre basado en Linux "
-"paratu PC, portátil o servidor.  Puedes navegar en la Web, gestionar tu "
-"correo electr&oacute;nico  y fotos, hacer trabajos de oficina, reproducir "
-"música y vídeos y <em>have a lot of fun!</em>"
+"<strong>openSUSE</strong> es un sistema operativo libre basado en Linux para "
+"tu PC, portátil o servidor.  Puedes navegar en la Web, gestionar tu correo "
+"electr&oacute;nico  y fotos, hacer trabajo de oficina, reproducir música y "
+"vídeos y <em>have a lot of fun!</em>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: en/index.shtml:70
@@ -361,90 +361,92 @@ msgstr "&copy; 2013 SUSE LLC. Todos los derechos reservados."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.1: Ready For Action!"
-msgstr "openSUSE 13.1: ¡Listo para la acción!"
+msgid "openSUSE 13.2: green light to freedom!"
+msgstr "openSUSE 13.2: ¡luz verde a la libertad!"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
 "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=16841\">The release is here</a>! Eight months of planning, packaging, "
-"adding features, fixing issues, testing and fixing more issues has brought "
-"you the best that Free and Open Source has to offer, with our Green touch: "
-"Stable and Awesome."
+"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
+"in the tools and procedures and many hours of developing, packaging, testing "
+"and fixing issues a new stable release is here providing the best that Free "
+"and Open Source has to offer with our special green touch: stable, "
+"innovative and fun!"
 msgstr ""
-"Estimados colaboradores, amigos y fans: <a href=\"https://news.opensuse.org/?"
-"p=16841\">¡El lanzamiento está aquí</a>! Ocho meses de planificación, "
-"empaquetado, adición de características, arreglar problemas, probando y "
-"ajustando más problemas, que han traído  hasta usted lo mejor que el "
-"software abierto y libre tiene que ofrecer, con nuestro toque verde: Estable "
-"y impresionante."
+"Queridos colaboradores, amigos y seguidores: ¡<a href=\"https://es.opensuse."
+"org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi"
+"%C3%B3n_13.2\">openSUSE 13.2 ya está aquí</a>! Tras un año de continuas "
+"mejoras en las herramientas y procedimientos, y después de muchas horas de "
+"desarrollo, empaquetado, pruebas y corrección de problemas, tenemos aquí una "
+"nueva versión estable con lo mejor que puede ofrecer el software libre y de "
+"código abierto, con nuestro especial toque verde: estabilidad, innovación ¡y "
+"diversión!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:11
+#: en/whats_hot.html:12
 msgid ""
-"This release did benefit from the improvements to our testing infrastructure "
-"and much attention for bug fixing. While a combination of over 6000 packages "
-"supporting 5 architectures can never be perfect, we're proud to say this "
-"really does represent the best Free Software has to offer! The latest "
-"desktops (five of them!), server and cloud technologies, software "
-"development tools and everything in between are included as well as a number "
-"of exciting, new technologies for you to play with. Enjoy!"
+"This is the first release after the change in the openSUSE development mode, "
+"with a much shorter stabilization phase thanks to the extensive testing done "
+"in a daily basis in the rolling distribution used now as a base for openSUSE "
+"stable releases. The perfect balance between innovation and stability with "
+"the great level of freedom of choice that openSUSE users are used to."
 msgstr ""
-"Ésta versión se benefició de las mejoras en nuestra infraestructura de "
-"pruebas y mucha atención para la corrección de gazapos. Si bien una "
-"combinación de más de 6000 paquetes que soportan 5 arquitecturas nunca puede "
-"ser perfecta, estamos orgullosos de decir que ¡esto realmente representa lo "
-"mejor que el software libre tiene para ofrecer! Los escritorios (¡cinco de "
-"ellos!), tecnologías de servidor y en la nube, herramientas de desarrollo de "
-"software y todo lo demás se incluyen, así como una serie de emocionantes y "
-"nuevas tecnologías para que usted pueda jugar. ¡Disfrute!"
+"Esta es la primera versión tras el cambio en el modelo de desarrollo de "
+"openSUSE, con una fase de estabilización mucho más corta gracias a los "
+"exhaustivos tests realizados a diario en la distribución de desarrollo "
+"continuo (rolling) que se usa ahora como base de las publicaciones estables. "
+"El balance perfecto entre innovación y estabilidad, junto con el gran nivel "
+"de libertad de elección al que están acostumbrados los usuarios de openSUSE."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:18
-msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Leer más ...</a>"
+#: en/whats_hot.html:17
+msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
+msgstr ""
+"<a href=\"https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci"
+"%C3%B3n_de_la_versi%C3%B3n_13.2\">Leer más ...</a>"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:22
+#: en/whats_hot.html:21
 msgid ""
 "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org/131\">download it</a> and <a href="
+"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
 "\"http://upgrade.opensuse.org\">upgrade</a>!"
 msgstr ""
-"¡Puede en <a href=\"http://en.opensuse.org/Features\">enterarse que hay de "
-"nuevo</a>, en<a href=\"http://software.opensuse.org/131\">descargarlo</a> y "
-"en <a href=\"http://upgrade.opensuse.org\">actualizarlo</a>!"
+"¡Puedes informarte <a href=\"https://es.opensuse.org/Caracter%C3%ADsticas_m"
+"%C3%A1s_destacadas_de_la_versi%C3%B3n_13.2\">sobre las novedades</a>, <a "
+"href=\"http://software.opensuse.org/\">descargarlo</a> y <a href=\"http://"
+"upgrade.opensuse.org\">actualizarlo</a>!"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:29
 msgid "Follow openSUSE on Google Plus"
 msgstr "Sigue a openSUSE en Google Plus"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:31
+#: en/whats_hot.html:30
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
 "none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
 msgstr ""
 "Mantente informado sobre openSUSE siguiendo nuestra<a href=\"https://plus."
-"google.com/110312141834246266844/\">página de noticias en Google+</a><a "
-"style=\"text-decoration:none;\" href=\"https://plus.google."
+"google.com/110312141834246266844/\">nueva página de Google+</a><a style="
+"\"text-decoration:none;\" href=\"https://plus.google."
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:31
+#: en/whats_hot.html:30
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:33
 msgid "Participate and join the community!"
 msgstr "&iexcl;Participa y únete a la comunidad!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:35
+#: en/whats_hot.html:34
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -472,6 +474,56 @@ msgstr ""
 "otros usuarios y convertirte en un miembro activo de la comunidad openSUSE.  "
 "<a href=\"http://en.opensuse.org/Portal:How_to_participate\">&iexcl;Quieres "
 "saber más?</a>"
+
+#~ msgid "openSUSE 13.1: Ready For Action!"
+#~ msgstr "openSUSE 13.1: ¡Listo para la acción!"
+
+#~ msgid ""
+#~ "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
+#~ "p=16841\">The release is here</a>! Eight months of planning, packaging, "
+#~ "adding features, fixing issues, testing and fixing more issues has "
+#~ "brought you the best that Free and Open Source has to offer, with our "
+#~ "Green touch: Stable and Awesome."
+#~ msgstr ""
+#~ "Estimados colaboradores, amigos y fans: <a href=\"https://news.opensuse."
+#~ "org/?p=16841\">¡El lanzamiento está aquí</a>! Ocho meses de "
+#~ "planificación, empaquetado, adición de características, arreglar "
+#~ "problemas, probando y ajustando más problemas, que han traído  hasta ti "
+#~ "lo mejor del software abierto y libre, con nuestro toque verde: estable e "
+#~ "impresionante."
+
+#~ msgid ""
+#~ "This release did benefit from the improvements to our testing "
+#~ "infrastructure and much attention for bug fixing. While a combination of "
+#~ "over 6000 packages supporting 5 architectures can never be perfect, we're "
+#~ "proud to say this really does represent the best Free Software has to "
+#~ "offer! The latest desktops (five of them!), server and cloud "
+#~ "technologies, software development tools and everything in between are "
+#~ "included as well as a number of exciting, new technologies for you to "
+#~ "play with. Enjoy!"
+#~ msgstr ""
+#~ "Esta versión se ha beneficiado de las mejoras en nuestra infraestructura "
+#~ "de pruebas y mucha atención para la corrección de gazapos. Si bien una "
+#~ "combinación de más de 6000 paquetes que soportan 5 arquitecturas nunca "
+#~ "puede ser perfecta, estamos orgullosos de decir que ¡esto realmente "
+#~ "representa lo mejor que el software libre te puede ofrecer! Los "
+#~ "escritorios (¡cinco de ellos!), tecnologías de servidor y en la nube, "
+#~ "herramientas de desarrollo de software y todo lo demás se incluyen, así "
+#~ "como una serie de emocionantes y nuevas tecnologías para que puedas "
+#~ "jugar. ¡Qué disfrutes!"
+
+#~ msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
+#~ msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Leer más ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/131\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "¡Puedes enterarte en <a href=\"http://en.opensuse.org/Features\"> sobre "
+#~ "las novedades</a>, en<a href=\"http://software.opensuse."
+#~ "org/131\">descargarlo</a> y en <a href=\"http://upgrade.opensuse.org"
+#~ "\">actualizarlo</a>!"
 
 #~ msgid "openSUSE 12.3 - Awesome as 1-2-3"
 #~ msgstr "openSUSE 12.3 - Tan fácil como 1-2-3"
