@@ -1,11 +1,11 @@
 # translation of opensuse-org.po to Japanese
-# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2012, 2013.
+# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2012, 2013, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-29 17:26+0100\n"
-"PO-Revision-Date: 2013-11-09 08:40+0900\n"
+"POT-Creation-Date: 2015-01-20 12:30+0100\n"
+"PO-Revision-Date: 2015-01-20 21:00+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
 "Language: ja\n"
@@ -359,62 +359,40 @@ msgstr "&copy; 2013 SUSE LLC. All Rights Reserved."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.2: green light to freedom!"
-msgstr ""
+msgid "openSUSE Conference crossing borders between communities"
+msgstr "コミュニティの壁を超えるための openSUSE カンファレンス"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
-#, fuzzy
 msgid ""
-"Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
-"in the tools and procedures and many hours of developing, packaging, testing "
-"and fixing issues a new stable release is here providing the best that Free "
-"and Open Source has to offer with our special green touch: stable, "
-"innovative and fun!"
+"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
+"in The Hague, Netherlands. We are working together to make this year's "
+"conference unforgettable, but we still need your help."
 msgstr ""
-"貢献者の皆様、そして友人およびファンの皆様へ: <a href=\"https://news."
-"opensuse.org/?p=16841\">本リリースがようやく完成しました</a>！ 8 ヶ月にもわた"
-"る計画とパッケージ作成、機能の追加や問題の解決、そして何よりもテストとその修"
-"正の結果、これまでで最良のフリー／オープンソースソフトウエアが完成しました。"
-"これは我々のカラーである緑色の示す、安定性とすばらしさを兼ね備えたものと自負"
-"しています。"
+"貢献者の皆様、そして利用者とファンの皆様へ: 5 月の 1 日から 4 日にかけて、オ"
+"ランダはハーグにて openSUSE カンファレンスが開催されます。今年のカンファレン"
+"スが記憶に残るものになるよう鋭意作業中ですが、現在もなお人手が足りない状況に"
+"あります。"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:12
+#: en/whats_hot.html:8
 msgid ""
-"This is the first release after the change in the openSUSE development mode, "
-"with a much shorter stabilization phase thanks to the extensive testing done "
-"in a daily basis in the rolling distribution used now as a base for openSUSE "
-"stable releases. The perfect balance between innovation and stability with "
-"the great level of freedom of choice that openSUSE users are used to."
+"Take part in oSC15 and help to advance the Free and Open Source movement.  "
+"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
+"call-for-team-members/\">read here</a>."
 msgstr ""
-
-#. type: Content of: <p>
-#: en/whats_hot.html:17
-#, fuzzy
-msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=16841\">さらに詳しく ...</a>"
-
-#. type: Content of: <p>
-#: en/whats_hot.html:21
-#, fuzzy
-msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
-"\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr ""
-"<a href=\"http://ja.opensuse.org/Features\">主な機能</a>, <a href=\"http://"
-"software.opensuse.org/131\">ダウンロード</a>, <a href=\"http://upgrade."
-"opensuse.org\">アップグレード</a> などもお読みください。"
+"フリー／オープンソースの活動をさらに広げるため、 openSUSE カンファレンス 15 "
+"にご参加いただき、ご支援をお願いいたします。参加方法などについて、詳しくは<a "
+"href=\"https://news.opensuse.org/2014/12/22/osc-2015-call-for-team-members/"
+"\">こちら (英語) をお読みください</a> 。"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:15
 msgid "Follow openSUSE on Google Plus"
 msgstr "Google Plus で openSUSE をフォローする"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -426,17 +404,17 @@ msgstr ""
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid "</a>."
 msgstr "</a>"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:19
 msgid "Participate and join the community!"
 msgstr "コミュニティへの参加"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:20
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -465,24 +443,3 @@ msgstr ""
 "様々な方と対話されることをお勧めしています。さらに詳しい情報は、 <a href="
 "\"http://ja.opensuse.org/%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%97%E3%81%8B"
 "%E3%81%9F\">こちら</a> をお読みください。"
-
-#~ msgid "openSUSE 13.1: Ready For Action!"
-#~ msgstr "openSUSE 13.1: Ready For Action!"
-
-#~ msgid ""
-#~ "This release did benefit from the improvements to our testing "
-#~ "infrastructure and much attention for bug fixing. While a combination of "
-#~ "over 6000 packages supporting 5 architectures can never be perfect, we're "
-#~ "proud to say this really does represent the best Free Software has to "
-#~ "offer! The latest desktops (five of them!), server and cloud "
-#~ "technologies, software development tools and everything in between are "
-#~ "included as well as a number of exciting, new technologies for you to "
-#~ "play with. Enjoy!"
-#~ msgstr ""
-#~ "本リリースは、我々の成果であるテストインフラの改善から得られる恩恵を存分に"
-#~ "受けたリリースで、バグ修正の点では非常に力を注いでいます。 6000 個ものパッ"
-#~ "ケージが 5 つものアーキテクチャで動作する都合上、全く問題がないわけではな"
-#~ "いと思いますが、フリーソフトウエアの世界で提供可能な、最高のものに仕上がっ"
-#~ "たと自信を持っています。最新のデスクトップやサーバ／クラウド技術のほか、ソ"
-#~ "フトウエア開発ツールなど、全てのものが刺激的な新技術になっています。 "
-#~ "openSUSE の世界をお楽しみください！"

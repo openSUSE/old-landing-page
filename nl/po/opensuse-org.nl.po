@@ -1,12 +1,12 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Freek de Kruijf <freek@opensuse.org>, 2012, 2013, 2014.
+# Freek de Kruijf <freek@opensuse.org>, 2012, 2013, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2014-10-29 17:26+0100\n"
-"PO-Revision-Date: 2014-10-31 10:03+0100\n"
+"POT-Creation-Date: 2015-01-20 12:30+0100\n"
+"PO-Revision-Date: 2015-01-20 17:07+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <opensuse-nl@opensuse.org>\n"
 "Language: nl\n"
@@ -356,66 +356,39 @@ msgstr "&copy; 2013 SUSE LLC. Alle rechten voorbehouden."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.2: green light to freedom!"
-msgstr "openSUSE 13.2: groen licht naar vrijheid!"
+msgid "openSUSE Conference crossing borders between communities"
+msgstr "openSUSE Conferentie grenzen tussen gemeenschappen overschrijden"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
-"in the tools and procedures and many hours of developing, packaging, testing "
-"and fixing issues a new stable release is here providing the best that Free "
-"and Open Source has to offer with our special green touch: stable, "
-"innovative and fun!"
+"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
+"in The Hague, Netherlands. We are working together to make this year's "
+"conference unforgettable, but we still need your help."
 msgstr ""
-"U die hebt bijgedragen, geachte vrienden en fans: <a href=\"https://news."
-"opensuse.org/?p=18707\">openSUSE 13.2 is hier</a>! Na een jaar van "
-"voortdurend verbeteren van de hulpmiddelen en procedures en vele uren "
-"ontwikkelen, in pakketvorm brengen, testen en problemen oplossen is er een "
-"nieuwe stabiele uitgave die ons het beste brengt dat vrije en open source "
-"heeft te bieden, met onze groene toets: stabiel, innovatief en met plezier, "
-"have fun!"
+"Beste mensen die bijdragen, vrienden en fans: de openSUSE Conferentie zal "
+"worden gehouden van 1-4 mei in Den Haag, Nederland. We werken samen om de "
+"conferentie vna dit jaar onvergetelijk te maken, maar we hebben uw hulp "
+"nodig."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:12
+#: en/whats_hot.html:8
 msgid ""
-"This is the first release after the change in the openSUSE development mode, "
-"with a much shorter stabilization phase thanks to the extensive testing done "
-"in a daily basis in the rolling distribution used now as a base for openSUSE "
-"stable releases. The perfect balance between innovation and stability with "
-"the great level of freedom of choice that openSUSE users are used to."
+"Take part in oSC15 and help to advance the Free and Open Source movement.  "
+"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
+"call-for-team-members/\">read here</a>."
 msgstr ""
-"Dit is de eerste uitgave na de wijziging in de ontwikkelmethode van "
-"openSUSE, met een veel kortere stabilisatiefase dankzij het intensieve "
-"testen dat dagelijks wordt gedaan in de rollende distributie die nu gebruikt "
-"wordt als basis voor de stabiele uitgaven van openSUSE. De perfecte balans "
-"tussen innovatie en stabiliteit met het hoge niveau van keuzevrijheid die "
-"gebruikers van openSUSE gewend zijn."
-
-#. type: Content of: <p>
-#: en/whats_hot.html:17
-msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=18707\">Lees hier meer ...</a>"
-
-#. type: Content of: <p>
-#: en/whats_hot.html:21
-msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
-"\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr ""
-"U kunt in <a href=\"http://nl.opensuse.org/Features\">lezen wat nieuw is </"
-"a>, <a href=\"http://software.opensuse.org/\">het downloaden</a> en <a href="
-"\"http://upgrade.opensuse.org\">opwaarderen</a>!"
+"Neem deel aan oSC15 en help om de Vrije en Open Source beweging verder te "
+"brengen. Om mee te doen, <a href=\"https://news.opensuse.org/2014/12/22/"
+"osc-2015-call-for-team-members/\">lees dit</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:15
 msgid "Follow openSUSE on Google Plus"
 msgstr "Volg openSUSE op Google+"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -427,17 +400,17 @@ msgstr ""
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:19
 msgid "Participate and join the community!"
 msgstr "Doe mee en wordt lid van de gemeenschap!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:20
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -465,6 +438,64 @@ msgstr ""
 "discussiëren en wordt een actief lid van de openSUSE gemeenschappen.  <a "
 "href=\"http://nl.opensuse.org/Portal:How_to_participate\">Wilt u meer weten?"
 "</a>"
+
+#~ msgid "openSUSE 13.2: green light to freedom!"
+#~ msgstr "openSUSE 13.2: groen licht naar vrijheid!"
+
+#~| msgid ""
+#~| "Dear contributors, friends and fans: <a href=\"https://news.opensuse."
+#~| "org/?p=16841\">The release is here</a>! Eight months of planning, "
+#~| "packaging, adding features, fixing issues, testing and fixing more "
+#~| "issues has brought you the best that Free and Open Source has to offer, "
+#~| "with our Green touch: Stable and Awesome."
+#~ msgid ""
+#~ "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
+#~ "p=18707\">openSUSE 13.2 is out</a>! After one year on continuous "
+#~ "improvement in the tools and procedures and many hours of developing, "
+#~ "packaging, testing and fixing issues a new stable release is here "
+#~ "providing the best that Free and Open Source has to offer with our "
+#~ "special green touch: stable, innovative and fun!"
+#~ msgstr ""
+#~ "U die hebt bijgedragen, geachte vrienden en fans: <a href=\"https://news."
+#~ "opensuse.org/?p=18707\">openSUSE 13.2 is hier</a>! Na een jaar van "
+#~ "voortdurend verbeteren van de hulpmiddelen en procedures en vele uren "
+#~ "ontwikkelen, in pakketvorm brengen, testen en problemen oplossen is er "
+#~ "een nieuwe stabiele uitgave die ons het beste brengt dat vrije en open "
+#~ "source heeft te bieden, met onze groene toets: stabiel, innovatief en met "
+#~ "plezier, have fun!"
+
+#~ msgid ""
+#~ "This is the first release after the change in the openSUSE development "
+#~ "mode, with a much shorter stabilization phase thanks to the extensive "
+#~ "testing done in a daily basis in the rolling distribution used now as a "
+#~ "base for openSUSE stable releases. The perfect balance between innovation "
+#~ "and stability with the great level of freedom of choice that openSUSE "
+#~ "users are used to."
+#~ msgstr ""
+#~ "Dit is de eerste uitgave na de wijziging in de ontwikkelmethode van "
+#~ "openSUSE, met een veel kortere stabilisatiefase dankzij het intensieve "
+#~ "testen dat dagelijks wordt gedaan in de rollende distributie die nu "
+#~ "gebruikt wordt als basis voor de stabiele uitgaven van openSUSE. De "
+#~ "perfecte balans tussen innovatie en stabiliteit met het hoge niveau van "
+#~ "keuzevrijheid die gebruikers van openSUSE gewend zijn."
+
+#~| msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
+#~ msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
+#~ msgstr ""
+#~ "<a href=\"https://news.opensuse.org/?p=18707\">Lees hier meer ...</a>"
+
+#~| msgid ""
+#~| "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~| "a>, <a href=\"http://software.opensuse.org/131\">download it</a> and <a "
+#~| "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org\">download it</a> and <a href="
+#~ "\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "U kunt in <a href=\"http://nl.opensuse.org/Features\">lezen wat nieuw is "
+#~ "</a>, <a href=\"http://software.opensuse.org/\">het downloaden</a> en <a "
+#~ "href=\"http://upgrade.opensuse.org\">opwaarderen</a>!"
 
 #~ msgid "openSUSE 13.1: Ready For Action!"
 #~ msgstr "openSUSE 13.1: Klaar voor actie!"

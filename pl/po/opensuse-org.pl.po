@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-29 17:26+0100\n"
+"POT-Creation-Date: 2015-01-20 12:30+0100\n"
 "PO-Revision-Date: 2014-10-16 19:10+0200\n"
 "Last-Translator: Mariusz Fik <fisiu@opensuse.org>\n"
 "Language-Team: Polish <opensuse-pl@opensuse.org>\n"
@@ -363,61 +363,32 @@ msgstr "&copy; 2013 SUSE LLC. All Rights Reserved."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.2: green light to freedom!"
+msgid "openSUSE Conference crossing borders between communities"
 msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
-#, fuzzy
 msgid ""
-"Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
-"in the tools and procedures and many hours of developing, packaging, testing "
-"and fixing issues a new stable release is here providing the best that Free "
-"and Open Source has to offer with our special green touch: stable, "
-"innovative and fun!"
-msgstr ""
-"Drodzy współpracownicy, przyjaciele i fani: <a href=\"https://news.opensuse."
-"org/?p=16841\">Wydanie jest tutaj</a>! Osiem miesięcy planowania, pakowania, "
-"dodawania funkcjonalności, naprawiania błędów, testowania i naprawiania "
-"kolejnych błędów przyniosło najlepsze co może zaoferować Wolne i Otwarte "
-"Oprogramowanie, z naszym Zielonym dotykiem: Stabilny i Niesamowity."
-
-#. type: Content of: <p>
-#: en/whats_hot.html:12
-msgid ""
-"This is the first release after the change in the openSUSE development mode, "
-"with a much shorter stabilization phase thanks to the extensive testing done "
-"in a daily basis in the rolling distribution used now as a base for openSUSE "
-"stable releases. The perfect balance between innovation and stability with "
-"the great level of freedom of choice that openSUSE users are used to."
+"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
+"in The Hague, Netherlands. We are working together to make this year's "
+"conference unforgettable, but we still need your help."
 msgstr ""
 
 #. type: Content of: <p>
-#: en/whats_hot.html:17
-#, fuzzy
-msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Czytaj więcej...</a>"
-
-#. type: Content of: <p>
-#: en/whats_hot.html:21
-#, fuzzy
+#: en/whats_hot.html:8
 msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
-"\"http://upgrade.opensuse.org\">upgrade</a>!"
+"Take part in oSC15 and help to advance the Free and Open Source movement.  "
+"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
+"call-for-team-members/\">read here</a>."
 msgstr ""
-"<a href=\"http://en.opensuse.org/Features\">Dowiedz się co nowego</a>, <a "
-"href=\"http://software.opensuse.org/131\">pobierz</a> i <a href=\"http://"
-"upgrade.opensuse.org\">zaktualizuj</a>!"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:15
 msgid "Follow openSUSE on Google Plus"
 msgstr "Obserwuj openSUSE w Google Plus"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -429,17 +400,17 @@ msgstr ""
 "com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:19
 msgid "Participate and join the community!"
 msgstr "Dołącz do społeczności!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:20
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -472,6 +443,20 @@ msgstr ""
 #~ msgstr "openSUSE 13.1: Gotowy do działania!"
 
 #~ msgid ""
+#~ "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
+#~ "p=16841\">The release is here</a>! Eight months of planning, packaging, "
+#~ "adding features, fixing issues, testing and fixing more issues has "
+#~ "brought you the best that Free and Open Source has to offer, with our "
+#~ "Green touch: Stable and Awesome."
+#~ msgstr ""
+#~ "Drodzy współpracownicy, przyjaciele i fani: <a href=\"https://news."
+#~ "opensuse.org/?p=16841\">Wydanie jest tutaj</a>! Osiem miesięcy "
+#~ "planowania, pakowania, dodawania funkcjonalności, naprawiania błędów, "
+#~ "testowania i naprawiania kolejnych błędów przyniosło najlepsze co może "
+#~ "zaoferować Wolne i Otwarte Oprogramowanie, z naszym Zielonym dotykiem: "
+#~ "Stabilny i Niesamowity."
+
+#~ msgid ""
 #~ "This release did benefit from the improvements to our testing "
 #~ "infrastructure and much attention for bug fixing. While a combination of "
 #~ "over 6000 packages supporting 5 architectures can never be perfect, we're "
@@ -489,6 +474,18 @@ msgstr ""
 #~ "pięć!), technologie serwerowe i chmurowe, narzędzia do tworzenia "
 #~ "oprogramowani oraz wszystko co jest pomiędzy zostało zawarte, jak również "
 #~ "wiele ciekawych, nowych technologi, które warto sprawdzić! Dobrej zabawy!"
+
+#~ msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
+#~ msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Czytaj więcej...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/131\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "<a href=\"http://en.opensuse.org/Features\">Dowiedz się co nowego</a>, <a "
+#~ "href=\"http://software.opensuse.org/131\">pobierz</a> i <a href=\"http://"
+#~ "upgrade.opensuse.org\">zaktualizuj</a>!"
 
 #~ msgid "openSUSE 12.3 - Awesome as 1-2-3"
 #~ msgstr "openSUSE 12.3 - Awesome as 1-2-3"

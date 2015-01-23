@@ -65,7 +65,7 @@ starten" />
 <div id="intro" class="left minor_column">
           <a href='//counter.opensuse.org/link/'><h1 title="openSUSE"><span>openSUSE</span></h1></a>
           <p class="first">
-            <strong>openSUSE</strong> ist ein freies und Linux-basiertes Betriebssysteme
+            <strong>openSUSE</strong> ist ein freies und Linux-basiertes Betriebssystem
 für Ihren PC, Laptop oder Server. Surfen Sie im Internet, verwalten Sie Ihre
 E-Mails und Fotos, erledigen Sie Büroarbeiten, spielen Sie Videos oder Musik
 ab und <em>haben Sie eine Menge Spaß!</em>
@@ -151,7 +151,7 @@ Asien</a></li>
     <hr id="footer_start" class="centered" />
     <div class="centered">
         <ul id="network" class="left">
-	    <li><a href="http://software.opensuse.org/">Software bekommen</a></li>
+	    <li><a href="http://software.opensuse.org/">Software herunterladen</a></li>
 	    <li><a href="http://de.opensuse.org/">Wiki</a></li>
 	    <li><a href="http://build.opensuse.org/">Build Service</a></li>
 	    <li><a href="http://connect.opensuse.org/">Soziales Netzwerk</a></li>

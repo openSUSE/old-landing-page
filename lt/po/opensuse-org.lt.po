@@ -1,13 +1,13 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>, 2012, 2013, 2014.
+# Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>, 2012, 2013, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-29 17:26+0100\n"
-"PO-Revision-Date: 2014-10-20 23:03+0300\n"
+"POT-Creation-Date: 2015-01-20 12:30+0100\n"
+"PO-Revision-Date: 2015-01-21 11:36+0200\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "Language: lt\n"
@@ -366,61 +366,38 @@ msgstr "&copy; 2013 SUSE LLC. Visos teisės saugomos."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.2: green light to freedom!"
-msgstr ""
+msgid "openSUSE Conference crossing borders between communities"
+msgstr "openSUSE konferencija vienija žmones"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
-#, fuzzy
 msgid ""
-"Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
-"in the tools and procedures and many hours of developing, packaging, testing "
-"and fixing issues a new stable release is here providing the best that Free "
-"and Open Source has to offer with our special green touch: stable, "
-"innovative and fun!"
+"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
+"in The Hague, Netherlands. We are working together to make this year's "
+"conference unforgettable, but we still need your help."
 msgstr ""
-"Mieli pagalbininkai, draugai ir aistruoliai: <a href=\"https://news.opensuse."
-"org/?p=16841\">Pasirodė nauja versija</a>! Po aštuonių mėnesių planavimo, "
-"paketų kūrimo, naujų funkcijų rengimo, klaidų taisymo, testavimo ir vėl "
-"taisymo, pateikiame tai, ką geriausio gali pasiūlyti atviro ir nemokamo kodo "
-"bendruomenė – su žaliu atspalviu: stabiliu ir nuostabiu."
+"Mieli talkininkai, draugai ir mėgėjai, openSUSE konferencija vyks gegužės "
+"1-4 dienomis Hagoje, Olandijoje. Stengėmės visi, kad šių metų konferencija "
+"būtų įsimintina ilgam, tačiau mums vis dar reikia tavo pagalbos."
 
 #. type: Content of: <p>
-#: en/whats_hot.html:12
+#: en/whats_hot.html:8
 msgid ""
-"This is the first release after the change in the openSUSE development mode, "
-"with a much shorter stabilization phase thanks to the extensive testing done "
-"in a daily basis in the rolling distribution used now as a base for openSUSE "
-"stable releases. The perfect balance between innovation and stability with "
-"the great level of freedom of choice that openSUSE users are used to."
+"Take part in oSC15 and help to advance the Free and Open Source movement.  "
+"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
+"call-for-team-members/\">read here</a>."
 msgstr ""
-
-#. type: Content of: <p>
-#: en/whats_hot.html:17
-#, fuzzy
-msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=16841\">Skaityti toliau ...</a>"
-
-#. type: Content of: <p>
-#: en/whats_hot.html:21
-#, fuzzy
-msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
-"\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr ""
-"Galite <a href=\"http://en.opensuse.org/Features\">susipažinti</a>, <a href="
-"\"http://software.opensuse.org/131/lt\">parsisiųsti</a> ir <a href=\"http://"
-"upgrade.opensuse.org\">atnaujinti</a>! "
+"Dalyvauk oSC15 ir prisidėk prie Atviro Kodo judėjimo.  Daugiau informacijos "
+"<a href=\"https://news.opensuse.org/2014/12/22/osc-2015-call-for-team-"
+"members/\">čia</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:15
 msgid "Follow openSUSE on Google Plus"
 msgstr "Sekite openSUSE per Google Plus"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -432,17 +409,17 @@ msgstr ""
 "prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid "</a>."
 msgstr "</a>."
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:19
 msgid "Participate and join the community!"
 msgstr "Prisijunkite prie bendruomenės ir įsitraukite į jos veiklą!"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:20
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -475,6 +452,20 @@ msgstr ""
 #~ msgstr "openSUSE 13.1 pasirengusi veikti!"
 
 #~ msgid ""
+#~ "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
+#~ "p=16841\">The release is here</a>! Eight months of planning, packaging, "
+#~ "adding features, fixing issues, testing and fixing more issues has "
+#~ "brought you the best that Free and Open Source has to offer, with our "
+#~ "Green touch: Stable and Awesome."
+#~ msgstr ""
+#~ "Mieli pagalbininkai, draugai ir aistruoliai: <a href=\"https://news."
+#~ "opensuse.org/?p=16841\">Pasirodė nauja versija</a>! Po aštuonių mėnesių "
+#~ "planavimo, paketų kūrimo, naujų funkcijų rengimo, klaidų taisymo, "
+#~ "testavimo ir vėl taisymo, pateikiame tai, ką geriausio gali pasiūlyti "
+#~ "atviro ir nemokamo kodo bendruomenė – su žaliu atspalviu: stabiliu ir "
+#~ "nuostabiu."
+
+#~ msgid ""
 #~ "This release did benefit from the improvements to our testing "
 #~ "infrastructure and much attention for bug fixing. While a combination of "
 #~ "over 6000 packages supporting 5 architectures can never be perfect, we're "
@@ -491,6 +482,19 @@ msgstr ""
 #~ "naujausias darbalaukio aplinkas (penkias iš jų!), serverius ir debesų "
 #~ "kompiuterijos technologijas, programavimo įrankius ir taip pat daug "
 #~ "smagių naujų technologijų! Mėgaukitės!"
+
+#~ msgid "<a href=\"https://news.opensuse.org/?p=16841\">Read more ...</a>"
+#~ msgstr ""
+#~ "<a href=\"https://news.opensuse.org/?p=16841\">Skaityti toliau ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org/131\">download it</a> and <a "
+#~ "href=\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "Galite <a href=\"http://en.opensuse.org/Features\">susipažinti</a>, <a "
+#~ "href=\"http://software.opensuse.org/131/lt\">parsisiųsti</a> ir <a href="
+#~ "\"http://upgrade.opensuse.org\">atnaujinti</a>! "
 
 #~ msgid "openSUSE 12.3 - Awesome as 1-2-3"
 #~ msgstr "openSUSE 12.3 - nuostabu kaip 1-2-3"

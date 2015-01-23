@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-29 17:26+0100\n"
+"POT-Creation-Date: 2015-01-20 12:30+0100\n"
 "PO-Revision-Date: 2014-10-31 23:36+0800\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
@@ -357,62 +357,32 @@ msgstr "&copy; 2013 SUSE LLC. 版權所有。"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE 13.2: green light to freedom!"
-msgstr "openSUSE 13.2: 通往自由的綠色之光！"
+msgid "openSUSE Conference crossing borders between communities"
+msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
-"p=18707\">openSUSE 13.2 is out</a>! After one year on continuous improvement "
-"in the tools and procedures and many hours of developing, packaging, testing "
-"and fixing issues a new stable release is here providing the best that Free "
-"and Open Source has to offer with our special green touch: stable, "
-"innovative and fun!"
+"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
+"in The Hague, Netherlands. We are working together to make this year's "
+"conference unforgettable, but we still need your help."
 msgstr ""
-"心愛的貢獻者、朋友和粉絲們： <a href=\"https://news.opensuse.org/?"
-"p=18707\">openSUSE 13.2 終於到來</a>！經過了一年來持續地在工具及流程上改進，"
-"及許多時間的開發、打包、測試與問題修正，一個新的穩定發行版本已經就緒，在我們"
-"的綠色點綴之下，帶給您的是自由與開放原始碼所提供的最棒的成果：穩定、創新且有"
-"趣的 openSUSE 13.2。"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:12
+#: en/whats_hot.html:8
 msgid ""
-"This is the first release after the change in the openSUSE development mode, "
-"with a much shorter stabilization phase thanks to the extensive testing done "
-"in a daily basis in the rolling distribution used now as a base for openSUSE "
-"stable releases. The perfect balance between innovation and stability with "
-"the great level of freedom of choice that openSUSE users are used to."
+"Take part in oSC15 and help to advance the Free and Open Source movement.  "
+"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
+"call-for-team-members/\">read here</a>."
 msgstr ""
-"本次發行是在 openSUSE 開發模式變更後的第一次發行。得益於在滾動式發行版本中更"
-"廣泛的每日測試，更短的收歛周期開發模式現已成為 openSUSE 穩定發行版本的基礎。"
-"這是 openSUSE 使用者所習以為常的，在創新與穩定間的完美平衡，同時又擁有極大程"
-"度選擇的自由。"
-
-#. type: Content of: <p>
-#: en/whats_hot.html:17
-msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
-msgstr "<a href=\"https://news.opensuse.org/?p=18707\">深入閱讀 ...</a>"
-
-#. type: Content of: <p>
-#: en/whats_hot.html:21
-msgid ""
-"You can <a href=\"http://en.opensuse.org/Features\">learn what is new</a>, "
-"<a href=\"http://software.opensuse.org\">download it</a> and <a href="
-"\"http://upgrade.opensuse.org\">upgrade</a>!"
-msgstr ""
-"您可以 <a href=\"http://en.opensuse.org/Features\">得知有哪些新功能</a>，<a "
-"href=\"http://software.opensuse.org\">下載它</a> 並 <a href=\"http://upgrade."
-"opensuse.org\">升級</a>！"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:29
+#: en/whats_hot.html:15
 msgid "Follow openSUSE on Google Plus"
 msgstr "在 Google Plus 上關注 openSUSE"
 
 #. type: Content of: <p><a>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid ""
 "Keep informed about openSUSE following our <a href=\"https://plus.google."
 "com/110312141834246266844/\">new Google+ page</a><a style=\"text-decoration:"
@@ -423,17 +393,17 @@ msgstr ""
 "none;\" href=\"https://plus.google.com/110312141834246266844/?prsrc=3\">"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:30
+#: en/whats_hot.html:16
 msgid "</a>."
 msgstr "</a>。"
 
 #. type: Content of: <h2>
-#: en/whats_hot.html:33
+#: en/whats_hot.html:19
 msgid "Participate and join the community!"
 msgstr "參與並加入我們的社群！"
 
 #. type: Content of: <p>
-#: en/whats_hot.html:34
+#: en/whats_hot.html:20
 msgid ""
 "Whether you're an experienced Linux developer or an end user just getting "
 "started with Linux, there are many ways for you to participate in the "
@@ -458,6 +428,48 @@ msgstr ""
 "麼，用幾分鐘和 openSUSE 的其他使用者討論一下，並且加入成為 openSUSE 社群的活"
 "躍的一員。 <a href=\"http://en.opensuse.org/Portal:How_to_participate\">想了"
 "解更多嗎？</a>"
+
+#~ msgid "openSUSE 13.2: green light to freedom!"
+#~ msgstr "openSUSE 13.2: 通往自由的綠色之光！"
+
+#~ msgid ""
+#~ "Dear contributors, friends and fans: <a href=\"https://news.opensuse.org/?"
+#~ "p=18707\">openSUSE 13.2 is out</a>! After one year on continuous "
+#~ "improvement in the tools and procedures and many hours of developing, "
+#~ "packaging, testing and fixing issues a new stable release is here "
+#~ "providing the best that Free and Open Source has to offer with our "
+#~ "special green touch: stable, innovative and fun!"
+#~ msgstr ""
+#~ "心愛的貢獻者、朋友和粉絲們： <a href=\"https://news.opensuse.org/?"
+#~ "p=18707\">openSUSE 13.2 終於到來</a>！經過了一年來持續地在工具及流程上改"
+#~ "進，及許多時間的開發、打包、測試與問題修正，一個新的穩定發行版本已經就緒，"
+#~ "在我們的綠色點綴之下，帶給您的是自由與開放原始碼所提供的最棒的成果：穩定、"
+#~ "創新且有趣的 openSUSE 13.2。"
+
+#~ msgid ""
+#~ "This is the first release after the change in the openSUSE development "
+#~ "mode, with a much shorter stabilization phase thanks to the extensive "
+#~ "testing done in a daily basis in the rolling distribution used now as a "
+#~ "base for openSUSE stable releases. The perfect balance between innovation "
+#~ "and stability with the great level of freedom of choice that openSUSE "
+#~ "users are used to."
+#~ msgstr ""
+#~ "本次發行是在 openSUSE 開發模式變更後的第一次發行。得益於在滾動式發行版本中"
+#~ "更廣泛的每日測試，更短的收歛周期開發模式現已成為 openSUSE 穩定發行版本的基"
+#~ "礎。這是 openSUSE 使用者所習以為常的，在創新與穩定間的完美平衡，同時又擁有"
+#~ "極大程度選擇的自由。"
+
+#~ msgid "<a href=\"https://news.opensuse.org/?p=18707\">Read more ...</a>"
+#~ msgstr "<a href=\"https://news.opensuse.org/?p=18707\">深入閱讀 ...</a>"
+
+#~ msgid ""
+#~ "You can <a href=\"http://en.opensuse.org/Features\">learn what is new</"
+#~ "a>, <a href=\"http://software.opensuse.org\">download it</a> and <a href="
+#~ "\"http://upgrade.opensuse.org\">upgrade</a>!"
+#~ msgstr ""
+#~ "您可以 <a href=\"http://en.opensuse.org/Features\">得知有哪些新功能</a>，"
+#~ "<a href=\"http://software.opensuse.org\">下載它</a> 並 <a href=\"http://"
+#~ "upgrade.opensuse.org\">升級</a>！"
 
 #~ msgid ""
 #~ "Dear contributors, friends and fans: the latest version of the openSUSE "
