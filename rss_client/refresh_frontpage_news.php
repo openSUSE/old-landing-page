@@ -9,9 +9,13 @@ define ('CONTENT_FILE', $_SERVER['DOCUMENT_ROOT'] . '/news.html');
 define ('AMOUNT_NEWS', 5);
 define('MAGPIE_OUTPUT_ENCODING', 'UTF-8');
 
+header('Cache-Control: no-cache, no-store, must-revalidate'); // HTTP 1.1
+header('Pragma: no-cache'); // HTTP 1.0
+header('Expires: 0'); // Proxies
+
 require_once 'magpierss-0.72/rss_fetch.inc';
 
-$rss = fetch_rss ('http://news.opensuse.org/feed/');
+$rss = fetch_rss ('https://news.opensuse.org/feed/');
 date_default_timezone_set( 'UTC' );
 
 $html = "<ul>\n";
