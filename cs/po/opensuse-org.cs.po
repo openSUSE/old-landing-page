@@ -1,10 +1,10 @@
-# Jan Papez <honyczek@centrum.cz>, 2012, 2013, 2014.
+# Jan Papez <honyczek@centrum.cz>, 2012, 2013, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2015-01-20 12:30+0100\n"
-"PO-Revision-Date: 2014-11-06 13:24+0100\n"
+"PO-Revision-Date: 2015-02-10 22:15+0100\n"
 "Last-Translator: Jan Papez (honyczek) <honyczek@centrum.cz>\n"
 "Language-Team: Czech <opensuse-translation@opensuse.org>\n"
 "Language: cs\n"
@@ -357,7 +357,7 @@ msgstr "&copy; 2013 SUSE LLC. Všechna práva vyhrazena."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE Conference crossing borders between communities"
-msgstr ""
+msgstr "Konference openSUSE překračuje hranice mezi komunitami"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -366,6 +366,10 @@ msgid ""
 "in The Hague, Netherlands. We are working together to make this year's "
 "conference unforgettable, but we still need your help."
 msgstr ""
+"Drazí přispěvatelé, přátelé a fanoušci: Konference openSUSE se bude konat "
+"1.-4.května v Haagu v Nizozemí. My společně pracujeme na tom, abychom "
+"udělali letošní konferenci nezapomenutelnou, ale i nadále potřebujeme vaši "
+"pomoc."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
@@ -374,6 +378,9 @@ msgid ""
 "To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
 "call-for-team-members/\">read here</a>."
 msgstr ""
+"Zapojte se do oSC15 a pomozte hnutí Free and Open Source k pokroku. Pro "
+"zapojení se <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-call-for-"
+"team-members/\">čtěte tohle</a>."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15

@@ -3,12 +3,12 @@
 #
 # Marguerite Su, 2012, 2013.
 # marguerite <i@marguerite.su>, 2013.
-# 玛格丽特 · 苏 <marguerite@opensuse.org>, 2013, 2014.
+# 玛格丽特 · 苏 <marguerite@opensuse.org>, 2013, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-01-20 12:30+0100\n"
-"PO-Revision-Date: 2014-10-30 16:57+0800\n"
+"PO-Revision-Date: 2015-02-01 12:15+0800\n"
 "Last-Translator: 玛格丽特 · 苏 <marguerite@opensuse.org>\n"
 "Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
 "Language: zh_CN\n"
@@ -354,7 +354,7 @@ msgstr "&copy; 2013 SUSE, Inc. 保留一切权利。"
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE Conference crossing borders between communities"
-msgstr ""
+msgstr "openSUSE 峰会，沟通无界"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -363,6 +363,8 @@ msgid ""
 "in The Hague, Netherlands. We are working together to make this year's "
 "conference unforgettable, but we still need your help."
 msgstr ""
+"亲爱的贡献者、朋友们和粉丝：openSUSE 峰会将于 5 月 1 至 4 日于荷兰海牙召开。"
+"我们正共同努力使今年的峰会成为难忘的峰会，我们需要您的帮助。"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
@@ -371,6 +373,8 @@ msgid ""
 "To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
 "call-for-team-members/\">read here</a>."
 msgstr ""
+"参与 oSC15，帮助推进自由开源运动。参与请<a href=\"https://news.opensuse."
+"org/2014/12/22/osc-2015-call-for-team-members/\">阅读这里</a>。"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15
