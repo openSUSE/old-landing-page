@@ -1,0 +1,4 @@
+[submodule "searchPage"]
+	path = searchPage
+	url = https://github.com/opensuse/searchPage/
+	branch = gh-pages
