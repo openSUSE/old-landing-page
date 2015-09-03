@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2015-01-20 12:30+0100\n"
+"POT-Creation-Date: 2015-09-03 10:51-0300\n"
 "PO-Revision-Date: 2015-01-27 08:33-0200\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
@@ -365,26 +365,24 @@ msgstr "&copy; 2013 SUSE LLC. Todos os direitos reservados."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE Conference crossing borders between communities"
-msgstr "Conferência openSUSE cruzando fronteiras entre comunidades"
+msgid "openSUSE.Asia Summit 2015"
+msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
-"in The Hague, Netherlands. We are working together to make this year's "
-"conference unforgettable, but we still need your help."
+"Dear contributors, friends and fans: the openSUSE.Asia Summit is from Dec "
+"5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
+"sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
-"Caros contribuidores, amigos e fãs: a Conferência openSUSE será entre 1 e 4 "
-"de maio em Haia na Holanda. Estamos trabalhando juntos para tornar a "
-"conferência deste ano inesquecível, mas ainda precisamos de sua ajuda."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
+#, fuzzy
 msgid ""
-"Take part in oSC15 and help to advance the Free and Open Source movement.  "
-"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
-"call-for-team-members/\">read here</a>."
+"Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
+"Source movement.  To know more about the event, <a href=\"https://events."
+"opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
 "Faça parte da oSC15 e ajude a avançar o movimente do Software Livre e "
 "Aberto.  Para envolver-se, <a href=\"https://news.opensuse.org/2014/12/22/"
@@ -445,6 +443,18 @@ msgstr ""
 "contribuir. O que você fizer, tire um tempo para discutir o openSUSE com "
 "outros usuários e torna-se um membro ativo da comunidade openSUSE. <a href="
 "\"http://pt.opensuse.org/Como_Participar\">Gostaria de saber mais?</a>"
+
+#~ msgid "openSUSE Conference crossing borders between communities"
+#~ msgstr "Conferência openSUSE cruzando fronteiras entre comunidades"
+
+#~ msgid ""
+#~ "Dear contributors, friends and fans: the openSUSE Conference will be May "
+#~ "1-4 in The Hague, Netherlands. We are working together to make this "
+#~ "year's conference unforgettable, but we still need your help."
+#~ msgstr ""
+#~ "Caros contribuidores, amigos e fãs: a Conferência openSUSE será entre 1 e "
+#~ "4 de maio em Haia na Holanda. Estamos trabalhando juntos para tornar a "
+#~ "conferência deste ano inesquecível, mas ainda precisamos de sua ajuda."
 
 #~ msgid "openSUSE 13.2: green light to freedom!"
 #~ msgstr "openSUSE 13.2: luz verde para a liberdade!"

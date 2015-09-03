@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2015-01-20 12:30+0100\n"
+"POT-Creation-Date: 2015-09-03 10:51-0300\n"
 "PO-Revision-Date: 2015-02-01 12:15+0800\n"
 "Last-Translator: 玛格丽特 · 苏 <marguerite@opensuse.org>\n"
 "Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
@@ -353,25 +353,24 @@ msgstr "&copy; 2013 SUSE, Inc. 保留一切权利。"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE Conference crossing borders between communities"
-msgstr "openSUSE 峰会，沟通无界"
+msgid "openSUSE.Asia Summit 2015"
+msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
-"in The Hague, Netherlands. We are working together to make this year's "
-"conference unforgettable, but we still need your help."
+"Dear contributors, friends and fans: the openSUSE.Asia Summit is from Dec "
+"5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
+"sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
-"亲爱的贡献者、朋友们和粉丝：openSUSE 峰会将于 5 月 1 至 4 日于荷兰海牙召开。"
-"我们正共同努力使今年的峰会成为难忘的峰会，我们需要您的帮助。"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
+#, fuzzy
 msgid ""
-"Take part in oSC15 and help to advance the Free and Open Source movement.  "
-"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
-"call-for-team-members/\">read here</a>."
+"Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
+"Source movement.  To know more about the event, <a href=\"https://events."
+"opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
 "参与 oSC15，帮助推进自由开源运动。参与请<a href=\"https://news.opensuse."
 "org/2014/12/22/osc-2015-call-for-team-members/\">阅读这里</a>。"
@@ -427,6 +426,17 @@ msgstr ""
 "来出力。无论您从事什么工作，都可以花几分钟时间和其他用户讨论 openSUSE，做一个"
 "积极的 openSUSE 社员。<a href=\"http://zh.opensuse.org/Portal:如何參與\">心花"
 "怒放否？赶快抓起爪边的电脑，998 都不要哦！</a>"
+
+#~ msgid "openSUSE Conference crossing borders between communities"
+#~ msgstr "openSUSE 峰会，沟通无界"
+
+#~ msgid ""
+#~ "Dear contributors, friends and fans: the openSUSE Conference will be May "
+#~ "1-4 in The Hague, Netherlands. We are working together to make this "
+#~ "year's conference unforgettable, but we still need your help."
+#~ msgstr ""
+#~ "亲爱的贡献者、朋友们和粉丝：openSUSE 峰会将于 5 月 1 至 4 日于荷兰海牙召"
+#~ "开。我们正共同努力使今年的峰会成为难忘的峰会，我们需要您的帮助。"
 
 #~ msgid "openSUSE 13.2: green light to freedom!"
 #~ msgstr "openSUSE 13.2: 自由绿光!"

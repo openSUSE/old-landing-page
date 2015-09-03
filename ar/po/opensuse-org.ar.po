@@ -2,14 +2,15 @@
 # Mohammad Alhargan <malham1@hotmail.com>, 2012.
 # محمد الحرقان <malham1@gmail.com>, 2012, 2013.
 # malhargan <malham1@hotmail.com>, 2014.
+# malhargan <malham1@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2015-01-20 12:30+0100\n"
-"PO-Revision-Date: 2014-01-16 10:43+0300\n"
-"Last-Translator: malhargan <malham1@hotmail.com>\n"
-"Language-Team: فريق ترجمة إكسفيس\n"
+"POT-Creation-Date: 2015-09-03 10:51-0300\n"
+"PO-Revision-Date: 2015-05-21 09:21+0300\n"
+"Last-Translator: malhargan <malham1@gmail.com>\n"
+"Language-Team: سوزي\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -357,24 +358,28 @@ msgstr "2013 Novell, Inc. جميع الحقوق محفوظة."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE Conference crossing borders between communities"
+msgid "openSUSE.Asia Summit 2015"
 msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
-"in The Hague, Netherlands. We are working together to make this year's "
-"conference unforgettable, but we still need your help."
+"Dear contributors, friends and fans: the openSUSE.Asia Summit is from Dec "
+"5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
+"sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
+#, fuzzy
 msgid ""
-"Take part in oSC15 and help to advance the Free and Open Source movement.  "
-"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
-"call-for-team-members/\">read here</a>."
+"Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
+"Source movement.  To know more about the event, <a href=\"https://events."
+"opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
+"شارك في oSC15 وساعد على دفع الحركة الحرة والمفتوحة المصدر.  للحصول على "
+"المشاركة, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-call-for-"
+"team-members/\">قراءة هنا</a>."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15
@@ -430,6 +435,18 @@ msgstr ""
 "كنت تفعل، سيستغرق ذلك بضع دقائق منك لمناقشة أوبن سوزي مع مستخدمين آخرين "
 "لتصبح عضوا نشطاً في مجتمعات أوبن سوزي المحلية.  <a href=\"http://en.opensuse."
 "org/Portal:How_to_participate\">هل تريد معرفة المزيد؟</a>"
+
+#~ msgid "openSUSE Conference crossing borders between communities"
+#~ msgstr "عبور مؤتمر بين مجتمعات openSUSE"
+
+#~ msgid ""
+#~ "Dear contributors, friends and fans: the openSUSE Conference will be May "
+#~ "1-4 in The Hague, Netherlands. We are working together to make this "
+#~ "year's conference unforgettable, but we still need your help."
+#~ msgstr ""
+#~ "أعزائنا المساهمين وأصدقائنا والمهتمين: سيعقد مؤتمر openSUSE في الفترة من "
+#~ "01-04 مايو في لاهاي، هولندا. ونحن نعمل معا لجعل مؤتمر هذا العام مميزاً، "
+#~ "ولكن ما زلنا بحاجة لمساعدتكم."
 
 #~ msgid "openSUSE 13.1: Ready For Action!"
 #~ msgstr "أوبن سوزي 13.1: جاهزة للعمل!"
