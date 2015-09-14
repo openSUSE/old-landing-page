@@ -4,13 +4,13 @@
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
 # Ray Chen <swyear@opensuse.org>, 2012, 2013.
-# Ramax Lo <ramaxlo@gmail.com>, 2014.
+# Ramax Lo <ramaxlo@gmail.com>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-03 10:51-0300\n"
-"PO-Revision-Date: 2015-01-26 23:48+0800\n"
+"PO-Revision-Date: 2015-09-10 01:38+0800\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
@@ -357,7 +357,7 @@ msgstr "&copy; 2013 SUSE LLC. 版權所有。"
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE.Asia Summit 2015"
-msgstr ""
+msgstr "openSUSE.Asia Summit 2015"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -366,18 +366,20 @@ msgid ""
 "5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
 "sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
+"親愛的貢獻者、朋友和粉絲們：openSUSE.Asia Summit 將於 12 月 5 號到 6 號在台灣"
+"台北舉辦。openSUSE.Asia 團隊正在徵求講者、贊助者與參與者，來共同使這次的研討"
+"會令人難忘。"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
-#, fuzzy
 msgid ""
 "Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
 "Source movement.  To know more about the event, <a href=\"https://events."
 "opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
-"加入 oSC15 並協助讓自由及開放原始碼運動更加進步。請造訪<a href=\"https://"
-"news.opensuse.org/2014/12/22/osc-2015-call-for-team-members/\">這裡</a>以了解"
-"更多訊息。"
+"加入 openSUSE.Asia Summit 並協助讓自由及開放原始碼運動更加進步。請造訪<a "
+"href=\"https://events.opensuse.org/conference/summitasia15\">這裡</a>以了解更"
+"多訊息。"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15

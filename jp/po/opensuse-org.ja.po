@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-03 10:51-0300\n"
-"PO-Revision-Date: 2015-01-20 21:00+0900\n"
+"PO-Revision-Date: 2015-09-10 07:39+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
 "Language: ja\n"
@@ -360,7 +360,7 @@ msgstr "&copy; 2013 SUSE LLC. All Rights Reserved."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE.Asia Summit 2015"
-msgstr ""
+msgstr "openSUSE.Asia Summit 2015"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -369,19 +369,21 @@ msgid ""
 "5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
 "sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
+"貢献者、友人、そしてファンの皆さんへ: openSUSE.Asia Summit が台湾の台北に"
+"て、 12 月 5,6 日に開かれます。 openSUSE.Asia チームでは、このサミットを忘れ"
+"ることのできない体験とするため、発表者やスポンサー、そして参加者を募集してい"
+"ます。"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
-#, fuzzy
 msgid ""
 "Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
 "Source movement.  To know more about the event, <a href=\"https://events."
 "opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
-"フリー／オープンソースの活動をさらに広げるため、 openSUSE カンファレンス 15 "
-"にご参加いただき、ご支援をお願いいたします。参加方法などについて、詳しくは<a "
-"href=\"https://news.opensuse.org/2014/12/22/osc-2015-call-for-team-members/"
-"\">こちら (英語) をお読みください</a> 。"
+"openSUSE.Asia Summit に参加し、フリー／オープンソースの活動をご支援ください。"
+"イベントについて詳しくは、 <a href=\"https://events.opensuse.org/conference/"
+"summitasia15\">こちら</a> をお読みください。"
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15
@@ -440,16 +442,3 @@ msgstr ""
 "様々な方と対話されることをお勧めしています。さらに詳しい情報は、 <a href="
 "\"http://ja.opensuse.org/%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%97%E3%81%8B"
 "%E3%81%9F\">こちら</a> をお読みください。"
-
-#~ msgid "openSUSE Conference crossing borders between communities"
-#~ msgstr "コミュニティの壁を超えるための openSUSE カンファレンス"
-
-#~ msgid ""
-#~ "Dear contributors, friends and fans: the openSUSE Conference will be May "
-#~ "1-4 in The Hague, Netherlands. We are working together to make this "
-#~ "year's conference unforgettable, but we still need your help."
-#~ msgstr ""
-#~ "貢献者の皆様、そして利用者とファンの皆様へ: 5 月の 1 日から 4 日にかけて、"
-#~ "オランダはハーグにて openSUSE カンファレンスが開催されます。今年のカンファ"
-#~ "レンスが記憶に残るものになるよう鋭意作業中ですが、現在もなお人手が足りない"
-#~ "状況にあります。"

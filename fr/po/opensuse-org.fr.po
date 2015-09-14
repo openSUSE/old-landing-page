@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-09-03 10:51-0300\n"
-"PO-Revision-Date: 2015-01-20 13:40+0100\n"
+"PO-Revision-Date: 2015-09-09 14:48+0200\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@opensuse.org>\n"
 "Language-Team: French <opensuse-fr@opensuse.org>\n"
 "Language: fr\n"
@@ -364,7 +364,7 @@ msgstr "&copy; 2013 SUSE LLC. Tous droits réservés."
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
 msgid "openSUSE.Asia Summit 2015"
-msgstr ""
+msgstr "openSUSE.Asia Summit 2015"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
@@ -373,18 +373,22 @@ msgid ""
 "5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
 "sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
+"Chers contributeurs, amis et fans : l'openSUSE.Asia Summit se déroulera les "
+"5 et 6 décembre à Taipei, Taïwan. L'équipe d'openSUSE.Asia recherche des "
+"conférenciers, sponsors et visiteurs pour rendre le sommet une experience "
+"inoubliable."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
-#, fuzzy
 msgid ""
 "Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
 "Source movement.  To know more about the event, <a href=\"https://events."
 "opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
-"Prenez part à l'oSC15 et aidez à l'avancé du mouvement Libre et Open "
-"Source.  Pour s'investir, <a href=\"https://news.opensuse.org/2014/12/22/"
-"osc-2015-call-for-team-members/\">rendez-vous ici</a> (en anglais)."
+"Prenez part à l'openSUSE.Asia Summit et aidez nous à faire avancer le "
+"mouvement Libre et Open Source.  Pour en savoir plus sur l'évènement, <a "
+"href=\"https://events.opensuse.org/conference/summitasia15\">rendez-vous "
+"ici</a> (en anglais)."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15
