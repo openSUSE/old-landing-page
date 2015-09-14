@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2015-01-20 12:30+0100\n"
-"PO-Revision-Date: 2015-02-14 12:43+0100\n"
+"POT-Creation-Date: 2015-09-03 10:51-0300\n"
+"PO-Revision-Date: 2015-09-10 16:09+0200\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <opensuse-translation-sk@opensuse.org>\n"
 "Language: sk\n"
@@ -128,7 +128,7 @@ msgid ""
 msgstr ""
 "<a href=\"http://software.opensuse.org\"> <span class=\"top\">&nbsp;</span> "
 "<span class=\"buttontext\"> <strong>Získajte ho: </strong> Stiahnite "
-"openSUSE alebo nájsť ďalší softvér.  </span> <span class=\"bottom clear"
+"openSUSE alebo nájdite ďalší softvér.  </span> <span class=\"bottom clear"
 "\">&nbsp;</span> </a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
@@ -358,30 +358,31 @@ msgstr "&copy; 2013 SUSE LLC. Všetky práva vyhradené."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE Conference crossing borders between communities"
-msgstr "openSUSE Conference prekračuje hranice medzi komunitami"
+msgid "openSUSE.Asia Summit 2015"
+msgstr "openSUSE.Asia Summit 2015"
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
-"in The Hague, Netherlands. We are working together to make this year's "
-"conference unforgettable, but we still need your help."
+"Dear contributors, friends and fans: the openSUSE.Asia Summit is from Dec "
+"5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
+"sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
-"Vážení prispievatelia, priatelia a fanúšikovia: openSUSE Conference bude 1. "
-"- 4. mája v holandskom Haagu. Pracujeme spoločne, aby bola tohtoročná "
-"konferencia nezabudnuteľná, ale stále potrebujeme vašu pomoc."
+"Vážení prispievatelia, priatelia a fanúšikovia: openSUSE.Asia Summit bude 5. "
+"a 6. decembra v meste Tchaj-pej, Taiwan. Tím openSUSE.Asia tím hľadá "
+"prednášajúcich, sponzorov a návštevníkov, aby sa summit stal nezabudnuteľným "
+"zážitkom."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
 msgid ""
-"Take part in oSC15 and help to advance the Free and Open Source movement.  "
-"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
-"call-for-team-members/\">read here</a>."
+"Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
+"Source movement.  To know more about the event, <a href=\"https://events."
+"opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
-"Zúčastnite sa oSC15 a pomáhajte presadzovať Free and Open Source hnutie. Ak "
-"sa chcete zapojiť, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
-"call-for-team-members/\">tu si prečítajte</a>."
+"Zúčastnite sa stretnutia openSUSE.Asia Summit a pomôžte nám priblížiť Free "
+"and Open Source hnutie. Viac si o akcii <a href=\"https://events.opensuse."
+"org/conference/summitasia15\">prečítate tu</a>."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:15
@@ -426,7 +427,7 @@ msgid ""
 "the openSUSE communities.  <a href=\"http://en.opensuse.org/Portal:"
 "How_to_participate\">Would you like to know more?</a>"
 msgstr ""
-"Či už ste skúsený vývojár Linux alebo práve začínajúci koncový používateľ "
+"Či už ste skúsený linuxový vývojár alebo práve začínajúci koncový používateľ "
 "Linuxu existuje pre vás mnoho spôsobov, ako sa podieľať na projekte "
 "openSUSE. Pripojte sa k <a href=\"http://forums.opensuse.org/\">fóru</a>, "
 "aby ste získali pomoc alebo pomohli iným s openSUSE, nájdite a <a href="

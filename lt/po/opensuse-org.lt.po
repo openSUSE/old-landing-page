@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 12:30+0100\n"
+"POT-Creation-Date: 2015-09-03 10:51-0300\n"
 "PO-Revision-Date: 2015-01-21 11:36+0200\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
@@ -366,26 +366,24 @@ msgstr "&copy; 2013 SUSE LLC. Visos teisės saugomos."
 
 #. type: Content of: <h2>
 #: en/whats_hot.html:1
-msgid "openSUSE Conference crossing borders between communities"
-msgstr "openSUSE konferencija vienija žmones"
+msgid "openSUSE.Asia Summit 2015"
+msgstr ""
 
 #. type: Content of: <p>
 #: en/whats_hot.html:4
 msgid ""
-"Dear contributors, friends and fans: the openSUSE Conference will be May 1-4 "
-"in The Hague, Netherlands. We are working together to make this year's "
-"conference unforgettable, but we still need your help."
+"Dear contributors, friends and fans: the openSUSE.Asia Summit is from Dec "
+"5-6 in Taipei, Taiwan. The openSUSE.Asia team is looking for speakers, "
+"sponsors and visitors to make the summit an unforgettable experience."
 msgstr ""
-"Mieli talkininkai, draugai ir mėgėjai, openSUSE konferencija vyks gegužės "
-"1-4 dienomis Hagoje, Olandijoje. Stengėmės visi, kad šių metų konferencija "
-"būtų įsimintina ilgam, tačiau mums vis dar reikia tavo pagalbos."
 
 #. type: Content of: <p>
 #: en/whats_hot.html:8
+#, fuzzy
 msgid ""
-"Take part in oSC15 and help to advance the Free and Open Source movement.  "
-"To get involved, <a href=\"https://news.opensuse.org/2014/12/22/osc-2015-"
-"call-for-team-members/\">read here</a>."
+"Take part in the openSUSE.Asia Summit and help us advance the Free and Open "
+"Source movement.  To know more about the event, <a href=\"https://events."
+"opensuse.org/conference/summitasia15\">read here</a>."
 msgstr ""
 "Dalyvauk oSC15 ir prisidėk prie Atviro Kodo judėjimo.  Daugiau informacijos "
 "<a href=\"https://news.opensuse.org/2014/12/22/osc-2015-call-for-team-"
@@ -447,6 +445,19 @@ msgstr ""
 "naudotojais apie openSUSE ir tapkite aktyviu openSUSE bendruomenės nariu. "
 "Norite <a href=\"http://en.opensuse.org/Portal:How_to_participate\">sužinoti "
 "daugiau</a>?"
+
+#~ msgid "openSUSE Conference crossing borders between communities"
+#~ msgstr "openSUSE konferencija vienija žmones"
+
+#~ msgid ""
+#~ "Dear contributors, friends and fans: the openSUSE Conference will be May "
+#~ "1-4 in The Hague, Netherlands. We are working together to make this "
+#~ "year's conference unforgettable, but we still need your help."
+#~ msgstr ""
+#~ "Mieli talkininkai, draugai ir mėgėjai, openSUSE konferencija vyks gegužės "
+#~ "1-4 dienomis Hagoje, Olandijoje. Stengėmės visi, kad šių metų "
+#~ "konferencija būtų įsimintina ilgam, tačiau mums vis dar reikia tavo "
+#~ "pagalbos."
 
 #~ msgid "openSUSE 13.1: Ready For Action!"
 #~ msgstr "openSUSE 13.1 pasirengusi veikti!"
