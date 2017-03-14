@@ -2,10 +2,10 @@ html, body{margin:0px;padding:0px;color:#444;background-color:white;font-family:
 h1, h2, h3{font-family:Arial,sans-serif;}
 h1{float:left;width:255px;height:255px;background-image:url(//counter.opensuse.org/medium);margin:22px 0px 10px 0px;}
 h1 span{display:none;}
-h2{margin:0px 0px 20px;color:#669900;}
+h2{margin:0px 0px 20px;color:#003742;}
 h3{font-size:1em;}
 hr{height:0px;color:white;border-top:1px dotted #999;margin:25px 0px 20px;}
-a{color:#669900;}
+a{color:#179679;}
 img{border:0px;}
 #background{background-color:#eee;clear:both;margin:40px 0px 0px;padding:20px 0px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;}
 #search{height:40px;background-color:#e0e0e0;background-image:url(../images/frontpage/box_search.png);background-position:bottom left;}
@@ -30,7 +30,7 @@ img{border:0px;}
 #intro{clear:right;}
 #intro p{margin:0px;font-size:1.05em;clear:both;}
 #intro p.first{margin:0px 0px 10px;padding:5px 0px 0px;}
-#intro strong{color:#669900;}
+#intro strong{color:#003742;}
 #quicklinks{float:right;margin:20px 0px 0px;padding:0px;list-style:none;}
 #quicklinks li{display:block;margin-bottom:21px;}
 #quicklinks li a{display:block;width:455px;color:white;font-size:0.8em;text-decoration:none;background-image:url(../images/frontpage/box_border_middle.png);background-repeat:repeat-y;}
@@ -39,14 +39,14 @@ img{border:0px;}
 #quicklinks li a span.bottom{background-image:url(../images/frontpage/box_border_bottom.png);}
 #quicklinks li a span.buttontext{display:block;float:left;padding:40px 20px 15px 210px;background-position:10px 0px;background-repeat:no-repeat;}
 #quicklinks li a strong{display:none;}
-#quicklinks #get a{background-color:#f08c0e;}
-#quicklinks #get a:hover{background-color:#f0a54a;}
+#quicklinks #get a{background-color:#003742;}
+#quicklinks #get a:hover{background-color:#004557;}
 #quicklinks #get .buttontext{background-image:url(../images/frontpage/box_content_get.png);}
-#quicklinks #discover a{background-color:#669900;}
-#quicklinks #discover a:hover{background-color:#89b337;}
+#quicklinks #discover a{background-color:#65b244;}
+#quicklinks #discover a:hover{background-color:#6fc44b;}
 #quicklinks #discover .buttontext{background-image:url(../images/frontpage/box_content_discover.png);}
-#quicklinks #create a{background-color:#5d666e;}
-#quicklinks #create a:hover{background-color:#77828c;}
+#quicklinks #create a{background-color:#179679;}
+#quicklinks #create a:hover{background-color:#19a686;}
 #quicklinks #create .buttontext{background-image:url(../images/frontpage/box_content_create.png);}
 #screenshots{display:none;}
 #screenshots h2{position:relative;top:30px;}
