@@ -39,8 +39,8 @@ img{border:0px;}
 #quicklinks li a span.bottom{background-image:url(../images/frontpage/box_border_bottom.png);}
 #quicklinks li a span.buttontext{display:block;float:left;padding:40px 20px 15px 210px;background-position:10px 0px;background-repeat:no-repeat;}
 #quicklinks li a strong{display:none;}
-#quicklinks #get a{background-color:#f08c0e;}
-#quicklinks #get a:hover{background-color:#f0a54a;}
+#quicklinks #get a{background-color:#669900;}
+#quicklinks #get a:hover{background-color:#89b337;}
 #quicklinks #get .buttontext{background-image:url(../images/frontpage/box_content_get.png);}
 #quicklinks #discover a{background-color:#669900;}
 #quicklinks #discover a:hover{background-color:#89b337;}
